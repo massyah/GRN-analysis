@@ -18,10 +18,12 @@ pubmed_files=[]
 model_name="th17.ginml"
 
 from IPython.Debugger import Tracer; debug_here = Tracer()
-17
+
+
+import omg_interface as omg
 
 global allPublications, allSentences, allTerms, allTermsRe, allPredicates, uid, sentencesUid, evidencesUid, pubmedIdTopub, nxG,cmd
-print "default values"
+
 allPublications={}
 allSentences=[]
 allTerms={}
@@ -122,28 +124,28 @@ def reduce_focal_table(ft):
 	return newRows
 
 def parse_focal(gene,txt):
-	global nxG
-	lines=txt.split("\n")
+	global nxG,focalParams
+	lines=[x for x in txt.split("\n") if len(x.strip())>0]
 	focal={}
+	
+	if type(gene)==Term:
+		gene=gene.name
+	
 	#fill with zero values
-	influencing=nxG.predecessors(gene)
-	influencing.sort()
-	possible_input=domain_for_vars(*influencing)
+	input_vars=lines[0].strip().split("\t")[:-1]
+	var_idx=dict(zip(input_vars,range(len(input_vars))))
+	idx_var=lines[0].split("\t")
+
+	possible_input=domain_for_vars(*input_vars)
 	for v in possible_input:
-		focal[tuple(zip(influencing,v))]=0
-	focal[tuple(zip(influencing,[0]*len(influencing)))]=base_value(gene)
-	focalTxt=""
-	for l in lines:
-		l=l.strip()
-		if len(l)<1:
-			continue
+		focal[tuple(zip(input_vars,v))]=0
 		
+	focal[tuple(zip(input_vars,[0]*len(input_vars)))]=base_value(gene)
+
+	focalTxt=""
+	for l in lines[1:]:
+		l=l.strip()
 		row={}
-		if l[0].isalpha():
-			vars=l.split("\t")
-			var_idx=dict(zip(vars,range(len(vars))))
-			idx_var=l.split("\t")
-			continue
 		vals=l.split("\t")
 		edge_id=[]
 		for i in range(len(vals)-1):
@@ -159,19 +161,21 @@ def parse_focal(gene,txt):
 		row=row.items()
 		row.sort()
 		focal[tuple(row)]=int(vals[-1])
-	return (focal,focalTxt)
+	focalParams[gene]=(focal,focalTxt)
 
 
 
 
 def no_activator(tgt):
-	return parse_focal(tgt,"""
-	K
-	0
+	parse_focal(tgt,"""
+K
+0
 	""")
 
 def one_activator(tgt,activator):
-	return parse_focal(tgt,"""
+	if type(activator)==Term:
+		activator=activator.name
+	parse_focal(tgt,"""
 %s	K
 1	1
 """%(activator))
@@ -279,8 +283,17 @@ def verify_missing_focals():
 	global nxG
 	for gene in nxG.nodes():
 		assert gene in focalParams
+		for pred in nxG.predecessors(gene):
+			for row in focalParams[gene][0]:
+				inputs=[x[0] for x in row]
+				assert pred in inputs
 
-build_nx_graph(onlyPositive=False)
+def verify_missing_edges():
+	for k,v in focalParams.items():
+		for row in v[0]:
+			inputs=[x[0] for x in row]
+			for i in inputs:
+				assert nxG.has_edge(i,k),"Graph has no edge between %s and %s"%(i,k)
 
 #visual defs, extracted with extractNodePos.py
 def ginSimNames(n):
@@ -297,27 +310,26 @@ edgePositions={}
 #model definition & ginSim parameters
 #from x-devonthink-item://207FB4BC-D2A1-4A52-A078-1086720A918F
 focalParams={}
+build_nx_graph(onlyPositive=False)
 
 
 SignalingAxis([il_6,il_6r,jak2_jak1,stat3])
-build_nx_graph(onlyPositive=False)
-focalParams[il_6.name]=no_activator(il_6.name)
-focalParams[il_6r.name]=one_activator(il_6r.name,il_6.name)
-focalParams[jak2_jak1.name]=one_activator(jak2_jak1.name,il_6r.name)
+
+no_activator(il_6)
+one_activator(il_6r,il_6)
+one_activator(jak2_jak1,il_6r)
 
 #il 21 axis
-axis=[il_21,il_21r,jak1_jak3,stat3]
-SignalingAxis(axis)
+SignalingAxis([il_21,il_21r,jak1_jak3,stat3])
 Activates(stat3,il_21)
-build_nx_graph(onlyPositive=False)
 
-focalParams[il_21.name]=one_activator(il_21.name,stat3.name)
-focalParams[il_21r.name]=one_activator(il_21r.name,il_21.name)
-focalParams[jak1_jak3.name]=one_activator(jak1_jak3.name,il_21r.name)
+one_activator(il_21,stat3)
+one_activator(il_21r,il_21)
+one_activator(jak1_jak3,il_21r)
 
 
 #they both activate stat3
-focalParams[stat3.name]=parse_focal(stat3.name,"""
+parse_focal(stat3,"""
 Jak1-Jak3	Jak2-Jak1	K
 0	0	0
 0	1	1
@@ -330,8 +342,7 @@ Jak1-Jak3	Jak2-Jak1	K
 
 Activates(stat3, rorgt)
 Inhibits(foxp3, rorgt)
-build_nx_graph(onlyPositive=False)
-focalParams[rorgt.name]=parse_focal(rorgt.name,"""
+parse_focal(rorgt,"""
 FOXP3	STAT-3	K
 0	0	0
 0	1	1
@@ -340,19 +351,18 @@ FOXP3	STAT-3	K
 """)
 
 Activates(tgfb, foxp3)
-build_nx_graph(onlyPositive=False)
-focalParams[foxp3.name]=one_activator(foxp3.name,tgfb.name)
+one_activator(foxp3,tgfb)
 
 
 Activates(rorgt, il_17)
+one_activator(il_17,rorgt)
+
+no_activator(tgfb)
 build_nx_graph(onlyPositive=False)
-focalParams[il_17.name]=one_activator(il_17.name,rorgt.name)
-
-focalParams[tgfb.name]=no_activator(tgfb.name)
-
 
 
 verify_missing_focals()
+verify_missing_edges()
 
 import fuse_tables as ft
 
@@ -365,8 +375,8 @@ genes=nxG.nodes()
 for x in genes:
 	rft[x]=reduce_focal_table(focalTable[x])
 
-print rft
-print ft.compute_sstate(rft,{})
+tables=ft.compute_sstate(rft,{})
+ft.print_st_states(tables[0])
 
 #minimal req: 3 steady states, RORgt+,IL17+; Th0; Foxp3+
 #for this, I need positive feedback loops
