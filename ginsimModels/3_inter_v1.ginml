@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://gin.univ-mrs.fr/GINsim/GINML_2_1.dtd">
+<gxl xmlns:xlink="http://www.w3.org/1999/xlink">
+	<graph id="default_name" class="regulatory" nodeorder="STAT1 Tbet SOCS1">
+<node id="Tbet" name="Tbet" basevalue="0" maxvalue="2">
+			<nodevisualsetting>
+				<rect x="146" y="316" width="75" height="30" backgroundColor="#FFCCCC" foregroundColor="#000000"/>
+			</nodevisualsetting>
+</node>
+<node id="STAT1" name="STAT1" basevalue="0" maxvalue="2">
+			<nodevisualsetting>
+				<rect x="142" y="227" width="75" height="30" backgroundColor="#99FF99" foregroundColor="#000000"/>
+			</nodevisualsetting>
+</node>
+<node id="SOCS1" name="SOCS1" basevalue="0" maxvalue="1">
+  <parameter idActiveInteractions="Tbet_SOCS1_0" val="1"/>
+  <parameter idActiveInteractions="STAT1_SOCS1_0" val="1"/>
+  <parameter idActiveInteractions="Tbet_SOCS1_0 STAT1_SOCS1_0" val="1"/>
+
+			<nodevisualsetting>
+				<ellipse x="13" y="226" width="75" height="30" backgroundColor="#99FF99" foregroundColor="#000000"/>
+			</nodevisualsetting>
+</node>
+		<edge id="Tbet_SOCS1_0" from="Tbet" to="SOCS1" minvalue="1" sign="positive">
+			<edgevisualsetting>
+				<polyline points="183,331 49,342 50,241" line_style="straight" line_color="#009900" line_width="2" routage="auto"/>
+			</edgevisualsetting>
+		</edge>
+		<edge id="STAT1_SOCS1_0" from="STAT1" to="SOCS1" minvalue="1" sign="positive">
+			<edgevisualsetting>
+				<polyline points="179,242 120,241 50,241" line_style="straight" line_color="#009900" line_width="2" routage="manual"/>
+			</edgevisualsetting>
+		</edge>
+	</graph>
+</gxl>

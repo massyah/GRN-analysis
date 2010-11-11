@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://gin.univ-mrs.fr/GINsim/GINML_2_1.dtd">
+<gxl xmlns:xlink="http://www.w3.org/1999/xlink">
+	<graph id="default_name" class="regulatory" nodeorder="IL18 STAT6 STAT4 SOCS1 IL4R STAT1 IRAK IFNg IL12 IFNbR IFNb IL12R IL4 IFNgR Tbet IL18R GATA3">
+	<node id="IL18" name="IL18" basevalue="0" maxvalue="1">
+
+</node>
+<node id="STAT6" name="STAT6" basevalue="0" maxvalue="1">
+<parameter idActiveInteractions="IL4R_STAT6" val="1"/>
+</node>
+<node id="STAT4" name="STAT4" basevalue="0" maxvalue="1">
+<parameter idActiveInteractions="IL12R_STAT4" val="1"/><parameter idActiveInteractions="GATA3_STAT4" val="0"/>
+</node>
+<node id="SOCS1" name="SOCS1" basevalue="0" maxvalue="1">
+<parameter idActiveInteractions="Tbet_SOCS1" val="1"/><parameter idActiveInteractions="STAT1_SOCS1" val="1"/>
+</node>
+<node id="IL4R" name="IL4R" basevalue="0" maxvalue="1">
+<parameter idActiveInteractions="IL4_IL4R" val="1"/><parameter idActiveInteractions="SOCS1_IL4R" val="0"/>
+</node>
+<node id="STAT1" name="STAT1" basevalue="0" maxvalue="2">
+<parameter idActiveInteractions="IFNgR_STAT1" val="1"/><parameter idActiveInteractions="IFNbR_STAT1" val="1"/>
+</node>
+<node id="IRAK" name="IRAK" basevalue="0" maxvalue="1">
+<parameter idActiveInteractions="IL18R_IRAK" val="1"/>
+</node>
+<node id="IFNg" name="IFNg" basevalue="0" maxvalue="2">
+<parameter idActiveInteractions="IRAK_IFNg" val="1"/><parameter idActiveInteractions="STAT4_IFNg" val="1"/><parameter idActiveInteractions="Tbet_IFNg" val="1"/>
+</node>
+<node id="IL12" name="IL12" basevalue="0" maxvalue="1">
+
+</node>
+<node id="IFNbR" name="IFNbR" basevalue="0" maxvalue="1">
+<parameter idActiveInteractions="IFNb_IFNbR" val="1"/>
+</node>
+<node id="IFNb" name="IFNb" basevalue="0" maxvalue="1">
+
+</node>
+<node id="IL12R" name="IL12R" basevalue="0" maxvalue="1">
+<parameter idActiveInteractions="STAT6_IL12R" val="0"/><parameter idActiveInteractions="IL12_IL12R" val="1"/>
+</node>
+<node id="IL4" name="IL4" basevalue="0" maxvalue="1">
+<parameter idActiveInteractions="GATA3_IL4" val="1"/><parameter idActiveInteractions="STAT1_IL4" val="0"/>
+</node>
+<node id="IFNgR" name="IFNgR" basevalue="0" maxvalue="2">
+<parameter idActiveInteractions="IFNg_IFNgR" val="1"/><parameter idActiveInteractions="SOCS1_IFNgR" val="0"/>
+</node>
+<node id="Tbet" name="Tbet" basevalue="0" maxvalue="2">
+<parameter idActiveInteractions="Tbet_Tbet" val="1"/><parameter idActiveInteractions="STAT1_Tbet" val="1"/><parameter idActiveInteractions="GATA3_Tbet" val="0"/>
+</node>
+<node id="IL18R" name="IL18R" basevalue="0" maxvalue="1">
+<parameter idActiveInteractions="IL18_IL18R" val="1"/><parameter idActiveInteractions="STAT6_IL18R" val="0"/>
+</node>
+<node id="GATA3" name="GATA3" basevalue="0" maxvalue="1">
+<parameter idActiveInteractions="STAT6_GATA3" val="1"/><parameter idActiveInteractions="GATA3_GATA3" val="1"/><parameter idActiveInteractions="Tbet_GATA3" val="0"/>
+</node>
+
+	<edge id="IL18_IL18R" from="IL18" to="IL18R" minvalue="1" sign="positive">
+</edge>
+<edge id="STAT6_IL18R" from="STAT6" to="IL18R" minvalue="1" sign="negative">
+</edge>
+<edge id="STAT6_GATA3" from="STAT6" to="GATA3" minvalue="1" sign="positive">
+</edge>
+<edge id="STAT6_IL12R" from="STAT6" to="IL12R" minvalue="1" sign="negative">
+</edge>
+<edge id="STAT4_IFNg" from="STAT4" to="IFNg" minvalue="1" sign="positive">
+</edge>
+<edge id="SOCS1_IFNgR" from="SOCS1" to="IFNgR" minvalue="1" sign="negative">
+</edge>
+<edge id="SOCS1_IL4R" from="SOCS1" to="IL4R" minvalue="1" sign="negative">
+</edge>
+<edge id="IL4R_STAT6" from="IL4R" to="STAT6" minvalue="1" sign="positive">
+</edge>
+<edge id="STAT1_IL4" from="STAT1" to="IL4" minvalue="1" sign="negative">
+</edge>
+<edge id="STAT1_SOCS1" from="STAT1" to="SOCS1" minvalue="1" sign="positive">
+</edge>
+<edge id="STAT1_Tbet" from="STAT1" to="Tbet" minvalue="1" sign="positive">
+</edge>
+<edge id="IRAK_IFNg" from="IRAK" to="IFNg" minvalue="1" sign="positive">
+</edge>
+<edge id="IFNg_IFNgR" from="IFNg" to="IFNgR" minvalue="1" sign="positive">
+</edge>
+<edge id="IL12_IL12R" from="IL12" to="IL12R" minvalue="1" sign="positive">
+</edge>
+<edge id="IFNbR_STAT1" from="IFNbR" to="STAT1" minvalue="1" sign="positive">
+</edge>
+<edge id="IFNb_IFNbR" from="IFNb" to="IFNbR" minvalue="1" sign="positive">
+</edge>
+<edge id="IL12R_STAT4" from="IL12R" to="STAT4" minvalue="1" sign="positive">
+</edge>
+<edge id="IL4_IL4R" from="IL4" to="IL4R" minvalue="1" sign="positive">
+</edge>
+<edge id="IFNgR_STAT1" from="IFNgR" to="STAT1" minvalue="1" sign="positive">
+</edge>
+<edge id="Tbet_IFNg" from="Tbet" to="IFNg" minvalue="1" sign="positive">
+</edge>
+<edge id="Tbet_SOCS1" from="Tbet" to="SOCS1" minvalue="1" sign="positive">
+</edge>
+<edge id="Tbet_Tbet" from="Tbet" to="Tbet" minvalue="1" sign="positive">
+</edge>
+<edge id="Tbet_GATA3" from="Tbet" to="GATA3" minvalue="1" sign="negative">
+</edge>
+<edge id="IL18R_IRAK" from="IL18R" to="IRAK" minvalue="1" sign="positive">
+</edge>
+<edge id="GATA3_IL4" from="GATA3" to="IL4" minvalue="1" sign="positive">
+</edge>
+<edge id="GATA3_STAT4" from="GATA3" to="STAT4" minvalue="1" sign="negative">
+</edge>
+<edge id="GATA3_GATA3" from="GATA3" to="GATA3" minvalue="1" sign="positive">
+</edge>
+<edge id="GATA3_Tbet" from="GATA3" to="Tbet" minvalue="1" sign="negative">
+</edge>
+
+	</graph>
+	</gxl>

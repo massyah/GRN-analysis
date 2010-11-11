@@ -1,0 +1,84 @@
+PMID- 18053739
+OWN - NLM
+STAT- MEDLINE
+DA  - 20080226
+DCOM- 20080708
+LR  - 20091119
+IS  - 1044-5323 (Print)
+IS  - 1044-5323 (Linking)
+VI  - 19
+IP  - 6
+DP  - 2007 Dec
+TI  - Transcriptional regulation of Th17 cell differentiation.
+PG  - 409-17
+AB  - The paradigm of effector T helper cell differentiation into either Th1 or Th2
+      lineages has been profoundly shaken by the discovery of T cells that secrete
+      IL-17 and other inflammatory cytokines. This subset, referred to as Th17, is
+      centrally involved in autoimmune disease and is important in host defense at
+      mucosal surfaces. In mouse, a series of cytokines, including IL-6, IL-21, IL-23, 
+      and TGF-beta, function sequentially or synergistically to induce the Th17
+      lineage. Other cytokines, including IL-2, IL-4, IFNgamma, and IL-27, inhibit
+      differentiation of this lineage. Here we review how the nuclear orphan receptor
+      RORgammat functions to coordinate the diverse cytokine-induced signals and thus
+      controls Th17 cell differentiation.
+AD  - The Kimmel Center for Biology and Medicine at the Skirball Institute of
+      Biomolecular Medicine, New York University School of Medicine and New York, NY
+      10016, United States.
+FAU - Ivanov, Ivaylo I
+AU  - Ivanov II
+FAU - Zhou, Liang
+AU  - Zhou L
+FAU - Littman, Dan R
+AU  - Littman DR
+LA  - eng
+GR  - R01 AI033856-14/AI/NIAID NIH HHS/United States
+GR  - Howard Hughes Medical Institute/United States
+GR  - Howard Hughes Medical Institute/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20071128
+PL  - England
+TA  - Semin Immunol
+JT  - Seminars in immunology
+JID - 9009458
+RN  - 0 (Cytokines)
+RN  - 0 (Forkhead Transcription Factors)
+RN  - 0 (Interferon Regulatory Factors)
+RN  - 0 (Interleukin-17)
+RN  - 0 (Nuclear Receptor Subfamily 1, Group F, Member 3)
+RN  - 0 (RORC protein, human)
+RN  - 0 (Receptors, Retinoic Acid)
+RN  - 0 (Receptors, Thyroid Hormone)
+RN  - 0 (Rorc protein, mouse)
+RN  - 0 (interferon regulatory factor-4)
+SB  - IM
+MH  - Animals
+MH  - Cell Differentiation
+MH  - Cytokines/immunology/*metabolism
+MH  - Forkhead Transcription Factors/*metabolism
+MH  - Humans
+MH  - Interferon Regulatory Factors/*metabolism
+MH  - Interleukin-17/immunology/*metabolism
+MH  - Nuclear Receptor Subfamily 1, Group F, Member 3
+MH  - Receptors, Retinoic Acid/*metabolism
+MH  - Receptors, Thyroid Hormone/*metabolism
+MH  - T-Lymphocyte Subsets/cytology/immunology/metabolism
+MH  - T-Lymphocytes, Helper-Inducer/cytology/immunology/*metabolism
+MH  - Transcription, Genetic
+RF  - 68
+PMC - PMC2696342
+MID - HHMIMS43399
+OID - NLM: HHMIMS43399
+OID - NLM: PMC2696342
+EDAT- 2007/12/07 09:00
+MHDA- 2008/07/09 09:00
+CRDT- 2007/12/07 09:00
+PHST- 2007/10/10 [received]
+PHST- 2007/10/17 [accepted]
+PHST- 2007/11/28 [aheadofprint]
+AID - S1044-5323(07)00088-7 [pii]
+AID - 10.1016/j.smim.2007.10.011 [doi]
+PST - ppublish
+SO  - Semin Immunol. 2007 Dec;19(6):409-17. Epub 2007 Nov 28.

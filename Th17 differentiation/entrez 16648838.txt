@@ -1,0 +1,93 @@
+PMID- 16648838
+OWN - NLM
+STAT- MEDLINE
+DA  - 20060511
+DCOM- 20060608
+LR  - 20061115
+IS  - 1476-4687 (Electronic)
+IS  - 0028-0836 (Linking)
+VI  - 441
+IP  - 7090
+DP  - 2006 May 11
+TI  - Reciprocal developmental pathways for the generation of pathogenic effector TH17 
+      and regulatory T cells.
+PG  - 235-8
+AB  - On activation, T cells undergo distinct developmental pathways, attaining
+      specialized properties and effector functions. T-helper (T(H)) cells are
+      traditionally thought to differentiate into T(H)1 and T(H)2 cell subsets. T(H)1
+      cells are necessary to clear intracellular pathogens and T(H)2 cells are
+      important for clearing extracellular organisms. Recently, a subset of interleukin
+      (IL)-17-producing T (T(H)17) cells distinct from T(H)1 or T(H)2 cells has been
+      described and shown to have a crucial role in the induction of autoimmune tissue 
+      injury. In contrast, CD4+CD25+Foxp3+ regulatory T (T(reg)) cells inhibit
+      autoimmunity and protect against tissue injury. Transforming growth factor-beta
+      (TGF-beta) is a critical differentiation factor for the generation of T(reg)
+      cells. Here we show, using mice with a reporter introduced into the endogenous
+      Foxp3 locus, that IL-6, an acute phase protein induced during inflammation,
+      completely inhibits the generation of Foxp3+ T(reg) cells induced by TGF-beta. We
+      also demonstrate that IL-23 is not the differentiation factor for the generation 
+      of T(H)17 cells. Instead, IL-6 and TGF-beta together induce the differentiation
+      of pathogenic T(H)17 cells from naive T cells. Our data demonstrate a dichotomy
+      in the generation of pathogenic (T(H)17) T cells that induce autoimmunity and
+      regulatory (Foxp3+) T cells that inhibit autoimmune tissue injury.
+AD  - Center for Neurologic Diseases, Beth Israel Hospital, Harvard Medical School, 77 
+      Avenue Louis Pasteur, Boston, Massachusetts 02115, USA.
+FAU - Bettelli, Estelle
+AU  - Bettelli E
+FAU - Carrier, Yijun
+AU  - Carrier Y
+FAU - Gao, Wenda
+AU  - Gao W
+FAU - Korn, Thomas
+AU  - Korn T
+FAU - Strom, Terry B
+AU  - Strom TB
+FAU - Oukka, Mohamed
+AU  - Oukka M
+FAU - Weiner, Howard L
+AU  - Weiner HL
+FAU - Kuchroo, Vijay K
+AU  - Kuchroo VK
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20060430
+PL  - England
+TA  - Nature
+JT  - Nature
+JID - 0410462
+RN  - 0 (Antigens, CD4)
+RN  - 0 (Cytokines)
+RN  - 0 (Forkhead Transcription Factors)
+RN  - 0 (Foxp3 protein, mouse)
+RN  - 0 (Interleukin-17)
+RN  - 0 (Interleukin-6)
+RN  - 0 (Receptors, Interleukin-2)
+RN  - 0 (Transforming Growth Factor beta)
+SB  - IM
+CIN - Nature. 2006 May 11;441(7090):166-8. PMID: 16688162
+MH  - Animals
+MH  - Antigens, CD4/metabolism
+MH  - Autoimmunity/immunology
+MH  - *Cell Differentiation/drug effects
+MH  - Central Nervous System/immunology/metabolism
+MH  - Cytokines/immunology/*metabolism
+MH  - Forkhead Transcription Factors/metabolism
+MH  - Interleukin-17/biosynthesis/*metabolism
+MH  - Interleukin-6/immunology/metabolism
+MH  - Mice
+MH  - Receptors, Interleukin-2/metabolism
+MH  - Th1 Cells/*cytology/drug effects/*immunology/metabolism
+MH  - Th2 Cells/*cytology/drug effects/*immunology/metabolism
+MH  - Transforming Growth Factor beta/metabolism
+EDAT- 2006/05/02 09:00
+MHDA- 2006/06/09 09:00
+CRDT- 2006/05/02 09:00
+PHST- 2006/02/02 [received]
+PHST- 2006/03/30 [accepted]
+PHST- 2006/04/30 [aheadofprint]
+AID - nature04753 [pii]
+AID - 10.1038/nature04753 [doi]
+PST - ppublish
+SO  - Nature. 2006 May 11;441(7090):235-8. Epub 2006 Apr 30.

@@ -1,0 +1,1070 @@
+PMID- 20696842
+OWN - NLM
+STAT- In-Process
+DA  - 20100923
+IS  - 1098-5549 (Electronic)
+IS  - 0270-7306 (Linking)
+VI  - 30
+IP  - 20
+DP  - 2010 Oct
+TI  - CD69 association with Jak3/Stat5 proteins regulates Th17 cell
+      differentiation.
+PG  - 4877-89
+AB  - T-cell differentiation involves the early decision to commit to a
+      particular pattern of response to an antigen. Here, we show that the
+      leukocyte activation antigen CD69 limits differentiation into
+      proinflammatory helper T cells (Th17 cells). Upon antigen stimulation in
+      vitro, CD4(+) T cells from CD69-deficient mice generate an expansion of
+      Th17 cells and the induction of greater mRNA expression of interleukin 17
+      (IL-17), IL 23 receptor (IL-23R), and the nuclear receptor retinoic
+      acid-related orphan receptor gammat (RORgammat). In vivo studies with
+      CD69-deficient mice bearing OTII T-cell receptors (TCRs) specific for OVA
+      peptide showed a high proportion of antigen-specific Th17 subpopulation in
+      the draining lymph nodes, as well as in CD69-deficient mice immunized with
+      type II collagen. Biochemical analysis demonstrated that the CD69
+      cytoplasmic tail associates with the Jak3/Stat5 signaling pathway, which
+      regulates the transcription of RORgammat and, consequently,
+      differentiation toward the Th17 lineage. Functional experiments in Th17
+      cultures demonstrated that the selective inhibition of Jak3 activation
+      enhanced the transcription of RORgammat. Moreover, the addition of
+      exogenous IL-2 restored Stat5 phosphorylation and inhibited the enhanced
+      Th17 differentiation in CD69-deficient cells. These results support the
+      early activation receptor CD69 as an intrinsic modulator of the T-cell
+      differentiation program that conditions immune inflammatory processes.
+AD  - Department of Vascular Biology and Inflammation, Fundacion Centro Nacional
+      de Investigaciones Cardiovasculares Carlos III (CNIC), Madrid, Spain.
+FAU - Martin, Pilar
+AU  - Martin P
+FAU - Gomez, Manuel
+AU  - Gomez M
+FAU - Lamana, Amalia
+AU  - Lamana A
+FAU - Cruz-Adalia, Arantxa
+AU  - Cruz-Adalia A
+FAU - Ramirez-Huesca, Marta
+AU  - Ramirez-Huesca M
+FAU - Ursa, Maria Angeles
+AU  - Ursa MA
+FAU - Yanez-Mo, Maria
+AU  - Yanez-Mo M
+FAU - Sanchez-Madrid, Francisco
+AU  - Sanchez-Madrid F
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20100809
+PL  - United States
+TA  - Mol Cell Biol
+JT  - Molecular and cellular biology
+JID - 8109087
+SB  - IM
+EDAT- 2010/08/11 06:00
+MHDA- 2010/08/11 06:00
+CRDT- 2010/08/11 06:00
+PHST- 2010/08/09 [aheadofprint]
+AID - MCB.00456-10 [pii]
+AID - 10.1128/MCB.00456-10 [doi]
+PST - ppublish
+SO  - Mol Cell Biol. 2010 Oct;30(20):4877-89. Epub 2010 Aug 9.
+
+PMID- 20415779
+OWN - NLM
+STAT- MEDLINE
+DA  - 20100426
+DCOM- 20100603
+IS  - 1365-3083 (Electronic)
+IS  - 0300-9475 (Linking)
+VI  - 71
+IP  - 3
+DP  - 2010 Mar
+TI  - IL-23 in the pathogenesis of rheumatoid arthritis.
+PG  - 134-45
+AB  - Interleukin-23 (IL-23) is a heterodimeric cytokine belonging to the
+      IL-6/IL-12 family that plays a key role in several of autoimmune and
+      inflammatory disorders. This family contains the 34 type I cytokine
+      receptor chains and 27 ligands, which share structural and functional
+      similarities, but on the other hand they display distinct roles in shaping
+      Th cells responses. IL-12 family cytokines have not only proinflammatory
+      effects but they also promote inflammatory responses. IL-23 is composed of
+      the p40 subunit in common with IL-12, and with a unique p19 subunit. IL-23
+      binding to an IL-23 receptor expressed on dendritic cells, macrophages and
+      monocytes triggers the activation of Jak2 and Tyk2, which in turn
+      phosphorylates STAT1, STAT3, STAT4 and STAT5 as well as induce formation
+      of STAT3-STAT4 heterodimers. IL-23 is one of the essential factors
+      required for the survival and/or expansion of Th17 cells, which produce
+      IL-17, IL-17F, IL-6 and TNF-alpha. Th17 cells stimulated by the IL-23
+      promote osteoclastogenesis through production of IL-17, which induce
+      receptor activator of NF-kappa B ligand on mesenchymal cells. The
+      IL-23-IL-17 axis includes Th17 cells and plays a key role in the
+      development of autoimmune arthritis.
+AD  - Department of Biochemistry, Institute of Rheumatology, Warsaw, Poland.
+      paradowska_aga@interia.pl
+FAU - Paradowska-Gorycka, A
+AU  - Paradowska-Gorycka A
+FAU - Grzybowska-Kowalczyk, A
+AU  - Grzybowska-Kowalczyk A
+FAU - Wojtecka-Lukasik, E
+AU  - Wojtecka-Lukasik E
+FAU - Maslinski, S
+AU  - Maslinski S
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - England
+TA  - Scand J Immunol
+JT  - Scandinavian journal of immunology
+JID - 0323767
+RN  - 0 (IL23R protein, human)
+RN  - 0 (Interleukin-23)
+RN  - 0 (Receptors, Interleukin)
+RN  - 0 (STAT Transcription Factors)
+RN  - 187348-17-0 (Interleukin-12)
+RN  - EC 2.7.1.112 (TYK2 protein, human)
+RN  - EC 2.7.10.1 (Janus Kinase 2)
+RN  - EC 2.7.10.1 (TYK2 Kinase)
+SB  - IM
+MH  - Adult
+MH  - Animals
+MH  - Arthritis, Rheumatoid/epidemiology/genetics/*immunology
+MH  - Autoimmune Diseases/epidemiology/genetics/*immunology
+MH  - Child
+MH  - Dendritic Cells/enzymology/immunology
+MH  - Female
+MH  - Humans
+MH  - Interleukin-12/immunology
+MH  - Interleukin-23/genetics/*immunology
+MH  - Janus Kinase 2/immunology
+MH  - Macrophages/enzymology/immunology
+MH  - Male
+MH  - Mice
+MH  - Middle Aged
+MH  - Monocytes/enzymology/immunology
+MH  - Osteoclasts/immunology/pathology
+MH  - Polymorphism, Genetic
+MH  - Receptors, Interleukin/genetics/immunology
+MH  - STAT Transcription Factors/immunology
+MH  - T-Lymphocytes, Helper-Inducer/immunology
+MH  - TYK2 Kinase/immunology
+RF  - 102
+EDAT- 2010/04/27 06:00
+MHDA- 2010/06/04 06:00
+CRDT- 2010/04/27 06:00
+AID - SJI2361 [pii]
+AID - 10.1111/j.1365-3083.2009.02361.x [doi]
+PST - ppublish
+SO  - Scand J Immunol. 2010 Mar;71(3):134-45.
+
+PMID- 19596999
+OWN - NLM
+STAT- MEDLINE
+DA  - 20090721
+DCOM- 20090806
+LR  - 20091119
+IS  - 1550-6606 (Electronic)
+IS  - 0022-1767 (Linking)
+VI  - 183
+IP  - 3
+DP  - 2009 Aug 1
+TI  - JAK3 inhibition significantly attenuates psoriasiform skin inflammation in
+      CD18 mutant PL/J mice.
+PG  - 2183-92
+AB  - JAK3, a member of the Janus kinase family, is predominantly expressed in
+      hemopoietic cells and binds specifically to the common gamma chain of a
+      subfamily of cytokine receptors that includes IL-2, IL-4, IL-7, IL-9,
+      IL-15, and IL-21. Previous studies suggest that this tyrosine kinase plays
+      key roles in mediating T cell functions, and inhibition of JAK3 has been
+      shown to prevent graft rejection and decrease the severity of arthritis in
+      rodent models. However, the functions of JAK3 in the development of skin
+      immune responses and diseases such as psoriasis have not been determined.
+      CD18 mutant PL/J mice develop spontaneous T cell-dependent psoriasiform
+      skin disease with several similarities to human psoriasis. In this study,
+      we treated mice with established skin disease with R348, a small molecule
+      inhibitor of JAK3, and observed a marked attenuation of skin lesions
+      following 6 wk of treatment. Histological analyses revealed major
+      reductions of both epidermal and dermal lesion severity scores in
+      R348-treated CD18-deficient PL/J mice compared with vehicle controls,
+      which was associated with decreased CD4(+) T cell infiltration. In
+      addition, systemic levels of IL-17, IL-22, IL-23, and TNF-alpha were
+      significantly lower in mice receiving the compound, and T cells isolated
+      from R348-treated mice also showed reduced phosphorylation of Stat5 after
+      stimulation with IL-2. These findings suggest that small-molecule
+      inhibitors of JAK3 may be useful in the treatment of inflammatory skin
+      diseases such as psoriasis and strongly implicate JAK signaling events as
+      important in the pathogenesis of this disease.
+AD  - Rigel Pharmaceuticals, Inc, South San Francisco, CA 94080, USA.
+      tamakoto@stanfordmedalumni.org
+FAU - Chang, Betty Y
+AU  - Chang BY
+FAU - Zhao, Feifei
+AU  - Zhao F
+FAU - He, Xiaodong
+AU  - He X
+FAU - Ren, Hong
+AU  - Ren H
+FAU - Braselmann, Sylvia
+AU  - Braselmann S
+FAU - Taylor, Vanessa
+AU  - Taylor V
+FAU - Wicks, Joan
+AU  - Wicks J
+FAU - Payan, Donald G
+AU  - Payan DG
+FAU - Grossbard, Elliott B
+AU  - Grossbard EB
+FAU - Pine, Polly R
+AU  - Pine PR
+FAU - Bullard, Daniel C
+AU  - Bullard DC
+LA  - eng
+PT  - Journal Article
+DEP - 20090713
+PL  - United States
+TA  - J Immunol
+JT  - Journal of immunology (Baltimore, Md. : 1950)
+JID - 2985117R
+RN  - 0 (Antigens, CD18)
+RN  - 0 (Cytokines)
+RN  - 0 (Protein Kinase Inhibitors)
+RN  - 0 (STAT5 Transcription Factor)
+RN  - EC 2.7.10.1 (Janus Kinase 3)
+SB  - AIM
+SB  - IM
+MH  - Animals
+MH  - Antigens, CD18/*genetics
+MH  - CD4-Positive T-Lymphocytes/physiology
+MH  - Chemotaxis
+MH  - Cytokines/analysis
+MH  - Inflammation/*drug therapy
+MH  - Janus Kinase 3/*antagonists & inhibitors/immunology/physiology
+MH  - Mice
+MH  - Mice, Mutant Strains
+MH  - Protein Kinase Inhibitors/pharmacology/*therapeutic use
+MH  - Psoriasis/*drug therapy/pathology
+MH  - STAT5 Transcription Factor/metabolism
+MH  - Treatment Outcome
+EDAT- 2009/07/15 09:00
+MHDA- 2009/08/07 09:00
+CRDT- 2009/07/15 09:00
+PHST- 2009/07/13 [aheadofprint]
+AID - jimmunol.0804063 [pii]
+AID - 10.4049/jimmunol.0804063 [doi]
+PST - ppublish
+SO  - J Immunol. 2009 Aug 1;183(3):2183-92. Epub 2009 Jul 13.
+
+PMID- 19424046
+OWN - NLM
+STAT- MEDLINE
+DA  - 20090508
+DCOM- 20090708
+IS  - 1534-6080 (Electronic)
+IS  - 0041-1337 (Linking)
+VI  - 87
+IP  - 9
+DP  - 2009 May 15
+TI  - Regulatory T cells and extracorporeal photochemotherapy: correlation with
+      clinical response and decreased frequency of proinflammatory T cells.
+PG  - 1422-5
+AB  - BACKGROUND: Immune mechanisms of extracorporeal photochemotherapy (ECP) in
+      refractory/resistant graft-versus-host disease (GvHD) are complex. We have
+      previously analyzed the role of CD4CD25Foxp3 regulatory T cells (T-regs).
+      METHODS: In the current study, we have enlarged the size of the population
+      (n=27; chronic GvHD=18, acute GvHD=9) for a median follow-up of 24 months.
+      T-regs were monitored for CD4, CD25, glucocorticoid-induced tumor necrosis
+      factor receptor (GITR), CD62L, CCR7, Foxp3, and STAT-5. Immune analysis by
+      interleukin (IL)-17 Elispot was carried out on circulating T-helper CD4
+      cells secreting IL-17, a subset of T cells considered relevant in the
+      pathogenesis of GvHD. RESULTS: We confirm that ECP is accompanied by a
+      significant increase of CD4CD25Foxp3GITRCD62LCCR7 T-regs. Sorted T-regs
+      show augmented phosphorylation of STAT-5. Only ECP-responding patients
+      demonstrate a raise of circulating T-regs, being mostly affected by
+      chronic GvHD. Moreover, this phenomenon corresponds to a diminished
+      secretion of IL-17. DISCUSSION: In conclusion, our study shows that T-regs
+      represent important immune mediators of the clinical benefits of ECP in
+      patients affected by GvHD.
+AD  - Pediatric Department, Laboratory of Cell Therapy Stefano Verri, University
+      of Milano-Bicocca, San Gerardo Hospital, Monza (Milan), Italy.
+      ettore.biagi@pediatriamonza.it
+FAU - Di Biaso, Iolanda
+AU  - Di Biaso I
+FAU - Di Maio, Lucia
+AU  - Di Maio L
+FAU - Bugarin, Cristina
+AU  - Bugarin C
+FAU - Gaipa, Giuseppe
+AU  - Gaipa G
+FAU - Dander, Erica
+AU  - Dander E
+FAU - Balduzzi, Adriana
+AU  - Balduzzi A
+FAU - Parma, Matteo
+AU  - Parma M
+FAU - D'Amico, Giovanna
+AU  - D'Amico G
+FAU - Perseghin, Paolo
+AU  - Perseghin P
+FAU - Biondi, Andrea
+AU  - Biondi A
+FAU - Biagi, Ettore
+AU  - Biagi E
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Transplantation
+JT  - Transplantation
+JID - 0132144
+RN  - 298-81-7 (Methoxsalen)
+SB  - IM
+MH  - Graft vs Host Disease/drug therapy/immunology
+MH  - Humans
+MH  - Inflammation/*drug therapy
+MH  - Methoxsalen/therapeutic use
+MH  - *Photopheresis
+MH  - T-Lymphocytes/*immunology
+MH  - T-Lymphocytes, Regulatory/drug effects/*immunology
+EDAT- 2009/05/09 09:00
+MHDA- 2009/07/09 09:00
+CRDT- 2009/05/09 09:00
+AID - 10.1097/TP.0b013e3181a27a5d [doi]
+AID - 00007890-200905150-00025 [pii]
+PST - ppublish
+SO  - Transplantation. 2009 May 15;87(9):1422-5.
+
+PMID- 19299717
+OWN - NLM
+STAT- MEDLINE
+DA  - 20090320
+DCOM- 20090414
+LR  - 20091119
+IS  - 1550-6606 (Electronic)
+IS  - 0022-1767 (Linking)
+VI  - 182
+IP  - 7
+DP  - 2009 Apr 1
+TI  - Signal transduction inhibition of APCs diminishes th17 and Th1 responses
+      in experimental autoimmune encephalomyelitis.
+PG  - 4192-9
+AB  - IL-17- and IFN-gamma-secreting T cells play an important role in
+      autoimmune responses in multiple sclerosis and the model system
+      experimental autoimmune encephalomyelitis (EAE). Dendritic cells (DCs) in
+      the periphery and microglia in the CNS are responsible for cytokine
+      polarization and expansion of this T cell subset. Our results indicate
+      that in vivo administration of a signal transduction inhibitor that
+      targets DCs to mice with EAE led to a decrease in CNS infiltration of
+      pathogenic Ag-specific T cells. Since this approach does not target T
+      cells directly, we assessed the effects on the APCs that are involved in
+      generating the T cell responses. Since in EAE and multiple sclerosis, both
+      microglia and peripheral DCs are likely to contribute to disease, we
+      utilized a bone marrow chimera system to distinguish between these two
+      populations. These studies show that peripheral DCs are the primary target
+      but that microglia are also modestly affected by CEP-701, as numbers and
+      activation states of the cells in the CNS are decreased after therapy. Our
+      results also showed a decrease in secretion of TNF-alpha, IL-6, and IL-23
+      by DCs as well as a decrease in expression of costimulatory molecules. We
+      further determined that levels of phospho-Stat1, Stat3, Stat5, and
+      NF-kappaB, which are signaling molecules that have been implicated in
+      these pathways, were decreased. Thus, use of this class of signal
+      transduction inhibitors may represent a novel method to treat autoimmunity
+      by dampening the autoreactive polarizing condition driven by DCs.
+AD  - Department of Oncology, Sidney Kimmel Comprehensive Cancer Center, Johns
+      Hopkins University School of Medicine, Baltimore MD 21231, USA.
+FAU - Skarica, Mario
+AU  - Skarica M
+FAU - Wang, Tianhong
+AU  - Wang T
+FAU - McCadden, Erin
+AU  - McCadden E
+FAU - Kardian, David
+AU  - Kardian D
+FAU - Calabresi, Peter A
+AU  - Calabresi PA
+FAU - Small, Donald
+AU  - Small D
+FAU - Whartenby, Katharine A
+AU  - Whartenby KA
+LA  - eng
+GR  - NS041435/NS/NINDS NIH HHS/United States
+GR  - R01-CA11989/CA/NCI NIH HHS/United States
+GR  - R01-CA70970/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Immunol
+JT  - Journal of immunology (Baltimore, Md. : 1950)
+JID - 2985117R
+RN  - 0 (Carbazoles)
+RN  - 0 (Cytokines)
+RN  - 0 (Enzyme Inhibitors)
+RN  - 0 (Interleukin-17)
+RN  - 0 (lestaurtinib)
+RN  - EC 2.7.1.112 (Flt3 protein, mouse)
+RN  - EC 2.7.10.1 (fms-Like Tyrosine Kinase 3)
+SB  - AIM
+SB  - IM
+MH  - Animals
+MH  - Antigen-Presenting Cells/*drug effects/immunology
+MH  - Blotting, Western
+MH  - Brain/immunology/metabolism/pathology
+MH  - Carbazoles/*pharmacology
+MH  - Chemotaxis, Leukocyte/drug effects
+MH  - Cytokines/biosynthesis/immunology
+MH  - Encephalomyelitis, Autoimmune, Experimental/*drug
+      therapy/immunology/pathology
+MH  - Enzyme Inhibitors/*pharmacology
+MH  - Female
+MH  - Interleukin-17/immunology/metabolism
+MH  - Mice
+MH  - Microglia/drug effects/immunology/metabolism
+MH  - Signal Transduction/*drug effects/immunology
+MH  - T-Lymphocyte Subsets/drug effects/immunology
+MH  - Th1 Cells/*drug effects/immunology
+MH  - fms-Like Tyrosine Kinase 3/deficiency/immunology
+EDAT- 2009/03/21 09:00
+MHDA- 2009/04/15 09:00
+CRDT- 2009/03/21 09:00
+AID - 182/7/4192 [pii]
+AID - 10.4049/jimmunol.0803631 [doi]
+PST - ppublish
+SO  - J Immunol. 2009 Apr 1;182(7):4192-9.
+
+PMID- 19114668
+OWN - NLM
+STAT- MEDLINE
+DA  - 20090120
+DCOM- 20090223
+LR  - 20091119
+IS  - 1540-9538 (Electronic)
+IS  - 0022-1007 (Linking)
+VI  - 206
+IP  - 1
+DP  - 2009 Jan 16
+TI  - Natural agonists for aryl hydrocarbon receptor in culture medium are
+      essential for optimal differentiation of Th17 T cells.
+PG  - 43-9
+AB  - Th17 cell differentiation is dependent on interleukin (IL)-6 and
+      transforming growth factor (TGF)-beta, and it is modulated by activation
+      of the aryl hydrocarbon receptor (AhR). In this study, we show that
+      differentiation of Th17 cells, but not Th1 or induced regulatory T (iT
+      reg) cells, is increased by endogenous AhR agonists present in culture
+      medium. Th17 development from wild-type mice is suboptimal in the presence
+      of the AhR antagonist CH-223191, similar to the situation in AhR-deficient
+      mice, which show attenuated IL-17 production and no IL-22 production. The
+      presence of natural AhR agonists in culture medium is also revealed by the
+      induction of CYP1A1, a downstream target of AhR activation. However, the
+      most commonly used medium, RPMI, supports very low levels of Th17
+      polarization, whereas Iscove's modified Dulbecco's medium, a medium richer
+      in aromatic amino acids, which give rise to AhR agonists, consistently
+      results in higher Th17 expansion in both mouse and human cells. The
+      relative paucity of AhR agonists in RPMI medium, coupled with the presence
+      of factors conducive to IL-2 activation and enhanced Stat5
+      phosphorylation, conspire against optimal Th17 differentiation. Our data
+      emphasize that AhR activation plays an essential part in the development
+      of Th17 cells and provide a rational explanation for the poor in vitro
+      polarization of Th17 cells that is reported in the majority of
+      publications for both mouse and human cells.
+AD  - Division of Molecular Immunology, Medical Research Council National
+      Institute for Medical Research, London NW7 1AA, England, UK.
+FAU - Veldhoen, Marc
+AU  - Veldhoen M
+FAU - Hirota, Keiji
+AU  - Hirota K
+FAU - Christensen, Jillian
+AU  - Christensen J
+FAU - O'Garra, Anne
+AU  - O'Garra A
+FAU - Stockinger, Brigitta
+AU  - Stockinger B
+LA  - eng
+GR  - Medical Research Council/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20081229
+PL  - United States
+TA  - J Exp Med
+JT  - The Journal of experimental medicine
+JID - 2985109R
+RN  - 0 (2-methyl-2H-pyrazole-3-carboxylic acid
+      (2-methyl-4-o-tolylazophenyl)amide)
+RN  - 0 (6-formylindolo(3,2-b)carbazole)
+RN  - 0 (Azo Compounds)
+RN  - 0 (Carbazoles)
+RN  - 0 (Culture Media)
+RN  - 0 (Interleukin-17)
+RN  - 0 (Interleukin-2)
+RN  - 0 (Interleukins)
+RN  - 0 (Nuclear Receptor Subfamily 1, Group F, Member 3)
+RN  - 0 (Pyrazoles)
+RN  - 0 (RORC protein, human)
+RN  - 0 (Receptors, Aryl Hydrocarbon)
+RN  - 0 (Receptors, Retinoic Acid)
+RN  - 0 (Receptors, Thyroid Hormone)
+RN  - 0 (Rorc protein, mouse)
+RN  - 0 (STAT5 Transcription Factor)
+RN  - 0 (interleukin-22)
+RN  - 73-22-3 (Tryptophan)
+RN  - EC 1.14.14.1 (Cytochrome P-450 CYP1A1)
+SB  - IM
+MH  - Animals
+MH  - Azo Compounds/pharmacology
+MH  - CD4-Positive T-Lymphocytes/cytology/drug effects/metabolism
+MH  - Carbazoles/pharmacology
+MH  - Cell Differentiation/drug effects/*physiology
+MH  - Culture Media/chemistry/pharmacology
+MH  - Cytochrome P-450 CYP1A1/genetics
+MH  - Gene Expression/drug effects
+MH  - Humans
+MH  - Interleukin-17/metabolism
+MH  - Interleukin-2/metabolism
+MH  - Interleukins/metabolism
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Mice, Inbred Strains
+MH  - Mice, Knockout
+MH  - Nuclear Receptor Subfamily 1, Group F, Member 3
+MH  - Phosphorylation/drug effects
+MH  - Pyrazoles/pharmacology
+MH  - Receptors, Aryl Hydrocarbon/agonists/antagonists & inhibitors/*physiology
+MH  - Receptors, Retinoic Acid/genetics
+MH  - Receptors, Thyroid Hormone/genetics
+MH  - Reverse Transcriptase Polymerase Chain Reaction
+MH  - STAT5 Transcription Factor/metabolism
+MH  - T-Lymphocyte Subsets/cytology/drug effects/*metabolism
+MH  - T-Lymphocytes, Helper-Inducer/cytology/drug effects/*metabolism
+MH  - Tryptophan/pharmacology
+PMC - PMC2626686
+OID - NLM: PMC2626686
+EDAT- 2008/12/31 09:00
+MHDA- 2009/02/24 09:00
+CRDT- 2008/12/31 09:00
+PHST- 2008/12/29 [aheadofprint]
+AID - jem.20081438 [pii]
+AID - 10.1084/jem.20081438 [doi]
+PST - ppublish
+SO  - J Exp Med. 2009 Jan 16;206(1):43-9. Epub 2008 Dec 29.
+
+PMID- 19088050
+OWN - NLM
+STAT- MEDLINE
+DA  - 20081217
+DCOM- 20090106
+IS  - 1078-0432 (Print)
+IS  - 1078-0432 (Linking)
+VI  - 14
+IP  - 24
+DP  - 2008 Dec 15
+TI  - Effects of high-dose IFNalpha2b on regional lymph node metastases of human
+      melanoma: modulation of STAT5, FOXP3, and IL-17.
+PG  - 8314-20
+AB  - PURPOSE: Signal transducer and activator of transcription 5 (STAT5) and
+      STAT3 oppose one another in regulation of the reciprocal development of
+      CD4+CD25+FOXP3+ regulatory T cells (Treg) and T helper 17 (Th17). A
+      reduction in STAT3 is associated with up-regulation of Treg, and STAT5
+      activation promotes Treg differentiation or function while constraining
+      Th17 generation. The effects of IFNalpha on STAT signaling in relation to
+      tumor tissue Treg and Th17 have not been documented in humans beyond the
+      observations that IFNalpha2b down-regulates STAT3. EXPERIMENTAL DESIGN:
+      Following diagnostic biopsy and before definitive surgery, 20 doses of
+      high-dose IFNalpha2b (HDI) were administered to patients with stage IIIB
+      melanoma who gave written informed consent. Lymph node biopsies, in which
+      both total STAT3 and phosphorylated STAT3 were down-regulated by HDI, were
+      probed with STAT5, FOXP3, CD4, and interleukin 17 (IL-17) with
+      immunohistochemistry and/or immunofluorescence techniques. RESULTS: The
+      percentage of FOXP3+ lymphocytes determined by immunohistochemistry was
+      up-regulated from 3.06 +/- 0.65% to 9.86 +/- 1.27% (n = 13, P = 0.0002),
+      and this observation was confirmed by immunofluorescence evaluation of
+      CD4+FOXP3+ Tregs. HDI induced STAT5 up-regulation (five cases observed) in
+      melanoma cells and lymphocytes but did not induce the generation of
+      IL-17-expressing lymphocytes. Increased STAT5 expression was associated
+      with increased FOXP3 expression among lymphocytes, and STAT5 was
+      constitutively activated among both melanoma cells and lymphocytes.
+      CONCLUSION: IFNalpha2b up-regulates STAT5 and down-regulates STAT3, in
+      conjunction with up-regulation of Treg and inhibition of IL-17-expressing
+      lymphocytes in melanoma tissues. These findings suggest that the effects
+      of IFNalpha may be potentiated through interference with the response of
+      Tregs and/or STAT5.
+AD  - Department of Medicine, Division of Hematology/Oncology, Melanoma and Skin
+      Cancer Program, University of Pittsburgh Cancer Institute, Pittsburgh, PA
+      15213-2584, USA.
+FAU - Wang, Wenjun
+AU  - Wang W
+FAU - Edington, Howard D
+AU  - Edington HD
+FAU - Rao, Uma N M
+AU  - Rao UN
+FAU - Jukic, Drazen M
+AU  - Jukic DM
+FAU - Radfar, Arash
+AU  - Radfar A
+FAU - Wang, Hong
+AU  - Wang H
+FAU - Kirkwood, John M
+AU  - Kirkwood JM
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Clin Cancer Res
+JT  - Clinical cancer research : an official journal of the American Association
+      for Cancer Research
+JID - 9502500
+RN  - 0 (Antineoplastic Agents)
+RN  - 0 (FOXP3 protein, human)
+RN  - 0 (Forkhead Transcription Factors)
+RN  - 0 (Interleukin-17)
+RN  - 0 (STAT5 Transcription Factor)
+RN  - 99210-65-8 (Interferon Alfa-2b)
+SB  - IM
+MH  - Antineoplastic Agents/*therapeutic use
+MH  - Forkhead Transcription Factors/*analysis
+MH  - Humans
+MH  - Immunohistochemistry
+MH  - Interferon Alfa-2b/*therapeutic use
+MH  - Interleukin-17/*analysis
+MH  - Lymphatic Metastasis
+MH  - Melanoma/chemistry/*drug therapy/pathology/secondary
+MH  - STAT5 Transcription Factor/*analysis
+MH  - T-Lymphocytes, Regulatory/drug effects/physiology
+EDAT- 2008/12/18 09:00
+MHDA- 2009/01/07 09:00
+CRDT- 2008/12/18 09:00
+AID - 14/24/8314 [pii]
+AID - 10.1158/1078-0432.CCR-08-0705 [doi]
+PST - ppublish
+SO  - Clin Cancer Res. 2008 Dec 15;14(24):8314-20.
+
+PMID- 18607004
+OWN - NLM
+STAT- MEDLINE
+DA  - 20080717
+DCOM- 20080903
+LR  - 20091118
+IS  - 1091-6490 (Electronic)
+IS  - 0027-8424 (Linking)
+VI  - 105
+IP  - 28
+DP  - 2008 Jul 15
+TI  - Aryl hydrocarbon receptor regulates Stat1 activation and participates in
+      the development of Th17 cells.
+PG  - 9721-6
+AB  - IL-17-producing T helper cells (Th17) have been recently identified as a
+      previously undescribed subset of helper T cells. Here, we demonstrate that
+      aryl hydrocarbon receptor (Ahr) has an important regulatory function in
+      the commitment of Th17 cells. Ahr was robustly induced under
+      Th17-polarizing conditions. Ahr-deficient naive T cells showed a
+      considerable loss in the ability to differentiate into Th17 cells when
+      induced by TGF-beta plus IL-6. We were able to demonstrate that Ahr
+      interacts with Stat1 and Stat5, which negatively regulate Th17
+      development. Whereas Stat1 activation returned to its basal level in Ahr
+      wild type naive T cells 24 h after stimulation with TGF-beta plus IL-6,
+      Stat1 remained activated in Ahr-deficient naive T cells after stimulation.
+      These results indicate that Ahr participates in Th17 cell differentiation
+      through regulating Stat1 activation, a finding that constitutes additional
+      mechanisms in the modulation of Th17 cell development.
+AD  - Laboratory of Immune Regulation, Osaka University Graduate School of
+      Frontier Biosciences, 1-3, Yamada-oka, Suita, Osaka 565-0871, Japan.
+FAU - Kimura, Akihiro
+AU  - Kimura A
+FAU - Naka, Tetsuji
+AU  - Naka T
+FAU - Nohara, Keiko
+AU  - Nohara K
+FAU - Fujii-Kuriyama, Yoshiaki
+AU  - Fujii-Kuriyama Y
+FAU - Kishimoto, Tadamitsu
+AU  - Kishimoto T
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20080707
+PL  - United States
+TA  - Proc Natl Acad Sci U S A
+JT  - Proceedings of the National Academy of Sciences of the United States of
+      America
+JID - 7505876
+RN  - 0 (Interleukin-17)
+RN  - 0 (Interleukin-6)
+RN  - 0 (Receptors, Aryl Hydrocarbon)
+RN  - 0 (STAT1 Transcription Factor)
+RN  - 0 (STAT1 protein, human)
+RN  - 0 (STAT5 Transcription Factor)
+RN  - 0 (Transforming Growth Factor beta)
+SB  - IM
+MH  - Animals
+MH  - Cell Differentiation
+MH  - Cells, Cultured
+MH  - Gene Expression Regulation/drug effects
+MH  - Interleukin-17/*biosynthesis
+MH  - Interleukin-6/pharmacology
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Receptors, Aryl Hydrocarbon/genetics/*physiology
+MH  - STAT1 Transcription Factor/*metabolism
+MH  - STAT5 Transcription Factor/metabolism
+MH  - T-Lymphocytes, Helper-Inducer/*cytology
+MH  - Transforming Growth Factor beta/pharmacology
+PMC - PMC2474493
+OID - NLM: PMC2474493
+EDAT- 2008/07/09 09:00
+MHDA- 2008/09/04 09:00
+CRDT- 2008/07/09 09:00
+PHST- 2008/07/07 [aheadofprint]
+AID - 0804231105 [pii]
+AID - 10.1073/pnas.0804231105 [doi]
+PST - ppublish
+SO  - Proc Natl Acad Sci U S A. 2008 Jul 15;105(28):9721-6. Epub 2008 Jul 7.
+
+PMID- 18348982
+OWN - NLM
+STAT- MEDLINE
+DA  - 20080512
+DCOM- 20080709
+LR  - 20091118
+IS  - 0021-9258 (Print)
+IS  - 0021-9258 (Linking)
+VI  - 283
+IP  - 20
+DP  - 2008 May 16
+TI  - Differential regulation of the IL-17 receptor by gammac cytokines:
+      inhibitory signaling by the phosphatidylinositol 3-kinase pathway.
+PG  - 14100-8
+AB  - The gammac-family cytokine IL-2 activates signaling events that contribute
+      to cell survival and proliferation, the best-studied of which are the
+      STAT-5 and phosphatidylinositol 3-kinase (PI3K) pathways. The starting
+      point of this study was to define genes regulated by the IL-2R-mediated
+      PI3K pathway in T cells. Accordingly, we used an erythropoietin (EPO)
+      receptor chimeric receptor system in which IL-2-dependent HT-2 T cells
+      expressed a mutant EPO-IL-2Rbeta construct where Tyr-338 is mutated to
+      Phe. Cells expressing this mutant IL-2Rbeta chain fail to induce
+      phosphorylation of PI3K-p85alpha/beta or activate Akt, but mediate normal
+      IL-2-dependent proliferation and activation of JAK1 and STAT-5A/B.
+      Microarray analyses revealed differential regulation of numerous genes
+      compared with cells expressing a wild-type IL-2Rbeta, including
+      up-regulation of the IL-17 receptor subunit IL-17RA. Blockade of the PI3K
+      pathway but not p70S6K led to up-regulation of IL-17RA, and constitutive
+      Akt activation was associated with suppressed IL-17RA expression.
+      Moreover, similar to the mutant EPO-IL-2Rbeta chimera, IL-15 and IL-21
+      induced IL-17RA preferentially compared with IL-2, and IL-2 but not IL-15
+      or IL-21 mediated prolonged activation of the PI3K p85 regulatory subunit.
+      Thus, there are intrinsic signaling differences between IL-2 and IL-15
+      that can be attributed to differences in activation of the PI3K pathway.
+AD  - Department of Oral Biology, University at Buffalo, State University of New
+      York, Buffalo, New York 14214, USA.
+FAU - Lindemann, Matthew J
+AU  - Lindemann MJ
+FAU - Hu, Zihua
+AU  - Hu Z
+FAU - Benczik, Marta
+AU  - Benczik M
+FAU - Liu, Kathleen D
+AU  - Liu KD
+FAU - Gaffen, Sarah L
+AU  - Gaffen SL
+LA  - eng
+GR  - AI05439/AI/NIAID NIH HHS/United States
+GR  - AR050458/AR/NIAMS NIH HHS/United States
+GR  - DE007034/DE/NIDCR NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20080317
+PL  - United States
+TA  - J Biol Chem
+JT  - The Journal of biological chemistry
+JID - 2985121R
+RN  - 0 (Cytokines)
+RN  - 0 (Interleukin-2)
+RN  - 0 (Receptors, Interleukin-17)
+RN  - 0 (STAT5 Transcription Factor)
+RN  - 0 (STAT5A protein, human)
+RN  - 0 (Tumor Suppressor Proteins)
+RN  - EC 2.7.1.137 (1-Phosphatidylinositol 3-Kinase)
+SB  - IM
+MH  - 1-Phosphatidylinositol 3-Kinase/*metabolism
+MH  - Cell Proliferation
+MH  - Cytokines/*metabolism
+MH  - *Gene Expression Regulation
+MH  - Gene Expression Regulation, Enzymologic
+MH  - Humans
+MH  - Interleukin-2/*metabolism
+MH  - Jurkat Cells
+MH  - Models, Biological
+MH  - Mutation
+MH  - Oligonucleotide Array Sequence Analysis
+MH  - Phosphorylation
+MH  - Receptors, Interleukin-17/*physiology
+MH  - STAT5 Transcription Factor/metabolism
+MH  - Signal Transduction
+MH  - Tumor Suppressor Proteins/metabolism
+PMC - PMC2376247
+OID - NLM: PMC2376247
+EDAT- 2008/03/20 09:00
+MHDA- 2008/07/10 09:00
+CRDT- 2008/03/20 09:00
+PHST- 2008/03/17 [aheadofprint]
+AID - M801357200 [pii]
+AID - 10.1074/jbc.M801357200 [doi]
+PST - ppublish
+SO  - J Biol Chem. 2008 May 16;283(20):14100-8. Epub 2008 Mar 17.
+
+PMID- 17967903
+OWN - NLM
+STAT- MEDLINE
+DA  - 20071127
+DCOM- 20071214
+LR  - 20091118
+IS  - 1540-9538 (Electronic)
+IS  - 0022-1007 (Linking)
+VI  - 204
+IP  - 12
+DP  - 2007 Nov 26
+TI  - Ets-1 is a negative regulator of Th17 differentiation.
+PG  - 2825-35
+AB  - IL-17 is a proinflammatory cytokine that plays a role in the clearance of
+      extracellular bacteria and contributes to the pathology of many autoimmune
+      and allergic conditions. IL-17 is produced mainly by a newly characterized
+      subset of T helper (Th) cells termed Th17. Although the role of Th17 cells
+      in the pathology of autoimmune diseases is well established, the
+      transcription factors regulating the differentiation of Th17 cells remain
+      poorly characterized. We report that Ets-1-deficient Th cells
+      differentiated more efficiently to Th17 cells than wild-type cells. This
+      was attributed to both low IL-2 production and increased resistance to the
+      inhibitory effect of IL-2 on Th17 differentiation. The resistance to IL-2
+      suppression was caused by a defect downstream of STAT5 phosphorylation,
+      but was not caused by a difference in the level of RORgamma t.
+      Furthermore, Ets-1-deficient mice contained an abnormally high level of
+      IL-17 transcripts in their lungs and exhibited increased mucus production
+      by airway epithelial cells in an IL-17-dependent manner. Based on these
+      observations, we report that Ets-1 is a negative regulator of Th17
+      differentiation.
+AD  - Rheumatology, Immunology and Allergy, Brigham and Women's Hospital/Harvard
+      Medical School, Boston, MA 02115, USA.
+FAU - Moisan, Jacques
+AU  - Moisan J
+FAU - Grenningloh, Roland
+AU  - Grenningloh R
+FAU - Bettelli, Estelle
+AU  - Bettelli E
+FAU - Oukka, Mohamed
+AU  - Oukka M
+FAU - Ho, I-Cheng
+AU  - Ho IC
+LA  - eng
+GR  - R01 AI073542-01/AI/NIAID NIH HHS/United States
+GR  - R01 AI073542-01/AI/NIAID NIH HHS/United States
+GR  - R03 AI0678801/AI/NIAID NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20071029
+PL  - United States
+TA  - J Exp Med
+JT  - The Journal of experimental medicine
+JID - 2985109R
+RN  - 0 (Ets1 protein, mouse)
+RN  - 0 (Interleukin-17)
+RN  - 0 (Proto-Oncogene Protein c-ets-1)
+RN  - 16561-29-8 (Tetradecanoylphorbol Acetate)
+RN  - 56092-81-0 (Ionomycin)
+SB  - IM
+MH  - Animals
+MH  - Cell Differentiation
+MH  - Exons
+MH  - Interleukin-17/genetics
+MH  - Ionomycin/pharmacology
+MH  - Mice
+MH  - Mice, Knockout
+MH  - Proto-Oncogene Protein c-ets-1/deficiency/*genetics
+MH  - T-Lymphocytes, Helper-Inducer/cytology/drug effects/*immunology
+MH  - Tetradecanoylphorbol Acetate/pharmacology
+MH  - Th1 Cells/drug effects/immunology
+MH  - Th2 Cells/drug effects/immunology
+PMC - PMC2118518
+OID - NLM: PMC2118518
+EDAT- 2007/10/31 09:00
+MHDA- 2007/12/15 09:00
+CRDT- 2007/10/31 09:00
+PHST- 2007/10/29 [aheadofprint]
+AID - jem.20070994 [pii]
+AID - 10.1084/jem.20070994 [doi]
+PST - ppublish
+SO  - J Exp Med. 2007 Nov 26;204(12):2825-35. Epub 2007 Oct 29.
+
+PMID- 17951529
+OWN - NLM
+STAT- MEDLINE
+DA  - 20080128
+DCOM- 20080326
+LR  - 20091118
+IS  - 0006-4971 (Print)
+IS  - 0006-4971 (Linking)
+VI  - 111
+IP  - 3
+DP  - 2008 Feb 1
+TI  - Retinoic acid inhibits Th17 polarization and enhances FoxP3 expression
+      through a Stat-3/Stat-5 independent signaling pathway.
+PG  - 1013-20
+AB  - CD4(+) helper T (Th) cells play a crucial role in the delicate balance
+      between host defense and autoimmune disease. Two important populations of
+      helper T cells are the proinflammatory, interleukin-17 (IL-17)-producing
+      (Th17) cells and the anti-inflammatory forkhead box P3-positive (FoxP3(+))
+      T regulatory (Treg) cells. Here we show that all-trans retinoic acid
+      (ATRA) and other agonists of the retinoic acid receptor alpha (RARalpha)
+      inhibit the formation of Th17 cells and promote FoxP3 expression.
+      Conversely, inhibition of retinoic acid signaling constrains transforming
+      growth factor beta (TGF-beta1) induction of FoxP3. The effect of ATRA is
+      mediated independently of IL-2, signal transducer and activator of
+      transcription 5 (Stat5) and Stat3, representing a novel mechanism for the
+      induction of FoxP3 in CD4 T cells. As previous studies have shown that
+      vitamin A derivatives are protective in animal models of autoimmune
+      disease, the current data suggest a previously unrecognized role for
+      RARalpha in the regulation of CD4(+) T-cell differentiation and provide a
+      mechanism for the anti-inflammatory effects of retinoic acid.
+AD  - Howard Hughes Medical Institute National Institutes of Health Research
+      Scholars Program, Bethesda, MD, USA.
+FAU - Elias, Kevin M
+AU  - Elias KM
+FAU - Laurence, Arian
+AU  - Laurence A
+FAU - Davidson, Todd S
+AU  - Davidson TS
+FAU - Stephens, Geoffrey
+AU  - Stephens G
+FAU - Kanno, Yuka
+AU  - Kanno Y
+FAU - Shevach, Ethan M
+AU  - Shevach EM
+FAU - O'Shea, John J
+AU  - O'Shea JJ
+LA  - eng
+PT  - Journal Article
+DEP - 20071019
+PL  - United States
+TA  - Blood
+JT  - Blood
+JID - 7603509
+RN  - 0 (Forkhead Transcription Factors)
+RN  - 0 (Foxp3 protein, mouse)
+RN  - 0 (Interleukin-17)
+RN  - 0 (Interleukin-2)
+RN  - 0 (Receptors, Retinoic Acid)
+RN  - 0 (STAT3 Transcription Factor)
+RN  - 0 (STAT5 Transcription Factor)
+RN  - 0 (retinoic acid receptor alpha)
+RN  - 302-79-4 (Tretinoin)
+SB  - AIM
+SB  - IM
+MH  - Animals
+MH  - Cell Dedifferentiation/drug effects
+MH  - Cells, Cultured
+MH  - Forkhead Transcription Factors/*metabolism
+MH  - Interleukin-17/*biosynthesis
+MH  - Interleukin-2/metabolism
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Receptors, Retinoic Acid/metabolism
+MH  - STAT3 Transcription Factor/genetics/metabolism
+MH  - STAT5 Transcription Factor/genetics/metabolism
+MH  - Signal Transduction/*drug effects
+MH  - T-Lymphocytes, Helper-Inducer/cytology/*drug
+      effects/immunology/*metabolism
+MH  - Tretinoin/*pharmacology
+PMC - PMC2214761
+OID - NLM: PMC2214761
+EDAT- 2007/10/24 09:00
+MHDA- 2008/03/28 09:00
+CRDT- 2007/10/24 09:00
+PHST- 2007/10/19 [aheadofprint]
+AID - blood-2007-06-096438 [pii]
+AID - 10.1182/blood-2007-06-096438 [doi]
+PST - ppublish
+SO  - Blood. 2008 Feb 1;111(3):1013-20. Epub 2007 Oct 19.
+
+PMID- 17363300
+OWN - NLM
+STAT- MEDLINE
+DA  - 20070322
+DCOM- 20070501
+LR  - 20090128
+IS  - 1074-7613 (Print)
+IS  - 1074-7613 (Linking)
+VI  - 26
+IP  - 3
+DP  - 2007 Mar
+TI  - Interleukin-2 signaling via STAT5 constrains T helper 17 cell generation.
+PG  - 371-81
+AB  - Recent work has identified a new subset of effector T cells that produces
+      interleukin (IL)-17 known as T helper 17 (Th17) cells, which is involved
+      in the pathophysiology of inflammatory diseases and is thought to be
+      developmentally related to regulatory T (Treg) cells. Because of its
+      importance for Treg cells, we examined the role of IL-2 in Th17 generation
+      and demonstrate that a previously unrecognized aspect of IL-2 function is
+      to constrain IL-17 production. Genetic deletion or antibody blockade of
+      IL-2 promoted differentiation of the Th17 cell subset. Whereas STAT3
+      appeared to be a key positive regulator of RORgammat and IL-17 expression,
+      absence of IL-2 or disruption of its signaling by deletion of the
+      transcription factor STAT5 resulted in enhanced Th17 cell development. We
+      conclude that in addition to the promotion of activation-induced cell
+      death of lymphocytes and the generation of Treg cells, inhibition of Th17
+      polarization appears to be an important function of IL-2.
+AD  - Molecular Immunology and Inflammation Branch, National Institute of
+      Arthritis, Musculoskeletal and Skin Diseases, National Institutes of
+      Health, Bethesda, MD 20892, USA.
+FAU - Laurence, Arian
+AU  - Laurence A
+FAU - Tato, Cristina M
+AU  - Tato CM
+FAU - Davidson, Todd S
+AU  - Davidson TS
+FAU - Kanno, Yuka
+AU  - Kanno Y
+FAU - Chen, Zhi
+AU  - Chen Z
+FAU - Yao, Zhengju
+AU  - Yao Z
+FAU - Blank, Rebecca B
+AU  - Blank RB
+FAU - Meylan, Francoise
+AU  - Meylan F
+FAU - Siegel, Richard
+AU  - Siegel R
+FAU - Hennighausen, Lothar
+AU  - Hennighausen L
+FAU - Shevach, Ethan M
+AU  - Shevach EM
+FAU - O'shea, John J
+AU  - O'shea JJ
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Immunity
+JT  - Immunity
+JID - 9432918
+RN  - 0 (Interleukin-17)
+RN  - 0 (Interleukin-2)
+RN  - 0 (STAT3 Transcription Factor)
+RN  - 0 (STAT5 Transcription Factor)
+SB  - IM
+CIN - Immunity. 2007 Mar;26(3):278-9. PMID: 17376391
+MH  - Animals
+MH  - Apoptosis
+MH  - Cell Differentiation/genetics
+MH  - Interleukin-17/*metabolism
+MH  - Interleukin-2/genetics/pharmacology/*physiology
+MH  - Lymphocyte Activation/*genetics
+MH  - Mice
+MH  - Mice, Mutant Strains
+MH  - STAT3 Transcription Factor/genetics/physiology
+MH  - STAT5 Transcription Factor/genetics/*physiology
+MH  - T-Lymphocytes, Helper-Inducer/drug effects/*immunology
+EDAT- 2007/03/17 09:00
+MHDA- 2007/05/02 09:00
+CRDT- 2007/03/17 09:00
+PHST- 2006/10/29 [received]
+PHST- 2007/01/23 [revised]
+PHST- 2007/02/15 [accepted]
+AID - S1074-7613(07)00176-8 [pii]
+AID - 10.1016/j.immuni.2007.02.009 [doi]
+PST - ppublish
+SO  - Immunity. 2007 Mar;26(3):371-81.
+

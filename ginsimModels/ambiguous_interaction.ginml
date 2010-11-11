@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://gin.univ-mrs.fr/GINsim/GINML_2_1.dtd">
+<gxl xmlns:xlink="http://www.w3.org/1999/xlink">
+	<graph id="default_name" class="regulatory" nodeorder="G0 G1">
+<node id="G0" basevalue="0" maxvalue="2">
+  <parameter idActiveInteractions="G1_G0_0" val="2"/>
+
+			<nodevisualsetting>
+				<rect x="189" y="122" width="55" height="25" backgroundColor="#FF9900" foregroundColor="#FFFFFF"/>
+			</nodevisualsetting>
+</node>
+<node id="G1" basevalue="0" maxvalue="3">
+  <parameter idActiveInteractions="G0_G1_0" val="2"/>
+  <parameter idActiveInteractions="G0_G1_1" val="2"/>
+
+			<nodevisualsetting>
+				<rect x="380" y="128" width="55" height="25" backgroundColor="#FF9900" foregroundColor="#FFFFFF"/>
+			</nodevisualsetting>
+</node>
+		<edge id="G0_G1_0" from="G0" to="G1" minvalue="1" maxvalue="1" sign="positive">
+			<edgevisualsetting>
+				<polyline points="216,134 311,152 407,140" line_style="curve" line_color="#3399FF" line_width="2" routage="auto"/>
+			</edgevisualsetting>
+		</edge>
+		<edge id="G0_G1_1" from="G0" to="G1" minvalue="2" sign="positive">
+			<edgevisualsetting>
+				<polyline points="216,134 311,152 407,140" line_style="curve" line_color="#3399FF" line_width="2" routage="auto"/>
+			</edgevisualsetting>
+		</edge>
+		<edge id="G1_G0_0" from="G1" to="G0" minvalue="2" sign="positive">
+			<edgevisualsetting>
+				<polyline points="407,140 312,122 216,134" line_style="curve" line_color="#3399FF" line_width="2" routage="auto"/>
+			</edgevisualsetting>
+		</edge>
+	</graph>
+</gxl>

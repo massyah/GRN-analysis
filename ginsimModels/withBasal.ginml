@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://gin.univ-mrs.fr/GINsim/GINML_2_1.dtd">
+<gxl xmlns:xlink="http://www.w3.org/1999/xlink">
+	<graph id="default_name" class="regulatory" nodeorder="NFkB IkB">
+<node id="IkB" name="IkB" basevalue="1" maxvalue="1">
+			<nodevisualsetting>
+				<rect x="230" y="125" width="50" height="25" backgroundColor="#FF9999" foregroundColor="#000000"/>
+			</nodevisualsetting>
+</node>
+<node id="NFkB" name="NFkB" basevalue="1" maxvalue="1">
+			<nodevisualsetting>
+				<rect x="231" y="228" width="50" height="25" backgroundColor="#CC99FF" foregroundColor="#000000"/>
+			</nodevisualsetting>
+</node>
+		<edge id="IkB_NFkB_0" from="IkB" to="NFkB" minvalue="1" sign="negative">
+			<edgevisualsetting>
+				<polyline points="255,137 256,240" line_style="straight" line_color="#FF0000" line_width="2" routage="manual"/>
+			</edgevisualsetting>
+		</edge>
+	</graph>
+</gxl>

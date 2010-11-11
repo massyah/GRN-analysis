@@ -1,0 +1,73 @@
+<edge id="GATA3_IL4_0" from="GATA3" to="IL4" minvalue="1" maxvalue="1" sign="positive"></edge>
+<edge id="GATA3_STAT4_0" from="GATA3" to="STAT4" minvalue="1" maxvalue="1" sign="negative"></edge>
+<edge id="GATA3_Tbet_0" from="GATA3" to="Tbet" minvalue="1" maxvalue="1" sign="negative"></edge>
+<edge id="IFNbR_STAT1_0" from="IFNbR" to="STAT1" minvalue="1" maxvalue="1" sign="positive"></edge>
+<edge id="IFNb_IFNbR_0" from="IFNb" to="IFNbR" minvalue="1" maxvalue="1" sign="positive"></edge>
+<edge id="IFNgR_STAT1_0" from="IFNgR" to="STAT1" minvalue="1" maxvalue="1" sign="positive"></edge>
+<edge id="IFNgR_STAT1_1" from="IFNgR" to="STAT1" minvalue="2" sign="positive"></edge>
+<edge id="IFNg_IFNgR_0" from="IFNg" to="IFNgR" minvalue="1" maxvalue="1" sign="positive"></edge>
+<edge id="IFNg_IFNgR_1" from="IFNg" to="IFNgR" minvalue="2" maxvalue="2" sign="positive"></edge>
+<edge id="IL12R_STAT4_0" from="IL12R" to="STAT4" minvalue="1" sign="positive"></edge>
+<edge id="IL12_IL12R_0" from="IL12" to="IL12R" minvalue="1" sign="positive"></edge>
+<edge id="IL18R_IRAK_0" from="IL18R" to="IRAK" minvalue="1" sign="positive"></edge>
+<edge id="IL18_IL18R_0" from="IL18" to="IL18R" minvalue="1" maxvalue="1" sign="positive"></edge>
+<edge id="IL4R_STAT6_0" from="IL4R" to="STAT6" minvalue="1" maxvalue="1" sign="positive"></edge>
+<edge id="IL4_IL4R_0" from="IL4" to="IL4R" minvalue="1" maxvalue="1" sign="positive"></edge>
+<edge id="IRAK_IFNg_0" from="IRAK" to="IFNg" minvalue="1" maxvalue="1" sign="positive"></edge>
+<edge id="SOCS1_IFNgR_0" from="SOCS1" to="IFNgR" minvalue="1" sign="negative"></edge>
+<edge id="SOCS1_IL4R_0" from="SOCS1" to="IL4R" minvalue="1" maxvalue="1" sign="negative"></edge>
+<edge id="STAT1_IL4_0" from="STAT1" to="IL4" minvalue="1" maxvalue="2" sign="negative"></edge>
+<edge id="STAT1_SOCS1_0" from="STAT1" to="SOCS1" minvalue="1" sign="positive"></edge>
+<edge id="STAT1_Tbet_1" from="STAT1" to="Tbet" minvalue="2" maxvalue="2" sign="positive"></edge>
+<edge id="STAT1_sTbet_0" from="STAT1" to="Tbet" minvalue="1" maxvalue="1" sign="positive"></edge>
+<edge id="STAT4_IFNg_0" from="STAT4" to="IFNg" minvalue="1" maxvalue="1" sign="positive"></edge>
+<edge id="STAT6_GATA3_0" from="STAT6" to="GATA3" minvalue="1" maxvalue="1" sign="positive"></edge>
+<edge id="STAT6_IL12R_0" from="STAT6" to="IL12R" minvalue="1" maxvalue="1" sign="negative"></edge>
+<edge id="STAT6_IL18R_0" from="STAT6" to="IL18R" minvalue="1" maxvalue="1" sign="negative"></edge>
+<edge id="Tbet_GATA3_0" from="Tbet" to="GATA3" minvalue="1" maxvalue="2" sign="negative"></edge>
+<edge id="Tbet_IFNg_0" from="Tbet" to="IFNg" minvalue="1" maxvalue="1" sign="positive"></edge>
+<edge id="Tbet_IFNg_1" from="Tbet" to="IFNg" minvalue="2" maxvalue="2" sign="positive"></edge>
+<edge id="Tbet_SOCS1_0" from="Tbet" to="SOCS1" minvalue="1" sign="positive"></edge>
+<edge id="Tbet_Tbet_0" from="Tbet" to="Tbet" minvalue="1" maxvalue="1" sign="positive"></edge>
+<edge id="Tbet_Tbet_1" from="Tbet" to="Tbet" minvalue="2" maxvalue="2" sign="positive"></edge>
+<parameter idActiveInteractions="GATA3_IL4_0" val="1"/>
+<parameter idActiveInteractions="IFNbR_STAT1_0" val="1"/>
+<parameter idActiveInteractions="IFNb_IFNbR_0" val="1"/>
+<parameter idActiveInteractions="IFNgR_STAT1_0 IFNbR_STAT1_0" val="1"/>
+<parameter idActiveInteractions="IFNgR_STAT1_0" val="1"/>
+<parameter idActiveInteractions="IFNgR_STAT1_1 IFNbR_STAT1_0" val="2"/>
+<parameter idActiveInteractions="IFNgR_STAT1_1" val="2"/>
+<parameter idActiveInteractions="IFNg_IFNgR_0 SOCS1_IFNgR_0" val="1"/></node>
+<parameter idActiveInteractions="IFNg_IFNgR_0" val="1"/>
+<parameter idActiveInteractions="IFNg_IFNgR_1 SOCS1_IFNgR_0" val="1"/>
+<parameter idActiveInteractions="IFNg_IFNgR_1" val="2"/>
+<parameter idActiveInteractions="IL12R_STAT4_0" val="1"/>
+<parameter idActiveInteractions="IL12_IL12R_0" val="1"/>
+<parameter idActiveInteractions="IL18R_IRAK_0" val="1"/>
+<parameter idActiveInteractions="IL18_IL18R_0" val="1"/>
+<parameter idActiveInteractions="IL4R_STAT6_0" val="1"/>
+<parameter idActiveInteractions="IL4_IL4R_0" val="1"/>
+<parameter idActiveInteractions="IRAK_IFNg_0 STAT4_IFNg_0" val="2"/>
+<parameter idActiveInteractions="STAT1_SOCS1_0 Tbet_SOCS1_0" val="1"/>
+<parameter idActiveInteractions="STAT1_SOCS1_0" val="1"/>
+<parameter idActiveInteractions="STAT1_Tbet_0 Tbet_Tbet_0 GATA3_Tbet_0" val="1"/>
+<parameter idActiveInteractions="STAT1_Tbet_0 Tbet_Tbet_0" val="1"/>
+<parameter idActiveInteractions="STAT1_Tbet_0 Tbet_Tbet_1 GATA3_Tbet_0" val="2"/>
+<parameter idActiveInteractions="STAT1_Tbet_0 Tbet_Tbet_1" val="2"/>
+<parameter idActiveInteractions="STAT1_Tbet_0" val="1"/>
+<parameter idActiveInteractions="STAT1_Tbet_1 Tbet_Tbet_0" val="2"/>
+<parameter idActiveInteractions="STAT1_Tbet_1 Tbet_Tbet_1" val="2"/>
+<parameter idActiveInteractions="STAT1_Tbet_1" val="2"/>
+<parameter idActiveInteractions="STAT4_IFNg_0" val="1"/>
+<parameter idActiveInteractions="STAT6_GATA3_0" val="1"/>
+<parameter idActiveInteractions="Tbet_IFNg_0 IRAK_IFNg_0 STAT4_IFNg_0" val="2"/>
+<parameter idActiveInteractions="Tbet_IFNg_0 IRAK_IFNg_0" val="1"/>
+<parameter idActiveInteractions="Tbet_IFNg_0 STAT4_IFNg_0" val="1"/>
+<parameter idActiveInteractions="Tbet_IFNg_0" val="1"/>
+<parameter idActiveInteractions="Tbet_IFNg_1 IRAK_IFNg_0 STAT4_IFNg_0" val="2"/>
+<parameter idActiveInteractions="Tbet_IFNg_1 IRAK_IFNg_0" val="2"/>
+<parameter idActiveInteractions="Tbet_IFNg_1 STAT4_IFNg_0" val="2"/>
+<parameter idActiveInteractions="Tbet_IFNg_1" val="2"/>
+<parameter idActiveInteractions="Tbet_SOCS1_0" val="1"/>
+<parameter idActiveInteractions="Tbet_Tbet_0" val="1"/>
+<parameter idActiveInteractions="Tbet_Tbet_1" val="2"/>

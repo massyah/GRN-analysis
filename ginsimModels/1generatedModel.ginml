@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://gin.univ-mrs.fr/GINsim/GINML_2_1.dtd">
+<gxl xmlns:xlink="http://www.w3.org/1999/xlink">
+	<graph id="default_name" class="regulatory" nodeorder="FOXP3 Jak2-Jak1 STAT-3 IL-17 IL-6 TGF-b ROR-gt IL-21 IL-21R Jak1-Jak3 IL-6R">
+	<node id="FOXP3" name="FOXP3" basevalue="0" maxvalue="1">
+<parameter idActiveInteractions="TGF-_FOXP3_0" val="1"/>
+<nodevisualsetting><point x="217" y="180"/></nodevisualsetting>
+</node>
+<node id="Jak2-Jak1" name="Jak2-Jak1" basevalue="0" maxvalue="1">
+<parameter idActiveInteractions="IL-6R_Jak2-Jak1_0" val="1"/>
+<nodevisualsetting><point x="115" y="93"/></nodevisualsetting>
+</node>
+<node id="STAT-3" name="STAT-3" basevalue="0" maxvalue="1">
+<parameter idActiveInteractions="Jak2-Jak1_STAT-3_0" val="1"/>
+<parameter idActiveInteractions="Jak1-Jak3_STAT-3_0" val="1"/>
+<parameter idActiveInteractions="Jak1-Jak3_STAT-3_0 Jak2-Jak1_STAT-3_0" val="1"/>
+<parameter idActiveInteractions="Jak2-Jak1_STAT-3_0" val="1"/>
+<parameter idActiveInteractions="Jak1-Jak3_STAT-3_0" val="1"/>
+<parameter idActiveInteractions="Jak1-Jak3_STAT-3_0 Jak2-Jak1_STAT-3_0" val="1"/>
+<nodevisualsetting><point x="117" y="135"/></nodevisualsetting>
+</node>
+<node id="IL-17" name="IL-17" basevalue="0" maxvalue="1">
+<parameter idActiveInteractions="ROR-t_IL-17_0" val="1"/>
+<nodevisualsetting><point x="152" y="238"/></nodevisualsetting>
+</node>
+<node id="IL-6" name="IL-6" basevalue="0" maxvalue="1">
+<nodevisualsetting><point x="113" y="5"/></nodevisualsetting>
+</node>
+<node id="TGF-b" name="TGF-b" basevalue="0" maxvalue="1">
+<nodevisualsetting><point x="215" y="6"/></nodevisualsetting>
+</node>
+<node id="ROR-gt" name="ROR-gt" basevalue="0" maxvalue="1">
+<parameter idActiveInteractions="STAT-3_ROR-t_0" val="1"/>
+<parameter idActiveInteractions="FOXP3_ROR-t_0" val="0"/>
+<parameter idActiveInteractions="FOXP3_ROR-t_0 STAT-3_ROR-t_0" val="0"/>
+<parameter idActiveInteractions="STAT-3_ROR-t_0" val="1"/>
+<parameter idActiveInteractions="FOXP3_ROR-t_0" val="0"/>
+<parameter idActiveInteractions="FOXP3_ROR-t_0 STAT-3_ROR-t_0" val="0"/>
+<nodevisualsetting><point x="117" y="184"/></nodevisualsetting>
+</node>
+<node id="IL-21" name="IL-21" basevalue="0" maxvalue="1">
+<parameter idActiveInteractions="STAT-3_IL-21_0" val="1"/>
+<nodevisualsetting><point x="6" y="7"/></nodevisualsetting>
+</node>
+<node id="IL-21R" name="IL-21R" basevalue="0" maxvalue="1">
+<parameter idActiveInteractions="IL-21_IL-21R_0" val="1"/>
+<nodevisualsetting><point x="7" y="49"/></nodevisualsetting>
+</node>
+<node id="Jak1-Jak3" name="Jak1-Jak3" basevalue="0" maxvalue="1">
+<parameter idActiveInteractions="IL-21R_Jak1-Jak3_0" val="1"/>
+<nodevisualsetting><point x="10" y="95"/></nodevisualsetting>
+</node>
+<node id="IL-6R" name="IL-6R" basevalue="0" maxvalue="1">
+<parameter idActiveInteractions="IL-6_IL-6R_0" val="1"/>
+<nodevisualsetting><point x="115" y="52"/></nodevisualsetting>
+</node>
+
+	<edge id="FOXP3_ROR-t_0" from="FOXP3" to="ROR-gt" minvalue="1" maxvalue="1" sign="negative"></edge>
+<edge id="ROR-t_IL-17_0" from="ROR-gt" to="IL-17" minvalue="1" maxvalue="1" sign="positive"></edge>
+<edge id="STAT-3_IL-21_0" from="STAT-3" to="IL-21" minvalue="1" maxvalue="1" sign="positive"></edge>
+<edge id="IL-21_IL-21R_0" from="IL-21" to="IL-21R" minvalue="1" maxvalue="1" sign="positive"></edge>
+<edge id="Jak1-Jak3_STAT-3_0" from="Jak1-Jak3" to="STAT-3" minvalue="1" maxvalue="1" sign="positive"></edge>
+<edge id="Jak2-Jak1_STAT-3_0" from="Jak2-Jak1" to="STAT-3" minvalue="1" maxvalue="1" sign="positive"></edge>
+<edge id="IL-6R_Jak2-Jak1_0" from="IL-6R" to="Jak2-Jak1" minvalue="1" maxvalue="1" sign="positive"></edge>
+<edge id="STAT-3_ROR-t_0" from="STAT-3" to="ROR-gt" minvalue="1" maxvalue="1" sign="positive"></edge>
+<edge id="IL-6_IL-6R_0" from="IL-6" to="IL-6R" minvalue="1" maxvalue="1" sign="positive"></edge>
+<edge id="TGF-_FOXP3_0" from="TGF-b" to="FOXP3" minvalue="1" maxvalue="1" sign="positive"></edge>
+<edge id="IL-21R_Jak1-Jak3_0" from="IL-21R" to="Jak1-Jak3" minvalue="1" maxvalue="1" sign="positive"></edge>
+
+	</graph>
+	</gxl>

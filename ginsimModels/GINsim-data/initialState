@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<initialStates>
+  <initialState name="Init_WT" value="EGF;1 p27;1 ERBB1;1 CDK6;0 ERBB2;1 p21;1 ERBB3;1 CyclinD1;0"/>
+</initialStates>

@@ -1,0 +1,183 @@
+//Terms
+//Cytokines
+#t IL-17
+#t IL-12
+#t IL-4
+#t IL-6
+#t IL-5
+#t IL-18
+#t IL-2
+#t IL-21
+#t IL-23
+#t IL-27
+#t TGF-β, tgf beta, tgfb, TGF-beta,TGFbeta,TGFβ
+#t IL-1β, IL-1B
+
+//Receptors
+#t IL-23R,IL23-r
+#t IFNβR,IFNβ receptor, ifnbr
+#t IFNγR,IFNγ receptor, ifngr
+#t IL-1βR, IL-1BR
+#t IL-4R
+#t IL-12R
+#t IL-6R
+#t IL-18R
+#t IL-12 receptor β2, IL-12rβ2,IL-12R2,IL-12 receptor 2
+#t TGF-βR, TGFBR
+#t il-2R
+#t TCR
+#t IL-21R
+#t IL-27R
+
+//SMADS
+#t SMAD3
+#t SMAD2
+#t SMAD4, Co-SMAD
+#t SMAD7
+
+//Jaks & STATs
+#t STAT-1,STAT1
+#t STAT-1ß,STAT1 beta,STAT1ß
+#t STAT-3,STAT3
+#t STAT-4, STAT4
+#t STAT-5, STAT5
+#t STAT-6,STAT6
+#t JAK
+#t JAK-3, JAK3
+#t JAK-2,JAK2
+#t JAK-1, JAK1
+
+//Jak & Tyk dimers
+#t Jak2-Jak1
+#t Tyk2-Jak2
+#t Jak1-Jak3
+
+//IRAKs
+#t IRAK
+
+//Transcription factors
+#t FOXP3
+#t RUNX1, AML1, CBFA2, PEBP2A2, AMLCR1
+#t RUNX2, AML2
+#t NF-kB,nfkb
+#t NFAT
+
+#t T-bet, TBX21, TBET
+//From http://www.genenames.org/data/hgnc_data.php?hgnc_id=11599
+
+#t _eomes, Eomesodermin
+#t AP-1,ap1
+#t ets1
+#t AHR
+
+
+//Nuclear receptor transcription factors
+#t ROR-γt,RORγt,rorgt, RORgammat, retinoic acid-related orphan receptor gammat
+#t RORα,RORa
+
+#t MyD88
+#t TRAF6
+#t Jnk
+#t IKK
+#t Jun
+#t Fos
+
+
+//Inteferons
+
+#t IFN-α, Interferon alpha, ifna, IFNα
+#t IFN-β, Interferon beta, ifnb, IFNβ, IFN-a/β
+#t IFN-γ,IFNγ,Interferon gamma,ifng, interferon-gamma
+
+
+#t SOCS-1,SOCS1,SSI-1,STAT-induced STAT inhibitor 1,Suppressor of cytokine signaling 1
+#t SOCS-3, SOCS3, SSI-3, SSI3
+#t _IgE
+#t GATA-3,GATA3
+
+
+//Inteferon regulatory factors
+#t IRF-9
+#t IRF-1
+#t IRF-4, IRF4
+
+//IRF-4-binding protein
+#t IBP, IFN regulatory factor 4-binding, IRF-4-binding
+
+
+//Processes
+#t IL-17 secretion,IL-17 induction, IL-17 expression
+#t IL-21 secretion
+#t IL-2 secretion
+//Trimolecule
+#t IRF-9/STAT1/STAT2
+
+//Cell types
+#t Th1
+#t Th2,Th 2
+#t th17
+#t nTregs
+#t iTregs
+#t tregs
+#t wild type,_WT
+#t ahr-deficient,
+#t il2-/-,
+#t STAT1-deficient,STAT1-/-
+#t T-bet−/−
+#t IRF4−/− 
+#t lamina propria
+
+
+//Conditions
+#t _EAE
+
+// CD profiles
+#t CD4+, cd4p
+#t CD8+
+#t CD4+CD62LHigh
+
+//Equiv to Tregs?
+#t CD4+ CD25+, CD4+CD25+
+
+#t CD4+ CD25-, CD4+CD25-
+
+
+//Metabolites
+#t _RA, Retinoic acid
+
+//Specific genes locii related to secretion of th17 cytokines
+#t il17a,IL-17A, il-17a promoter
+#t il17f, il-17f, IL-17F promoter
+#t il22 
+#t il6 
+#t il21
+#t il21r 
+#t il23r
+#t il26
+#t foxp3prom, FOXP3 promoter 
+#t ifngprom
+
+
+//For jordi
+#t akt,pkb,akt1,akt2,akt3
+#t pdk1
+
+
+#p IL-21 is produced by Th17 cells and drives IL-17 production in a STAT3-dependent manner, Wei, 2007, 17884812
+CD4(+) helper T cells can differentiate into several possible fates including: Th1, Th2, T regulatory, and Th17 cells. Although, cytokine production by non-T cells is an important factor in helper T cell differentiation, a characteristic feature of both Th1 and Th2 lineages is their ability to secrete cytokines that promote their respective differentiation. However, cytokines produced by T cells that help to sustain Th17 cells have not yet been identified. Here we show that IL-21 is a product of Th17 cells, which is induced in a Stat3-dependent manner. Additionally, Stat3 can directly bind the Il21 promoter. IL-21 also induces IL-17 production and expression of the transcription factor, RORgammat. Furthermore, generation of Th17 cells in the conventional manner is attenuated by blocking IL-21. IL-21 is known to activate Stat3 and its ability to induce Th17 differentiation is abrogated in the absence of Stat3. These data argue that IL-21 serves as an autocrine factor secreted by Th17 cells that promotes or sustains Th17 lineage commitment.
+
+#p Stat3: a STAT family member activated by tyrosine phosphorylation in response to epidermal growth factor and interleukin-6, Zhong, 1994, 8140422
+The STAT family of proteins carries out a dual function: signal transduction and activation of transcription. A new family member, Stat3, becomes activated through phosphorylation on tyrosine as a DNA binding protein in response to epidermal growth factor (EGF) and interleukin-6 (IL-6) but not interferon gamma (IFN-gamma). It is likely that this phosphoprotein forms homodimers as well as heterodimers with the first described member of the STAT family, Stat91 (renamed Stat1 alpha), which is activated by the IFNs and EGF. Differential activation of different STAT proteins in response to different ligands should help to explain specificity in nuclear signaling from the cell surface.
+
+#p Smad3 and NFAT cooperate to induce Foxp3 expression through its enhancer,Tone, 2008, 18157133
+The transcription factor Foxp3 is involved in the differentiation, function and survival of CD4+CD25+ regulatory T (T(reg)) cells. Details of the mechanism underlying the induction of Foxp3 expression remain unknown, because studies of the transcriptional regulation of the Foxp3 gene are limited by the small number of T(reg) cells in mononuclear cell populations. Here we have generated a model system for analyzing Foxp3 induction and, by using this system with primary T cells, we have identified an enhancer element in this gene. <43>The transcription factors Smad3 and NFAT are required for activity of this Foxp3 enhancer, and both factors are essential for histone acetylation in the enhancer region and induction of Foxp3. These biochemical properties that define Foxp3 expression explain many of the effects of transforming growth factor-beta on the function of Foxp3+ T(reg) cells.
+
+#p Activation of Stat5 by interleukin 2 requires a carboxyl-terminal region of the interleukin 2 receptor beta chain but is not essential for the proliferative signal transmission, Fujii, 1995, 7777534
+The high-affinity interleukin 2 (IL-2) receptor (IL-2R) consists of three subunits: the IL-2R alpha, IL-2R beta c, and IL-2R gamma c chains. Two members of the Janus kinase family, Jak1 and Jak3, are associated with IL-2R beta c and IL-2R gamma c, respectively, and they are activated upon IL-2 stimulation. The cytokine-mediated Jak kinase activation usually results in the activation of a family of latent transcription factors termed Stat (signal transducer and activator of transcription) proteins. Recently, the IL-2-induced Stat protein was purified from human lymphocytes and found to be the homologue of sheep Stat5/mammary gland factor. We demonstrate that the human Stat5 is activated by IL-2 and that Jak3 is required for the efficient activation. The cytoplasmic region of the IL-2R beta c chain required for activation of Stat5 is mapped within the carboxyl-terminal 147 amino acids. On the other hand, this region is not essential for IL-2-induced cell proliferation.
+
+#p Review, Oshea, 2009
+<42>Finally, regulation of the IL-17 locus is becoming increasingly complicated with both inhibitory (Stat5, Foxp3) and stimulatory (Stat3, RORgt) factors being recruited to it. 
+
+#p Interleukin-2 signaling via STAT5 constrains T helper 17 cell generation, Laurence, 2007, 17363300
+Recent work has identified a new subset of effector T cells that produces interleukin (IL)-17 known as T helper 17 (Th17) cells, which is involved in the pathophysiology of inflammatory diseases and is thought to be developmentally related to regulatory T (Treg) cells. Because of its importance for Treg cells, we examined the role of IL-2 in Th17 generation and demonstrate that a previously unrecognized aspect of IL-2 function is to constrain IL-17 production. Genetic deletion or antibody blockade of IL-2 promoted differentiation of the Th17 cell subset. Whereas STAT3 appeared to be a key positive regulator of RORgammat and IL-17 expression, absence of IL-2 or disruption of its signaling by deletion of the transcription factor STAT5 resulted in enhanced Th17 cell development. We conclude that in addition to the promotion of activation-induced cell death of lymphocytes and the generation of Treg cells, inhibition of Th17 polarization appears to be an important function of IL-2.
+As indicated above, by using chromatin immunoprecipitation (ChIP), we have previously shown that STAT3 directly binds to the Il17a promoter and that STAT5 directly binds the Foxp3 promoter ([Chen et al, 2006] and [Yao et al, 2007]). We therefore considered the possibility that another mechanism by which STAT5 might attenuate IL-17 production was by direct binding to the Il17a promoter. Initial investigation of the Il17a promoter sequences highlighted several potential STAT binding sites within −2K bp of the Il17a promoter. These sites were found within regions denoted A–D indicated in Figure S2. The binding of STAT5 to these regions was first assessed under conditions that would be expected to maximize its binding ([Bettelli et al, 2006] and [Yao et al, 2007]). Specific STAT5 binding was detected in all regions, although the region denoted D had the most consistent IL-2-inducible binding (Figure S2). Binding of STAT5 to the Foxp3 promoters was used as a control (data not shown; Yao et al, 2007). We next used quantitative PCR to more carefully measure the induction of STAT5 binding. Isolated CD4+ T cells were stimulated with anti-CD3 and anti-CD28, washed to remove endogenously produced cytokines, and restimulated with IL-2. In this setting, STAT5 specifically bound to the Il17a gene (Figure 6C). Not surprisingly though, CD4+ T cells activated with CD3 and CD28 alone (which induces endogenous IL-2 production) also had very appreciable amounts of binding of STAT5 to the Il17a gene.

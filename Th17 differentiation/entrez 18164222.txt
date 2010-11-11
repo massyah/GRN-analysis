@@ -1,0 +1,115 @@
+PMID- 18164222
+OWN - NLM
+STAT- MEDLINE
+DA  - 20080117
+DCOM- 20080313
+LR  - 20091119
+IS  - 1074-7613 (Print)
+IS  - 1074-7613 (Linking)
+VI  - 28
+IP  - 1
+DP  - 2008 Jan
+TI  - T helper 17 lineage differentiation is programmed by orphan nuclear receptors ROR
+      alpha and ROR gamma.
+PG  - 29-39
+AB  - T cell functional differentiation is mediated by lineage-specific transcription
+      factors. T helper 17 (Th17) has been recently identified as a distinct Th lineage
+      mediating tissue inflammation. Retinoic acid receptor-related orphan receptor
+      gamma (ROR gamma) was shown to regulate Th17 differentiation; ROR gamma
+      deficiency, however, did not completely abolish Th17 cytokine expression. Here,
+      we report Th17 cells highly expressed another related nuclear receptor, ROR
+      alpha, induced by transforming growth factor-beta and interleukin-6 (IL-6), which
+      is dependent on signal transducer and activator of transcription 3.
+      Overexpression of ROR alpha promoted Th17 differentiation, possibly through the
+      conserved noncoding sequence 2 in Il17-Il17f locus. ROR alpha deficiency resulted
+      in reduced IL-17 expression in vitro and in vivo. Furthermore, ROR alpha and ROR 
+      gamma coexpression synergistically led to greater Th17 differentiation. Double
+      deficiencies in ROR alpha and ROR gamma globally impaired Th17 generation and
+      completely protected mice against experimental autoimmune encephalomyelitis.
+      Therefore, Th17 differentiation is directed by two lineage-specific nuclear
+      receptors, ROR alpha and ROR gamma.
+AD  - Department of Immunology, M.D. Anderson Cancer Center, Houston, TX 77030, USA.
+FAU - Yang, Xuexian O
+AU  - Yang XO
+FAU - Pappu, Bhanu P
+AU  - Pappu BP
+FAU - Nurieva, Roza
+AU  - Nurieva R
+FAU - Akimzhanov, Askar
+AU  - Akimzhanov A
+FAU - Kang, Hong Soon
+AU  - Kang HS
+FAU - Chung, Yeonseok
+AU  - Chung Y
+FAU - Ma, Li
+AU  - Ma L
+FAU - Shah, Bhavin
+AU  - Shah B
+FAU - Panopoulos, Athanasia D
+AU  - Panopoulos AD
+FAU - Schluns, Kimberly S
+AU  - Schluns KS
+FAU - Watowich, Stephanie S
+AU  - Watowich SS
+FAU - Tian, Qiang
+AU  - Tian Q
+FAU - Jetten, Anton M
+AU  - Jetten AM
+FAU - Dong, Chen
+AU  - Dong C
+LA  - eng
+GR  - AR050772/AR/NIAMS NIH HHS/United States
+GR  - R01 AR050772-05/AR/NIAMS NIH HHS/United States
+GR  - R01 AR050772-06/AR/NIAMS NIH HHS/United States
+GR  - U19 AI071130-020006/AI/NIAID NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20071227
+PL  - United States
+TA  - Immunity
+JT  - Immunity
+JID - 9432918
+RN  - 0 (Interleukin-17)
+RN  - 0 (Nuclear Receptor Subfamily 1, Group F, Member 1)
+RN  - 0 (Nuclear Receptor Subfamily 1, Group F, Member 3)
+RN  - 0 (Receptors, Cytoplasmic and Nuclear)
+RN  - 0 (Receptors, Retinoic Acid)
+RN  - 0 (Receptors, Thyroid Hormone)
+RN  - 0 (Rorc protein, mouse)
+RN  - 0 (Trans-Activators)
+SB  - IM
+CIN - Immunity. 2008 Jan;28(1):5-7. PMID: 18199410
+MH  - Animals
+MH  - Cell Differentiation/*immunology
+MH  - Cell Lineage
+MH  - Electrophoretic Mobility Shift Assay
+MH  - Encephalomyelitis, Autoimmune, Experimental/immunology
+MH  - Female
+MH  - Interleukin-17/immunology/*metabolism
+MH  - Mice
+MH  - Mice, Mutant Strains
+MH  - Nuclear Receptor Subfamily 1, Group F, Member 1
+MH  - Nuclear Receptor Subfamily 1, Group F, Member 3
+MH  - Receptors, Cytoplasmic and Nuclear/*immunology/metabolism
+MH  - Receptors, Retinoic Acid/*immunology/metabolism
+MH  - Receptors, Thyroid Hormone/*immunology/metabolism
+MH  - Reverse Transcriptase Polymerase Chain Reaction
+MH  - T-Lymphocyte Subsets/*cytology/immunology/metabolism
+MH  - T-Lymphocytes, Helper-Inducer/*cytology/immunology/metabolism
+MH  - Trans-Activators/*immunology/metabolism
+PMC - PMC2587175
+MID - NIHMS38562
+OID - NLM: NIHMS38562
+OID - NLM: PMC2587175
+EDAT- 2008/01/01 09:00
+MHDA- 2008/03/14 09:00
+CRDT- 2008/01/01 09:00
+PHST- 2007/09/11 [received]
+PHST- 2007/10/29 [revised]
+PHST- 2007/11/27 [accepted]
+PHST- 2007/12/27 [aheadofprint]
+AID - S1074-7613(07)00575-4 [pii]
+AID - 10.1016/j.immuni.2007.11.016 [doi]
+PST - ppublish
+SO  - Immunity. 2008 Jan;28(1):29-39. Epub 2007 Dec 27.

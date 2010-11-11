@@ -1,0 +1,100 @@
+PMID- 16648837
+OWN - NLM
+STAT- MEDLINE
+DA  - 20060511
+DCOM- 20060608
+LR  - 20081121
+IS  - 1476-4687 (Electronic)
+IS  - 0028-0836 (Linking)
+VI  - 441
+IP  - 7090
+DP  - 2006 May 11
+TI  - Transforming growth factor-beta induces development of the T(H)17 lineage.
+PG  - 231-4
+AB  - A new lineage of effector CD4+ T cells characterized by production of interleukin
+      (IL)-17, the T-helper-17 (T(H)17) lineage, was recently described based on
+      developmental and functional features distinct from those of classical T(H)1 and 
+      T(H)2 lineages. Like T(H)1 and T(H)2, T(H)17 cells almost certainly evolved to
+      provide adaptive immunity tailored to specific classes of pathogens, such as
+      extracellular bacteria. Aberrant T(H)17 responses have been implicated in a
+      growing list of autoimmune disorders. T(H)17 development has been linked to
+      IL-23, an IL-12 cytokine family member that shares with IL-12 a common subunit,
+      IL-12p40 (ref. 8). The IL-23 and IL-12 receptors also share a subunit,
+      IL-12Rbeta1, that pairs with unique, inducible components, IL-23R and
+      IL-12Rbeta2, to confer receptor responsiveness. Here we identify transforming
+      growth factor-beta (TGF-beta) as a cytokine critical for commitment to T(H)17
+      development. TGF-beta acts to upregulate IL-23R expression, thereby conferring
+      responsiveness to IL-23. Although dispensable for the development of
+      IL-17-producing T cells in vitro and in vivo, IL-23 is required for host
+      protection against a bacterial pathogen, Citrobacter rodentium. The action of
+      TGF-beta on naive T cells is antagonized by interferon-gamma and IL-4, thus with IL-1β
+      providing a mechanism for divergence of the T(H)1, T(H)2 and T(H)17 lineages. and this is related to TGF-β2
+AD  - Department of Pathology, University of Alabama at Birmingham, Birmingham, Alabama
+      35294-2170, USA.
+FAU - Mangan, Paul R
+AU  - Mangan PR
+FAU - Harrington, Laurie E
+AU  - Harrington LE
+FAU - O'Quinn, Darrell B
+AU  - O'Quinn DB
+FAU - Helms, Whitney S
+AU  - Helms WS
+FAU - Bullard, Daniel C
+AU  - Bullard DC
+FAU - Elson, Charles O
+AU  - Elson CO
+FAU - Hatton, Robin D
+AU  - Hatton RD
+FAU - Wahl, Sharon M
+AU  - Wahl SM
+FAU - Schoeb, Trenton R
+AU  - Schoeb TR
+FAU - Weaver, Casey T
+AU  - Weaver CT
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+DEP - 20060430
+PL  - England
+TA  - Nature
+JT  - Nature
+JID - 0410462
+RN  - 0 (Forkhead Transcription Factors)
+RN  - 0 (Foxp3 protein, mouse)
+RN  - 0 (Il23a protein, mouse)
+RN  - 0 (Interleukin-17)
+RN  - 0 (Interleukin-23)
+RN  - 0 (Interleukin-23 Subunit p19)
+RN  - 0 (Interleukins)
+RN  - 0 (Receptors, Interleukin)
+RN  - 0 (Transforming Growth Factor beta)
+RN  - 207137-56-2 (Interleukin-4)
+RN  - 82115-62-6 (Interferon-gamma)
+SB  - IM
+CIN - Nature. 2006 May 11;441(7090):166-8. PMID: 16688162
+MH  - Animals
+MH  - Cell Differentiation/drug effects
+MH  - Cell Lineage/*drug effects
+MH  - Forkhead Transcription Factors/genetics/metabolism
+MH  - Interferon-gamma/pharmacology
+MH  - Interleukin-17/genetics/*metabolism/pharmacology
+MH  - Interleukin-23
+MH  - Interleukin-23 Subunit p19
+MH  - Interleukin-4/pharmacology
+MH  - Interleukins/immunology/pharmacology
+MH  - Mice
+MH  - Receptors, Interleukin/metabolism
+MH  - Th1 Cells/*cytology/*drug effects/metabolism
+MH  - Th2 Cells/*cytology/*drug effects/metabolism
+MH  - Transforming Growth Factor beta/deficiency/genetics/metabolism/*pharmacology
+EDAT- 2006/05/02 09:00
+MHDA- 2006/06/09 09:00
+CRDT- 2006/05/02 09:00
+PHST- 2006/03/06 [received]
+PHST- 2006/03/28 [accepted]
+PHST- 2006/04/30 [aheadofprint]
+AID - nature04754 [pii]
+AID - 10.1038/nature04754 [doi]
+PST - ppublish
+SO  - Nature. 2006 May 11;441(7090):231-4. Epub 2006 Apr 30.

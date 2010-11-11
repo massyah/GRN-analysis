@@ -1,0 +1,2311 @@
+PMID- 20937913
+OWN - NLM
+STAT- Publisher
+DA  - 20101012
+IS  - 1091-6490 (Electronic)
+IS  - 0027-8424 (Linking)
+DP  - 2010 Oct 11
+TI  - Coupling of tandem Smad ubiquitination regulatory factor (Smurf) WW
+      domains modulates target specificity.
+AB  - Smad ubiquitination regulatory factor 2 (Smurf2) is an E3 ubiquitin ligase
+      that participates in degradation of TGF-beta receptors and other targets.
+      Smurf2 WW domains recognize PPXY (PY) motifs on ubiquitin ligase target
+      proteins or on adapters, such as Smad7, that bind to E3 target proteins.
+      We previously demonstrated that the isolated WW3 domain of Smurf2, but not
+      the WW2 domain, can directly bind to a Smad7 PY motif. We show here that
+      the WW2 augments this interaction by binding to the WW3 and making
+      auxiliary contacts with the PY motif and a novel E/D-S/T-P motif, which is
+      N-terminal to all Smad PY motifs. The WW2 likely enhances the selectivity
+      of Smurf2 for the Smad proteins. NMR titrations confirm that Smad1 and
+      Smad2 are bound by Smurf2 with the same coupled WW domain arrangement used
+      to bind Smad7. The analogous WW domains in the short isoform of Smurf1
+      recognize the Smad7 PY peptide using the same coupled mechanism. However,
+      a longer Smurf1 isoform, which has an additional 26 residues in the
+      inter-WW domain linker, is only partially able to use the coupled WW
+      domain binding mechanism. The longer linker results in a decrease in
+      affinity for the Smad7 peptide. Interdomain coupling of WW domains
+      enhances selectivity and enables the tuning of interactions by isoform
+      switching.
+AD  - Program in Molecular Structure and Function, Hospital for Sick Children,
+      555 University Avenue, Toronto, ON, Canada M5G 1X8.
+AU  - Chong PA
+AU  - Lin H
+AU  - Wrana JL
+AU  - Forman-Kay JD
+LA  - ENG
+PT  - JOURNAL ARTICLE
+DEP - 20101011
+TA  - Proc Natl Acad Sci U S A
+JT  - Proceedings of the National Academy of Sciences of the United States of
+      America
+JID - 7505876
+EDAT- 2010/10/13 06:00
+MHDA- 2010/10/13 06:00
+CRDT- 2010/10/13 06:00
+AID - 1003023107 [pii]
+AID - 10.1073/pnas.1003023107 [doi]
+PST - aheadofprint
+SO  - Proc Natl Acad Sci U S A. 2010 Oct 11.
+
+PMID- 20926807
+OWN - NLM
+STAT- Publisher
+DA  - 20101007
+IS  - 1529-7268 (Electronic)
+IS  - 0006-3363 (Linking)
+DP  - 2010 Oct 6
+TI  - Activin A Balances Sertoli and Germ Cell Proliferation in the Fetal Mouse
+      Testis.
+AB  - Activin affects many aspects of cellular development including those
+      essential for reproductive fitness. This study examined the contribution
+      of activin A to murine fetal testicular development, revealing contrasting
+      outcomes of activin actions on Sertoli cells and gonocytes. Shortly after
+      sex determination, from Embryonic Day (E)12.5 through to birth (0 dpp),
+      the activin A subunit transcript (Inhba) level rises in testis, but not
+      ovary, followed closely by the Inha transcript (encoding the inhibitory
+      inhibin alpha subunit). Activin receptor transcript levels also change,
+      with Acvr1 (encoding ALK2) and Acvr2b (ActRIIB) significantly higher and
+      lower, respectively, at 0 dpp compared with E13.5 and E15.5. Transcripts
+      encoding the signalling mediators Smad1, Smad3 and Smad4 were higher at 0
+      dpp compared with E13.5 and E15.5, while Smad2, Smad5 and Smad7 were
+      lower. Detection of phosphorylated (P-)SMAD2/3 in nearly all testis cell
+      nuclei indicated widespread TGFB and/or activin ligand signalling
+      activity. In contrast to wild type littermates, activin betaA subunit
+      knockout (Inhba(-/-)) mice have significantly smaller testes at birth,
+      attributable to 50% lower Sertoli cell number and decreased Sertoli cell
+      proliferation from E13.5. Inhba(-/-) testes contained twice the normal
+      gonocyte number at birth, with some appearing to bypass quiescence.
+      Persistence of widespread P-SMAD 2/3 in Inhba(-/-) cells indicates other
+      TGFB superfamily ligands are active in fetal testes. Significant
+      differences in Smad and cell cycle regulator transcript levels correlating
+      to Inhba gene dosage correspond to differences in Sertoli and germ cell
+      numbers. In Inhba(-/-) testes, Cdkn1a (encoding p21(cip1)), identified
+      previously in fetal gonocytes, was lower at E13.5, while Cdkn1b (encoding
+      p(27kip1) in somatic cells) was lower at birth, and cyclin D2 mRNA and
+      protein were lower at E15.5 and 0 dpp. Thus activin A dosage contributes
+      to establishing the balance between Sertoli and germ cell number that is
+      ultimately required for adult male fertility.
+AU  - Mendis SH
+AU  - Meachem SJ
+AU  - Sarraj MA
+AU  - Loveland KL
+LA  - ENG
+PT  - JOURNAL ARTICLE
+DEP - 20101006
+TA  - Biol Reprod
+JT  - Biology of reproduction
+JID - 0207224
+EDAT- 2010/10/12 06:00
+MHDA- 2010/10/12 06:00
+CRDT- 2010/10/08 06:00
+AID - biolreprod.110.086231 [pii]
+AID - 10.1095/biolreprod.110.086231 [doi]
+PST - aheadofprint
+SO  - Biol Reprod. 2010 Oct 6.
+
+PMID- 20863814
+OWN - NLM
+STAT- Publisher
+DA  - 20101011
+IS  - 1090-2104 (Electronic)
+IS  - 0006-291X (Linking)
+DP  - 2010 Sep 20
+TI  - Histone demethylase JARID1B/KDM5B is a corepressor of TIEG1/KLF10.
+AB  - JARID1B/KDM5B (jumonji AT-rich interactive domain 1B/lysine-specific
+      demethylase 5B) is an enzyme that efficiently removes methyl residues from
+      trimethylated lysine 4 on histone H3, a pivotal mark for active chromatin.
+      TIEG1/KLF10 (transforming growth factor-beta inducible early
+      gene-1/Kruppel-like transcription factor 10) is a zinc-finger
+      transcription factor that is involved in bone metabolism and exerts
+      antiproliferative activity. Here, we found that TIEG1 interacts with
+      JARID1B. In particular, the repression domains of TIEG1 bind to the
+      C-terminus of JARID1B. Moreover, overexpression of JARID1B augments TIEG1
+      to repress transcription of Smad7, an inhibitor of the TGF-beta
+      (transforming growth factor-beta) signaling pathway. Conversely, JARID1B
+      knock-down leads to increased Smad7 mRNA levels. Thus, TIEG1 and JARID1B
+      may cooperate to suppress tumorigenesis by enhancing TGF-beta signaling.
+      Notably, both TIEG1 and JARID1B are downregulated in melanomas, suggesting
+      that they indeed cooperate physiologically. In conclusion, JARID1B is the
+      first TIEG1 corepressor identified, explaining how TIEG1 represses
+      transcription through inducing histone H3 lysine 4 demethylation, which
+      may be important for TIEG1 function in both normal and cancer cells.
+CI  - Copyright (c) 2010 Elsevier Inc. All rights reserved.
+AD  - Department of Biochemistry and Molecular Biology, Mayo Clinic, Rochester,
+      MN 55905, USA.
+AU  - Kim J
+AU  - Shin S
+AU  - Subramaniam M
+AU  - Bruinsma E
+AU  - Kim TD
+AU  - Hawse JR
+AU  - Spelsberg TC
+AU  - Janknecht R
+LA  - ENG
+PT  - JOURNAL ARTICLE
+DEP - 20100920
+TA  - Biochem Biophys Res Commun
+JT  - Biochemical and biophysical research communications
+JID - 0372516
+EDAT- 2010/09/25 06:00
+MHDA- 2010/09/25 06:00
+CRDT- 2010/09/25 06:00
+PHST- 2010/09/14 [received]
+PHST- 2010/09/15 [accepted]
+AID - S0006-291X(10)01765-1 [pii]
+AID - 10.1016/j.bbrc.2010.09.068 [doi]
+PST - aheadofprint
+SO  - Biochem Biophys Res Commun. 2010 Sep 20.
+
+PMID- 20801928
+OWN - NLM
+STAT- In-Process
+DA  - 20100927
+IS  - 1745-7270 (Electronic)
+IS  - 1672-9145 (Linking)
+VI  - 42
+IP  - 10
+DP  - 2010 Oct
+TI  - Identification and analysis of type II TGF-{beta} receptors in
+      BMP-9-induced osteogenic differentiation of C3H10T1/2 mesenchymal stem
+      cells.
+PG  - 699-708
+AB  - Our previous studies have demonstrated that bone morphogenetic protein 9
+      (BMP-9) is one of the most efficacious BMPs to induce osteoblast
+      differentiation of mesenchymal stem cells (MSCs). However, the molecular
+      mechanism underlying the BMP-9-induced osteogenic differentiation of MSCs
+      remains to be fully elucidated. In this study, dominant negative (DN) type
+      II TGF-beta receptors were constructed and introduced into C3H10T1/2 stem
+      cells, then in vitro and in vivo assays were carried out to analyze and
+      identify the type II TGF-beta receptors required for BMP-9-induced
+      osteogenesis. We found that three DN type II TGF-beta receptors,
+      DN-BMPRII, DN-ActRII, and DN-ActRIIB, diminished BMP-9-induced alkaline
+      phosphatase (ALP) activity, led to a decrease in BMP-9-induced Smad
+      binding element (SBE)-controled reporter activity, reduced BMP-9-induced
+      expressions of Smad6 and Smad7, and decreased BMP-9-induced mineralization
+      in vitro and ectopic bone formation in vivo, finally resulted in decreased
+      bone masses and immature osteogenesis. These findings strongly suggested
+      that three wild-type II TGF-beta receptors, BMPRII, ActRII and ActRIIB,
+      may play a functional role in BMP-9-induced osteogenic differentiation of
+      C3H10T1/2 cells. However, C3H10T1/2 stem cells can express BMPRII and
+      ActRII, but not ActRIIB. Using RNA interference (RNAi), we found that
+      luciferase reporter activity and ALP activity induced by BMP-9 were
+      accordingly inhibited along with the knockdown of BMPRII and ActRII. Taken
+      together, our results demonstrated that BMPRII and ActRII are the
+      functional type II TGF-beta receptors in BMP-9-induced osteogenic
+      differentiation of C3H10T1/2 cells.
+AD  - Chongqing Medical University, China.
+FAU - Wu, Ningning
+AU  - Wu N
+FAU - Zhao, Yingze
+AU  - Zhao Y
+FAU - Yin, Yibing
+AU  - Yin Y
+FAU - Zhang, Yan
+AU  - Zhang Y
+FAU - Luo, Jinyong
+AU  - Luo J
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20100827
+PL  - China
+TA  - Acta Biochim Biophys Sin (Shanghai)
+JT  - Acta biochimica et biophysica Sinica
+JID - 101206716
+SB  - IM
+EDAT- 2010/08/31 06:00
+MHDA- 2010/08/31 06:00
+CRDT- 2010/08/31 06:00
+PHST- 2010/08/27 [aheadofprint]
+AID - gmq075 [pii]
+AID - 10.1093/abbs/gmq075 [doi]
+PST - ppublish
+SO  - Acta Biochim Biophys Sin (Shanghai). 2010 Oct;42(10):699-708. Epub 2010
+      Aug 27.
+
+PMID- 20738806
+OWN - NLM
+STAT- Publisher
+DA  - 20101006
+IS  - 1755-148X (Electronic)
+IS  - 1755-1471 (Linking)
+DP  - 2010 Aug 25
+TI  - Smad7 restricts melanoma invasion by restoring N-cadherin expression and
+      establishing heterotypic cell-cell interactions in vivo.
+LID - 10.1111/j.1755-148X.2010.00758.x [doi]
+AB  - The list of transforming growth factor-beta (TGF-beta)-related proteins in
+      non-canonical TGF-beta signaling is growing. Examples include
+      receptor-Smads directing micro-RNA processing and inhibitory-Smads, e.g.
+      Smad7, directing cell adhesion. Human skin grafts with fluorescently
+      tagged melanoma cells revealed Smad7-expressing cells positioned
+      themselves proximal to the dermal-epidermal junction and failed to form
+      tumors, while control cells readily invaded and formed tumors within the
+      dermis. Smad7 significantly inhibited beta-catenin T41/S45 phosphorylation
+      associated with degradation and induced a 4.5-fold increase in full-length
+      N-cadherin. Cell adhesion assays confirmed a strong interaction between
+      Smad7-expressing cells and primary dermal fibroblasts mediated via
+      N-cadherin, while control cells were incapable of such interaction.
+      Immunofluorescent analysis of skin grafts indicated N-cadherin homotypic
+      interaction at the surface of both Smad7 cells and primary dermal
+      fibroblasts, in contrast to control melanoma cells. We propose that Smad7
+      suppresses beta-catenin degradation and promotes interaction with
+      N-cadherin, stabilizing association with neighboring dermal fibroblasts,
+      thus mitigating invasion.
+CI  - (c) 2010 John Wiley & Sons A/S.
+AD  -  Department of Biochemistry & Molecular Biology, Georgetown University
+      School of Medicine Washington, DC, USA  Department of Bioengineering,
+      University of Maryland, College Park, MD, USA  Department of Oncology,
+      Georgetown University School of Medicine, Washington, DC, USA  Institut
+      Curie, Centre de Recherche, Orsay, France  INSERM U1021, Orsay, France 
+      CNRS UMR3347, Orsay, France  Universite Paris XI, Orsay, France.
+AU  - Divito KA
+AU  - Trabosh VA
+AU  - Chen YS
+AU  - Chen Y
+AU  - Albanese C
+AU  - Javelaud D
+AU  - Mauviel A
+AU  - Simbulan-Rosenthal CM
+AU  - Rosenthal DS
+LA  - ENG
+PT  - JOURNAL ARTICLE
+DEP - 20100825
+TA  - Pigment Cell Melanoma Res
+JT  - Pigment cell & melanoma research
+JID - 101318927
+EDAT- 2010/08/27 06:00
+MHDA- 2010/08/27 06:00
+CRDT- 2010/08/27 06:00
+AID - PCR758 [pii]
+AID - 10.1111/j.1755-148X.2010.00758.x [doi]
+PST - aheadofprint
+SO  - Pigment Cell Melanoma Res. 2010 Aug 25. doi:
+      10.1111/j.1755-148X.2010.00758.x.
+
+PMID- 20663871
+OWN - NLM
+STAT- In-Process
+DA  - 20100927
+IS  - 1083-351X (Electronic)
+IS  - 0021-9258 (Linking)
+VI  - 285
+IP  - 40
+DP  - 2010 Oct 1
+TI  - Smad7 inhibits transforming growth factor-beta family type i receptors
+      through two distinct modes of interaction.
+PG  - 30804-13
+AB  - The inhibitory Smads (I-Smads), i.e. Smad6 and Smad7, are negative
+      regulators of transforming growth factor-beta (TGF-beta) family signaling.
+      I-Smads inhibit TGF-beta family signaling principally through physical
+      interaction with type I receptors (activin receptor-like kinases), so as
+      to compete with receptor-regulated Smads (R-Smads) for activation.
+      However, how I-Smads interact with type I receptors is not well
+      understood. In the present study, we found that Smad7 has two modes of
+      interaction with type I receptors. One is through a three-finger-like
+      structure in the MH2 domain, consisting of residues 331-361, 379-387, and
+      the L3 loop. The other is through a basic groove in the MH2 domain
+      (Mochizuki, T., Miyazaki, H., Hara, T., Furuya, T., Imamura, T., Watabe,
+      T., and Miyazono, K. (2004) J. Biol. Chem. 279, 31568-31574). We also
+      found that Smad6 principally utilizes a basic groove in the MH2 domain for
+      interaction with type I receptors. Smad7 thus has an additional mode of
+      interaction with TGF-beta family type I receptors not possessed by Smad6,
+      which may play roles in mediating the inhibitory effects unique to Smad7.
+AD  - Department of Molecular Pathology, Graduate School of Medicine, University
+      of Tokyo, Bunkyo-ku, Tokyo 113-0033, Japan.
+FAU - Kamiya, Yuto
+AU  - Kamiya Y
+FAU - Miyazono, Kohei
+AU  - Miyazono K
+FAU - Miyazawa, Keiji
+AU  - Miyazawa K
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20100727
+PL  - United States
+TA  - J Biol Chem
+JT  - The Journal of biological chemistry
+JID - 2985121R
+SB  - IM
+PMC - PMC2945574
+OID - NLM: PMC2945574 [Available on 10/01/11]
+EDAT- 2010/07/29 06:00
+MHDA- 2010/07/29 06:00
+CRDT- 2010/07/29 06:00
+PMCR- 2011/10/01
+PHST- 2010/07/27 [aheadofprint]
+AID - M110.166140 [pii]
+AID - 10.1074/jbc.M110.166140 [doi]
+PST - ppublish
+SO  - J Biol Chem. 2010 Oct 1;285(40):30804-13. Epub 2010 Jul 27.
+
+PMID- 20659902
+OWN - NLM
+STAT- In-Process
+DA  - 20100927
+IS  - 1083-351X (Electronic)
+IS  - 0021-9258 (Linking)
+VI  - 285
+IP  - 40
+DP  - 2010 Oct 1
+TI  - Murine protein serine/threonine kinase 38 stimulates TGF-beta signaling in
+      a kinase-dependent manner via direct phosphorylation of Smad proteins.
+PG  - 30959-70
+AB  - The present study demonstrated that murine protein serine/threonine kinase
+      38 (MPK38) coimmunoprecipitates with Smad proteins (Smad2, -3, -4, and -7)
+      and that this association is mediated by the catalytic kinase domain of
+      MPK38. The association between MPK38 and Smad2, -3, and -4 was
+      significantly increased by TGF-beta or ASK1 signals, whereas these signals
+      decreased association of MPK38 with Smad7. MPK38 stimulated
+      TGF-beta-induced transcription required for TGF-beta-mediated biological
+      functions, such as apoptosis and cell growth arrest, in a kinase-dependent
+      manner. Knockdown of endogenous MPK38 showed an opposite effect,
+      inhibiting TGF-beta signaling. MPK38-mediated phosphorylation of Smad
+      proteins (Ser(245) of Smad2, Ser(204) of Smad3, Ser(343) of Smad4, and
+      Thr(96) of Smad7) was also found to be crucial to the positive regulation
+      of TGF-beta signaling induced by MPK38. In addition, MPK38 enhanced
+      nuclear translocation of Smad3, as well as redistribution of Smad7 from
+      the nucleus to the cytoplasm, in response to TGF-beta. Together, these
+      results indicate that MPK38 functions as a stimulator of TGF-beta
+      signaling through direct interaction with and phosphorylation of Smad
+      proteins.
+AD  - Department of Biochemistry, School of Life Sciences, Chungbuk National
+      University, Cheongju 361-763, Republic of Korea.
+FAU - Seong, Hyun-A
+AU  - Seong HA
+FAU - Jung, Haiyoung
+AU  - Jung H
+FAU - Ha, Hyunjung
+AU  - Ha H
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20100721
+PL  - United States
+TA  - J Biol Chem
+JT  - The Journal of biological chemistry
+JID - 2985121R
+SB  - IM
+PMC - PMC2945587
+OID - NLM: PMC2945587 [Available on 10/01/11]
+EDAT- 2010/07/28 06:00
+MHDA- 2010/07/28 06:00
+CRDT- 2010/07/28 06:00
+PMCR- 2011/10/01
+PHST- 2010/07/21 [aheadofprint]
+AID - M110.138370 [pii]
+AID - 10.1074/jbc.M110.138370 [doi]
+PST - ppublish
+SO  - J Biol Chem. 2010 Oct 1;285(40):30959-70. Epub 2010 Jul 21.
+
+PMID- 20643828
+OWN - NLM
+STAT- MEDLINE
+DA  - 20100803
+DCOM- 20101012
+IS  - 1540-9538 (Electronic)
+IS  - 0022-1007 (Linking)
+VI  - 207
+IP  - 8
+DP  - 2010 Aug 2
+TI  - miR-21 mediates fibrogenic activation of pulmonary fibroblasts and lung
+      fibrosis.
+PG  - 1589-97
+AB  - Uncontrolled extracellular matrix production by fibroblasts in response to
+      tissue injury contributes to fibrotic diseases, such as idiopathic
+      pulmonary fibrosis (IPF), a progressive and ultimately fatal process that
+      currently has no cure. Although dysregulation of miRNAs is known to be
+      involved in a variety of pathophysiologic processes, the role of miRNAs in
+      fibrotic lung diseases is unclear. In this study, we found up-regulation
+      of miR-21 in the lungs of mice with bleomycin-induced fibrosis and also in
+      the lungs of patients with IPF. Increased miR-21 expression was primarily
+      localized to myofibroblasts. Administration of miR-21 antisense probes
+      diminished the severity of experimental lung fibrosis in mice, even when
+      treatment was started 5-7 d after initiation of pulmonary injury.
+      TGF-beta1, a central pathological mediator of fibrotic diseases, enhanced
+      miR-21 expression in primary pulmonary fibroblasts. Increasing miR-21
+      levels promoted, whereas knocking down miR-21 attenuated, the
+      pro-fibrogenic activity of TGF-beta1 in fibroblasts. A potential mechanism
+      for the role of miR-21 in fibrosis is through regulating the expression of
+      an inhibitory Smad, Smad7. These experiments demonstrate an important role
+      for miR-21 in fibrotic lung diseases and also suggest a novel approach
+      using miRNA therapeutics in treating clinically refractory fibrotic
+      diseases, such as IPF.
+AD  - Department of Medicine, University of Alabama at Birmingham, Birmingham,
+      AL 35294, USA. gliu@uab.edu
+FAU - Liu, Gang
+AU  - Liu G
+FAU - Friggeri, Arnaud
+AU  - Friggeri A
+FAU - Yang, Yanping
+AU  - Yang Y
+FAU - Milosevic, Jadranka
+AU  - Milosevic J
+FAU - Ding, Qiang
+AU  - Ding Q
+FAU - Thannickal, Victor J
+AU  - Thannickal VJ
+FAU - Kaminski, Naftali
+AU  - Kaminski N
+FAU - Abraham, Edward
+AU  - Abraham E
+LA  - eng
+GR  - R01GM87748/GM/NIGMS NIH HHS/United States
+GR  - R01HL076206/HL/NHLBI NIH HHS/United States
+GR  - R01HL095397/HL/NHLBI NIH HHS/United States
+GR  - R01LM009657/LM/NLM NIH HHS/United States
+GR  - R21HL097218/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20100719
+PL  - United States
+TA  - J Exp Med
+JT  - The Journal of experimental medicine
+JID - 2985109R
+RN  - 0 (Actins)
+RN  - 0 (Antisense Elements (Genetics))
+RN  - 0 (Extracellular Matrix Proteins)
+RN  - 0 (Fibronectins)
+RN  - 0 (MIRN21 microRNA, human)
+RN  - 0 (MIRN21 microRNA, mouse)
+RN  - 0 (MicroRNAs)
+RN  - 0 (Oligonucleotides)
+RN  - 0 (SMAD2 protein, human)
+RN  - 0 (SMAD7 protein, human)
+RN  - 0 (Smad2 Protein)
+RN  - 0 (Smad7 Protein)
+RN  - 0 (Transforming Growth Factor beta1)
+RN  - 0 (alpha-smooth muscle actin, mouse)
+RN  - 0 (locked nucleic acid)
+RN  - 11056-06-7 (Bleomycin)
+RN  - 9007-34-5 (Collagen)
+SB  - IM
+MH  - Actins/genetics/metabolism
+MH  - Animals
+MH  - Antisense Elements (Genetics)/genetics/therapeutic use
+MH  - Bleomycin/pharmacology
+MH  - Cell Line
+MH  - Collagen/genetics/metabolism
+MH  - Extracellular Matrix Proteins/genetics/metabolism
+MH  - Fibroblasts/drug effects/*metabolism/*pathology
+MH  - Fibronectins/genetics/metabolism
+MH  - Gene Expression/drug effects/genetics
+MH  - Humans
+MH  - Idiopathic Pulmonary Fibrosis/*genetics/metabolism/pathology
+MH  - Lung/metabolism/pathology
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Mice, Transgenic
+MH  - MicroRNAs/genetics/*metabolism
+MH  - Oligonucleotides/genetics
+MH  - Phosphorylation/drug effects
+MH  - Pulmonary Fibrosis/chemically induced/*genetics/*pathology/therapy
+MH  - Smad2 Protein/metabolism
+MH  - Smad7 Protein/genetics/metabolism
+MH  - Transforming Growth Factor beta1/genetics/pharmacology
+PMC - PMC2916139
+OID - NLM: PMC2916139 [Available on 02/02/11]
+EDAT- 2010/07/21 06:00
+MHDA- 2010/10/13 06:00
+CRDT- 2010/07/21 06:00
+PMCR- 2011/02/02
+PHST- 2010/07/19 [aheadofprint]
+AID - jem.20100035 [pii]
+AID - 10.1084/jem.20100035 [doi]
+PST - ppublish
+SO  - J Exp Med. 2010 Aug 2;207(8):1589-97. Epub 2010 Jul 19.
+
+PMID- 20631490
+OWN - NLM
+STAT- In-Process
+DA  - 20100929
+IS  - 1226-3613 (Print)
+IS  - 1226-3613 (Linking)
+VI  - 42
+IP  - 9
+DP  - 2010 Sep 30
+TI  - TGF-beta1 induces mouse dendritic cells to express VEGF and its receptor
+      (Flt-1) under hypoxic conditions.
+PG  - 606-13
+AB  - Angiogenesis is a multi-step process that involves the activation,
+      proliferation, and migration of endothelial cells. We have recently shown
+      that TGF-beta1 can induce mouse macrophages to produce VEGF, a potent
+      angiogenic factor. In the present study, we explored whether TGF-beta1 has
+      a similar effect on mouse dendritic cells. First, we show that under
+      hypoxic conditions, TGF-beta1 induced the expression of VEGF transcripts
+      in bone marrow-derived dendritic cells. Overexpression of Smad3/4 further
+      augmented TGF-beta1-induced VEGF transcription, while overexpression of
+      DN-Smad3 decreased VEGF transcription in DC2.4 cells, a mouse dendritic
+      cell line. We also show that TGF-beta1 and Smads are involved in the
+      induction of VEGF protein secretion. Interestingly, under the same
+      conditions, the expression of VEGF receptor 1 (Flt-1) was also elevated at
+      both the transcriptional and protein levels. Additionally, we found that
+      the TGF-beta1-induced VEGF secretion in activated DC2.4 cells has
+      wound-healing properties. Finally, Smad7 and Smurf1 negatively regulated
+      the TGF-beta1-induced and Smad3/4-mediated VEGF expression. Taken
+      together, these results indicate that TGF-beta1 can enhance the expression
+      of VEGF and Flt-1 through the typical Smad pathway in mouse dendritic
+      cells.
+AD  - Department of Molecular Bioscience, College of Biomedical Sciences,
+      Kangwon National University, Chuncheon 200-701, Korea.
+FAU - Nam, Eun-Hee
+AU  - Nam EH
+FAU - Park, Seok-Rae
+AU  - Park SR
+FAU - Kim, Pyeung-Hyeun
+AU  - Kim PH
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Korea (South)
+TA  - Exp Mol Med
+JT  - Experimental & molecular medicine
+JID - 9607880
+SB  - IM
+PMC - PMC2947018
+OID - NLM: PMC2947018
+EDAT- 2010/07/16 06:00
+MHDA- 2010/07/16 06:00
+CRDT- 2010/07/16 06:00
+AID - 10.3858/emm.2010.42.059 [pii]
+PST - ppublish
+SO  - Exp Mol Med. 2010 Sep 30;42(9):606-13.
+
+PMID- 20628268
+OWN - NLM
+STAT- In-Process
+DA  - 20100830
+IS  - 1226-3613 (Print)
+IS  - 1226-3613 (Linking)
+VI  - 42
+IP  - 8
+DP  - 2010 Aug 31
+TI  - Synovial fluid of patients with rheumatoid arthritis induces alpha-smooth
+      muscle actin in human adipose tissue-derived mesenchymal stem cells
+      through a TGF-beta1-dependent mechanism.
+PG  - 565-73
+AB  - Rheumatoid arthritis (RA) is a chronic, inflammatory autoimmune disorder
+      that causes the immune system to attack the joints. Transforming growth
+      factor-beta1 (TGF-beta1) is a secreted protein that promotes
+      differentiation of synovial fibroblasts to alpha-smooth muscle actin
+      (alpha-SMA)-positive myofibroblasts to repair the damaged joints. Synovial
+      fluid from patients with RA (RA-SF) induced expression of alpha-SMA in
+      human adipose tissue-derived mesenchymal stem cells (hASCs). RA-SF-induced
+      alpha-SMA expression was abrogated by immunodepletion of TGF-beta1 from
+      RA-SF with anti-TGF-beta1 antibody. Furthermore, pretreatment of hASCs
+      with the TGF-beta type I receptor inhibitor SB431542 or lentiviral small
+      hairpin RNA-mediated silencing of TGF-beta type I receptor expression in
+      hASCs blocked RA-SF-induced alpha-SMA expression. Small interfering
+      RNA-mediated silencing of Smad2 or adenoviral overexpression of Smad7 (an
+      inhibitory Smad isoform) completely inhibited RA-SF-stimulated alpha-SMA
+      expression. These results suggest that TGF-beta1 plays a pivotal role in
+      RA-SF-induced differentiation of hASCs to alpha-SMA-positive cells.
+AD  - Medical Research Center for Ischemic Tissue Regeneration, Department of
+      Physiology, Medical Research Institute, School of Medicine, Pusan National
+      University, Yangsan, Korea.
+FAU - Song, Hae Young
+AU  - Song HY
+FAU - Kim, Min Young
+AU  - Kim MY
+FAU - Kim, Kyung Hye
+AU  - Kim KH
+FAU - Lee, Il Hwan
+AU  - Lee IH
+FAU - Shin, Sang Hun
+AU  - Shin SH
+FAU - Lee, Jung Sub
+AU  - Lee JS
+FAU - Kim, Jae Ho
+AU  - Kim JH
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Korea (South)
+TA  - Exp Mol Med
+JT  - Experimental & molecular medicine
+JID - 9607880
+SB  - IM
+PMC - PMC2928929
+OID - NLM: PMC2928929
+EDAT- 2010/07/16 06:00
+MHDA- 2010/07/16 06:00
+CRDT- 2010/07/15 06:00
+AID - 10.3858/emm.2010.42.057 [pii]
+PST - ppublish
+SO  - Exp Mol Med. 2010 Aug 31;42(8):565-73.
+
+PMID- 20625653
+OWN - NLM
+STAT- In-Process
+DA  - 20100713
+IS  - 1677-9487 (Electronic)
+IS  - 0004-2730 (Linking)
+VI  - 54
+IP  - 4
+DP  - 2010 Jun
+TI  - Expression of SMAD proteins, TGF-beta/activin signaling mediators, in
+      human thyroid tissues.
+PG  - 406-12
+LID - S0004-27302010000400010 [pii]
+AB  - OBJECTIVE: To investigate the expression of SMAD proteins in human thyroid
+      tissues since the inactivation of TGF-beta/activin signaling components is
+      reported in several types of cancer. Phosphorylated SMAD 2 and SMAD3
+      (pSMAD2/3) associated with the SMAD4 induce the signal transduction
+      generated by TGF-beta and activin, while SMAD7 inhibits this intracellular
+      signaling. Although TGF-beta and activin exert antiproliferative roles in
+      thyroid follicular cells, thyroid tumors express high levels of these
+      proteins. MATERIALS AND METHODS: The protein expression of SMADs was
+      evaluated in multinodular goiter, follicular adenoma, papillary and
+      follicular carcinomas by immunohistochemistry. RESULTS: The expression of
+      pSMAD2/3, SMAD4 and SMAD7 was observed in both benign and malignant
+      thyroid tumors. Although pSMAD2/3, SMAD4 and SMAD7 exhibited high
+      cytoplasmic staining in carcinomas, the nuclear staining of pSMAD2/3 was
+      not different between benign and malignant lesions. CONCLUSIONS: The
+      finding of SMADs expression in thyroid cells and the presence of pSMAD2/3
+      and SMAD4 proteins in the nucleus of tumor cells indicates propagation of
+      TGF-beta/activin signaling. However, the high expression of the inhibitory
+      SMAD7, mostly in malignant tumors, could contribute to the attenuation of
+      the SMADs antiproliferative signaling in thyroid carcinomas.
+AD  - Departamento de Biologia Celular e do Desenvolvimento, Universidade de Sao
+      Paulo, Sao Paulo, SP, Brazil.
+FAU - Matsuo, Silvia E
+AU  - Matsuo SE
+FAU - Fiore, Ana Paula Z P
+AU  - Fiore AP
+FAU - Siguematu, Simone M
+AU  - Siguematu SM
+FAU - Ebina, Katia N
+AU  - Ebina KN
+FAU - Friguglietti, Celso U M
+AU  - Friguglietti CU
+FAU - Ferro, Maria C
+AU  - Ferro MC
+FAU - Kulcsar, Marco A V
+AU  - Kulcsar MA
+FAU - Kimura, Edna T
+AU  - Kimura ET
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Brazil
+TA  - Arq Bras Endocrinol Metabol
+JT  - Arquivos brasileiros de endocrinologia e metabologia
+JID - 0403437
+SB  - IM
+EDAT- 2010/07/14 06:00
+MHDA- 2010/07/14 06:00
+CRDT- 2010/07/14 06:00
+PHST- 2009/11/07 [received]
+PHST- 2010/02/24 [accepted]
+AID - S0004-27302010000400010 [pii]
+PST - ppublish
+SO  - Arq Bras Endocrinol Metabol. 2010 Jun;54(4):406-12.
+
+PMID- 20625373
+OWN - NLM
+STAT- Publisher
+DA  - 20100713
+IS  - 1530-0307 (Electronic)
+IS  - 0023-6837 (Linking)
+DP  - 2010 Jul 12
+TI  - Correlation between microRNA expression levels and clinical parameters
+      associated with chronic hepatitis C viral infection in humans.
+AB  - MicroRNAs (miRNAs) are small RNAs that regulate gene expression pathways.
+      Previous studies have shown interactions between hepatitis C virus (HCV)
+      and host miRNAs. We measured miR-122 and miR-21 levels in HCV-infected
+      human liver biopsies relative to uninfected human livers and correlated
+      these with clinical patient data. miR-122 is required for HCV replication
+      in vitro, and miR-21 is involved in cellular proliferation and
+      tumorigenesis. We found that miR-21 expression correlated with viral load,
+      fibrosis and serum liver transaminase levels. miR-122 expression inversely
+      correlated with fibrosis, liver transaminase levels and patient age.
+      miR-21 was induced approximately twofold, and miR-122 was downregulated on
+      infection of cultured cells with the HCV J6/JFH infectious clone, thus
+      establishing a link to HCV. To further examine the relationship between
+      fibrosis and the levels of miR-21 and miR-122, we measured their
+      expression levels in a mouse carbon tetrachloride fibrosis model. As in
+      the HCV-infected patient samples, fibrotic stage positively correlated
+      with miR-21 and negatively correlated with miR-122 levels. Transforming
+      growth factor beta (TGF-beta) is a critical mediator of fibrogenesis. We
+      identified SMAD7 as a novel miR-21 target. SMAD7 is a negative regulator
+      of TGF-beta signaling, and its expression is induced by TGF-beta. To
+      confirm the relationship between miR-21 and the TGF-beta signaling
+      pathway, we measured the effect of miR-21 on a TGF-beta-responsive
+      reporter. We found that miR-21 enhanced TGF-beta signaling, further
+      supporting a relationship between miR-21 and fibrosis. We suggest a model
+      in which miR-21 targeting of SMAD7 could increase TGF-beta signaling,
+      leading to increased fibrogenesis.Laboratory Investigation advance online
+      publication, 12 July 2010; doi:10.1038/labinvest.2010.126.
+AD  - Department of Internal Medicine, University of Iowa School of Medicine,
+      University of Iowa, Iowa City, IA, USA.
+AU  - Marquez RT
+AU  - Bandyopadhyay S
+AU  - Wendlandt EB
+AU  - Keck K
+AU  - Hoffer BA
+AU  - Icardi MS
+AU  - Christensen RN
+AU  - Schmidt WN
+AU  - McCaffrey AP
+LA  - ENG
+PT  - JOURNAL ARTICLE
+DEP - 20100712
+TA  - Lab Invest
+JT  - Laboratory investigation; a journal of technical methods and pathology
+JID - 0376617
+EDAT- 2010/07/14 06:00
+MHDA- 2010/07/14 06:00
+CRDT- 2010/07/14 06:00
+PHST- 2010/07/12 [aheadofprint]
+AID - labinvest2010126 [pii]
+AID - 10.1038/labinvest.2010.126 [doi]
+PST - aheadofprint
+SO  - Lab Invest. 2010 Jul 12.
+
+PMID- 20610632
+OWN - NLM
+STAT- MEDLINE
+DA  - 20100730
+DCOM- 20100913
+IS  - 1538-7445 (Electronic)
+IS  - 0008-5472 (Linking)
+VI  - 70
+IP  - 15
+DP  - 2010 Aug 1
+TI  - Transforming growth factor-beta (TGF-beta)-inducible gene TMEPAI converts
+      TGF-beta from a tumor suppressor to a tumor promoter in breast cancer.
+PG  - 6377-83
+AB  - TMEPAI is a transforming growth factor-beta (TGF-beta)-induced
+      transmembrane protein that is overexpressed in several cancers. How TMEPAI
+      expression relates to malignancy is unknown. Here, we report high
+      expression of TMEPAI in estrogen receptor/progesterone receptor-negative
+      and human epidermal growth factor receptor-2-negative breast cancer cell
+      lines and primary breast cancers that was further increased by TGF-beta
+      treatment. Basal and TGF-beta-induced expression of TMEPAI were inhibited
+      by the TGF-beta receptor antagonist SB431542 and overexpression of Smad7
+      or a dominant-negative mutant of Alk-5. TMEPAI knockdown attenuated
+      TGF-beta-induced growth and motility in breast cancer cells, suggesting a
+      role for TMEPAI in growth promotion and invasiveness. Further, TMEPAI
+      knockdown decreased breast tumor mass in a mouse xenograft model in a
+      manner associated with increased expression of phosphatase and tensin
+      homologue (PTEN) and diminished phosphorylation of Akt. Consistent with
+      the effects through the phosphatidylinositol 3-kinase pathway, tumors with
+      TMEPAI knockdown exhibited elevated levels of the cell cycle inhibitor
+      p27kip1 and attenuated levels of DNA replication and expression of
+      hypoxia-inducible fator 1alpha and vascular endothelial growth factor.
+      Together, these results suggest that TMEPAI functions in breast cancer as
+      a molecular switch that converts TGF-beta from a tumor suppressor to a
+      tumor promoter.
+AD  - Department of Pathology, The University of Texas Health Science Center at
+      San Antonio, San Antonio, Texas 78229, USA.
+FAU - Singha, Prajjal K
+AU  - Singha PK
+FAU - Yeh, I-Tien
+AU  - Yeh IT
+FAU - Venkatachalam, Manjeri A
+AU  - Venkatachalam MA
+FAU - Saikumar, Pothana
+AU  - Saikumar P
+LA  - eng
+GR  - 2 P30 CA054174-17/CA/NCI NIH HHS/United States
+GR  - DK37139/DK/NIDDK NIH HHS/United States
+GR  - DK54472/DK/NIDDK NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20100707
+PL  - United States
+TA  - Cancer Res
+JT  - Cancer research
+JID - 2984705R
+RN  - 0 (Membrane Proteins)
+RN  - 0 (PMEPA1 protein, human)
+RN  - 0 (RNA, Small Interfering)
+RN  - 0 (Transforming Growth Factor beta)
+SB  - IM
+MH  - Animals
+MH  - Breast Neoplasms/*genetics/*metabolism/pathology
+MH  - Carcinoma, Ductal, Breast/*genetics/*metabolism/pathology
+MH  - Cell Growth Processes/genetics
+MH  - Cell Movement/genetics
+MH  - Female
+MH  - Gene Amplification
+MH  - Gene Expression Regulation, Neoplastic
+MH  - Gene Knockdown Techniques
+MH  - Humans
+MH  - Membrane Proteins/*biosynthesis/genetics
+MH  - Mice
+MH  - Mice, Nude
+MH  - RNA, Small Interfering/genetics
+MH  - Transforming Growth Factor beta/genetics/metabolism/*pharmacology
+PMC - PMC2912953
+MID - NIHMS215756
+OID - NLM: NIHMS215756 [Available on 08/01/11]
+OID - NLM: PMC2912953 [Available on 08/01/11]
+EDAT- 2010/07/09 06:00
+MHDA- 2010/09/14 06:00
+CRDT- 2010/07/09 06:00
+PMCR- 2011/08/01
+PHST- 2010/07/07 [aheadofprint]
+AID - 0008-5472.CAN-10-1180 [pii]
+AID - 10.1158/0008-5472.CAN-10-1180 [doi]
+PST - ppublish
+SO  - Cancer Res. 2010 Aug 1;70(15):6377-83. Epub 2010 Jul 7.
+
+PMID- 20593491
+OWN - NLM
+STAT- MEDLINE
+DA  - 20100707
+DCOM- 20100802
+IS  - 1096-9896 (Electronic)
+IS  - 0022-3417 (Linking)
+VI  - 221
+IP  - 4
+DP  - 2010 Aug
+TI  - Essential role for Smad3 in angiotensin II-induced tubular
+      epithelial-mesenchymal transition.
+PG  - 390-401
+AB  - Angiotensin II (Ang II) is a key mediator of chronic kidney disease, in
+      which epithelial-mesenchymal transition (EMT) is a critical process
+      mediated by the TGFbeta/Smad signalling pathway. The present study
+      examined the specific role of Smads in Ang II-induced EMT in vitro and in
+      vivo. We found that Ang II signalled through the receptor of AT1, not AT2,
+      to activate Smad2/3 and induce EMT in a normal rat tubular epithelial cell
+      line (NRK52E). Activation of Smads by Ang II was attributed to degradation
+      of an inhibitory Smad7, which was mediated by the AT1-Smurf2-dependent
+      ubiquitin degradation mechanism because blockade of AT1 receptor or
+      knockdown of Smurf2 inhibited Smad7 loss, thereby reducing Smad2/3
+      activation and EMT in response to Ang II. In contrast, over-expression of
+      Smad7 inhibited Ang II-induced Smad2/3 activation and EMT in NRK52E cells
+      and in a rat model of remnant kidney disease. Moreover, knockdown of
+      Smad3, not Smad2, attenuated Ang II-induced EMT. In conclusion, Ang II
+      activates Smad signalling to induce EMT, which is mediated by a loss of
+      Smad7 through the AT1-Smurf2-dependent ubiquitin degradation pathway.
+      Smad3, but not Smad2, may be a mediator of EMT, while Smad7 may play a
+      protective role in EMT in response to Ang II.
+AD  - Department of Medicine, Li Ka Shing Faculty of Medicine, University of
+      Hong Kong, Shatin, NT, Hong Kong.
+FAU - Yang, Fuye
+AU  - Yang F
+FAU - Huang, Xiao Ru
+AU  - Huang XR
+FAU - Chung, Arthur C K
+AU  - Chung AC
+FAU - Hou, Chun-Cheng
+AU  - Hou CC
+FAU - Lai, Kar Neng
+AU  - Lai KN
+FAU - Lan, Hui Yao
+AU  - Lan HY
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - J Pathol
+JT  - The Journal of pathology
+JID - 0204634
+RN  - 0 (Madh3 protein, rat)
+RN  - 0 (Receptor, Angiotensin, Type 1)
+RN  - 0 (Receptor, Angiotensin, Type 2)
+RN  - 0 (Smad Proteins, Receptor-Regulated)
+RN  - 0 (Smad2 Protein)
+RN  - 0 (Smad3 Protein)
+RN  - 0 (Smad7 Protein)
+RN  - 0 (Ubiquitin)
+RN  - 11128-99-7 (Angiotensin II)
+SB  - IM
+MH  - Angiotensin II/*pharmacology
+MH  - Animals
+MH  - Cells, Cultured
+MH  - Dose-Response Relationship, Drug
+MH  - Epithelium/drug effects/pathology
+MH  - Gene Therapy/methods
+MH  - Kidney Diseases/metabolism/therapy
+MH  - Kidney Tubules/*drug effects/pathology/physiopathology
+MH  - Male
+MH  - Mesoderm/drug effects/pathology
+MH  - Rats
+MH  - Rats, Sprague-Dawley
+MH  - Receptor, Angiotensin, Type 1/drug effects/physiology
+MH  - Receptor, Angiotensin, Type 2/drug effects/physiology
+MH  - Signal Transduction/drug effects/physiology
+MH  - Smad Proteins, Receptor-Regulated/physiology
+MH  - Smad2 Protein/metabolism
+MH  - Smad3 Protein/*physiology
+MH  - Smad7 Protein/metabolism
+MH  - Ubiquitin/metabolism
+EDAT- 2010/07/02 06:00
+MHDA- 2010/08/03 06:00
+CRDT- 2010/07/02 06:00
+AID - 10.1002/path.2721 [doi]
+PST - ppublish
+SO  - J Pathol. 2010 Aug;221(4):390-401.
+
+PMID- 20592275
+OWN - NLM
+STAT- MEDLINE
+DA  - 20100727
+DCOM- 20100908
+IS  - 1550-6606 (Electronic)
+IS  - 0022-1767 (Linking)
+VI  - 185
+IP  - 3
+DP  - 2010 Aug 1
+TI  - T cell activation leads to protein kinase C theta-dependent inhibition of
+      TGF-beta signaling.
+PG  - 1568-76
+AB  - TGF-beta is an ubiquitous cytokine that plays a pivotal role in the
+      maintenance of self-tolerance and prevention of immunopathologies. Under
+      steady-state conditions, TGF-beta keeps naive T cells in a resting state
+      and inhibits Th1 and Th2 cell differentiation. Because rapid generation of
+      Th1 and Th2 effector cells is needed in response to pathogen invasion, how
+      do naive T cells escape from the quiescent state maintained by TGF-beta?
+      We hypothesized that stimulation by strong TCR agonists might interfere
+      with TGF-beta signaling. Using both primary mouse CD4(+) T cells and human
+      Jurkat cells, we observed that strong TCR agonists swiftly suppress
+      TGF-beta signaling. TCR engagement leads to a rapid increase in SMAD7
+      levels and decreased SMAD3 phosphorylation. We present evidence that TCR
+      signaling hinders SMAD3 activation by inducing recruitment of TGF-betaRs
+      in lipid rafts together with inhibitory SMAD7. This effect is dependent on
+      protein kinase C, a downstream TCR signaling intermediary, as revealed by
+      both pharmacological inhibition and expression of dominant-negative and
+      constitutively active protein kinase C mutants. This work broadens our
+      understanding of the cross-talk occurring between the TCR and TGF-beta
+      signaling pathways and reveals that strong TCR agonists can release CD4 T
+      cells from constitutive TGF-beta signaling. We propose that this process
+      may be of vital importance upon confrontation with microbial pathogens.
+AD  - Institute for Research in Immunology and Cancer, Montreal, Quebec H3C 3J7,
+      Canada.
+FAU - Giroux, Martin
+AU  - Giroux M
+FAU - Delisle, Jean-Sebastien
+AU  - Delisle JS
+FAU - O'Brien, Alan
+AU  - O'Brien A
+FAU - Hebert, Marie-Josee
+AU  - Hebert MJ
+FAU - Perreault, Claude
+AU  - Perreault C
+LA  - eng
+GR  - Canadian Institutes of Health Research/Canada
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20100630
+PL  - United States
+TA  - J Immunol
+JT  - Journal of immunology (Baltimore, Md. : 1950)
+JID - 2985117R
+RN  - 0 (Antibodies, Monoclonal)
+RN  - 0 (Antigens, CD28)
+RN  - 0 (Antigens, CD3)
+RN  - 0 (Isoenzymes)
+RN  - 0 (Receptors, Antigen, T-Cell)
+RN  - 0 (Smad3 Protein)
+RN  - 0 (Transforming Growth Factor beta1)
+RN  - EC 2.7.1.- (Prkcq protein, mouse)
+RN  - EC 2.7.11.13 (Protein Kinase C)
+SB  - AIM
+SB  - IM
+MH  - Animals
+MH  - Antibodies, Monoclonal/physiology
+MH  - Antigens, CD28/immunology
+MH  - Antigens, CD3/immunology
+MH  - CD4-Positive T-Lymphocytes/enzymology/*immunology/metabolism
+MH  - Down-Regulation/genetics/immunology
+MH  - G0 Phase/immunology
+MH  - Humans
+MH  - Isoenzymes/genetics/*physiology
+MH  - Jurkat Cells
+MH  - Lymphocyte Activation/*immunology
+MH  - Membrane Microdomains/drug effects/immunology/metabolism
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Mice, Transgenic
+MH  - Phosphorylation/immunology
+MH  - Protein Kinase C/genetics/*physiology
+MH  - Receptors, Antigen, T-Cell/agonists/antagonists & inhibitors/physiology
+MH  - Signal Transduction/drug effects/*immunology
+MH  - Smad3 Protein/antagonists & inhibitors/metabolism
+MH  - Transforming Growth Factor beta1/*antagonists & inhibitors/*physiology
+EDAT- 2010/07/02 06:00
+MHDA- 2010/09/09 06:00
+CRDT- 2010/07/02 06:00
+PHST- 2010/06/30 [aheadofprint]
+AID - jimmunol.1000137 [pii]
+AID - 10.4049/jimmunol.1000137 [doi]
+PST - ppublish
+SO  - J Immunol. 2010 Aug 1;185(3):1568-76. Epub 2010 Jun 30.
+
+PMID- 20573232
+OWN - NLM
+STAT- In-Process
+DA  - 20100721
+IS  - 1476-4598 (Electronic)
+IS  - 1476-4598 (Linking)
+VI  - 9
+DP  - 2010
+TI  - Tumor suppressor FLCN inhibits tumorigenesis of a FLCN-null renal cancer
+      cell line and regulates expression of key molecules in TGF-beta signaling.
+PG  - 160
+AB  - BACKGROUND: Germline mutations in the FLCN gene are responsible for the
+      development of fibrofolliculomas, lung cysts and renal neoplasia in
+      Birt-Hogg-Dube' (BHD) syndrome. The encoded protein folliculin (FLCN) is
+      conserved across species but contains no classic motifs or domains and its
+      function remains unknown. Somatic mutations or loss of heterozygosity in
+      the remaining wild type copy of the FLCN gene have been found in renal
+      tumors from BHD patients suggesting that FLCN is a classic tumor
+      suppressor gene. RESULTS: To examine the tumor suppressor function of
+      FLCN, wild-type or mutant FLCN (H255R) was stably expressed in a FLCN-null
+      renal tumor cell line, UOK257, derived from a BHD patient. When these
+      cells were injected into nude mice, tumor development was inversely
+      dependent upon the level of wild-type FLCN expression. We identified genes
+      that were differentially expressed in the cell lines with or without
+      wild-type FLCN, many of which are involved in TGF-beta signaling,
+      including TGF-beta2 (TGFB2), inhibin beta A chain (INHBA), thrombospondin
+      1 (THBS1), gremlin (GREM1), and SMAD3. In support of the in vitro data,
+      TGFB2, INHBA, THBS1 and SMAD3 expression levels were significantly lower
+      in BHD-associated renal tumors compared with normal kidney tissue.
+      Although receptor mediated SMAD phosphorylation was not affected, basal
+      and maximal TGF-beta-induced levels of TGFB2, INHBA and SMAD7 were
+      dramatically reduced in FLCN-null cells compared with FLCN-restored cells.
+      Secreted TGF-beta2 and activin A (homo-dimer of INHBA) protein levels were
+      also lower in FLCN-null cells compared with FLCN-restored cells.
+      Consistent with a growth suppressive function, activin A (but not
+      TGF-beta2) completely suppressed anchorage-independent growth of FLCN-null
+      UOK257 cells. CONCLUSIONS: Our data demonstrate a role for FLCN in the
+      regulation of key molecules in TGF-beta signaling and confirm deregulation
+      of their expression in BHD-associated renal tumors. Thus, deregulation of
+      genes involved in TGF-beta signaling by FLCN inactivation is likely to be
+      an important step for tumorigenesis in BHD syndrome.
+AD  - Urologic Oncology Branch, Center for Cancer Research, National Cancer
+      Institute, 10 Center Drive MSC1107, 10/CRC/1W-5940, Bethesda, MD 20892,
+      USA.
+FAU - Hong, Seung-Beom
+AU  - Hong SB
+FAU - Oh, HyoungBin
+AU  - Oh H
+FAU - Valera, Vladimir A
+AU  - Valera VA
+FAU - Stull, Jaime
+AU  - Stull J
+FAU - Ngo, Duy-Tan
+AU  - Ngo DT
+FAU - Baba, Masaya
+AU  - Baba M
+FAU - Merino, Maria J
+AU  - Merino MJ
+FAU - Linehan, W Marston
+AU  - Linehan WM
+FAU - Schmidt, Laura S
+AU  - Schmidt LS
+LA  - eng
+GR  - HHSN261200800001E/PHS HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, N.I.H., Intramural
+DEP - 20100623
+PL  - England
+TA  - Mol Cancer
+JT  - Molecular cancer
+JID - 101147698
+SB  - IM
+PMC - PMC2907329
+OID - NLM: PMC2907329
+EDAT- 2010/06/25 06:00
+MHDA- 2010/06/25 06:00
+CRDT- 2010/06/25 06:00
+PHST- 2010/01/19 [received]
+PHST- 2010/06/23 [accepted]
+PHST- 2010/06/23 [aheadofprint]
+AID - 1476-4598-9-160 [pii]
+AID - 10.1186/1476-4598-9-160 [doi]
+PST - epublish
+SO  - Mol Cancer. 2010 Jun 23;9:160.
+
+PMID- 20547485
+OWN - NLM
+STAT- MEDLINE
+DA  - 20100816
+DCOM- 20100930
+IS  - 1083-351X (Electronic)
+IS  - 0021-9258 (Linking)
+VI  - 285
+IP  - 34
+DP  - 2010 Aug 20
+TI  - Smad3 regulates Rho signaling via NET1 in the transforming growth
+      factor-beta-induced epithelial-mesenchymal transition of human retinal
+      pigment epithelial cells.
+PG  - 26618-27
+AB  - We previously demonstrated that RhoA-dependent signaling regulates
+      transforming growth factor-beta1 (TGF-beta1)-induced cytoskeletal
+      reorganization in the human retinal pigment epithelial cell line ARPE-19.
+      Smad pathways have also been shown to mediate TGF-beta1 activity. Here, we
+      examined what regulates Rho GTPase activity and tested whether Smad
+      signaling cross-talks with Rho pathways during TGF-beta1-induced actin
+      rearrangement. Using small interfering RNAs, we found that NET1, the
+      guanine nucleotide exchange factor of RhoA, is critical for
+      TGF-beta1-induced cytoskeletal reorganization, N-cadherin expression, and
+      RhoA activation. In ARPE-19 cells lacking NET1, TGF-beta1-induced stress
+      fibers and N-cadherin expression were not observed. Interestingly, in
+      dominant-negative Smad3-expressing or constitutively active Smad7 cells,
+      TGF-beta1 failed to induce NET1 mRNA and protein expression. Consistent
+      with these results, both dominant-negative Smad3 and constitutively active
+      Smad7 blocked the cytoplasmic localization of NET1 and inhibited
+      interactions between NET1 and RhoA. Finally, we found that NET1 is a
+      direct gene target of TGF-beta1 via Smad3. Taken together, our results
+      demonstrate that Smad3 regulates RhoA activation and cytoskeletal
+      reorganization by controlling NET1 in TGF-beta1-induced ARPE-19 cells.
+      These data define a new role for Smad3 as a modulator of RhoA activation
+      in the regulation of TGF-beta1-induced epithelial-mesenchymal transitions.
+AD  - Laboratory of Ophthalmology and Visual Science, Catholic Research
+      Institutes of Medical Sciences, Korean Eye Tissue and Gene Bank Related to
+      Blindness, College of Medicine, The Catholic University of Korea, Seoul,
+      Korea. leeje@catholic.ac.kr
+FAU - Lee, Jungeun
+AU  - Lee J
+FAU - Moon, Hyun-Jeong
+AU  - Moon HJ
+FAU - Lee, Jong-Min
+AU  - Lee JM
+FAU - Joo, Choun-Ki
+AU  - Joo CK
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20100611
+PL  - United States
+TA  - J Biol Chem
+JT  - The Journal of biological chemistry
+JID - 2985121R
+RN  - 0 (NET1 protein, human)
+RN  - 0 (Oncogene Proteins)
+RN  - 0 (Smad3 Protein)
+RN  - 0 (Transforming Growth Factor beta1)
+RN  - EC 3.6.5.2 (rhoA GTP-Binding Protein)
+SB  - IM
+MH  - Cell Line
+MH  - Cytoskeleton/metabolism/ultrastructure
+MH  - Epithelial Cells/cytology
+MH  - Humans
+MH  - Mesenchymal Stem Cells/cytology
+MH  - Oncogene Proteins/*metabolism
+MH  - Retinal Pigment Epithelium/*cytology
+MH  - Signal Transduction
+MH  - Smad3 Protein/*physiology
+MH  - Transforming Growth Factor beta1/*pharmacology
+MH  - rhoA GTP-Binding Protein/*metabolism
+PMC - PMC2924101
+OID - NLM: PMC2924101 [Available on 08/20/11]
+EDAT- 2010/06/16 06:00
+MHDA- 2010/10/01 06:00
+CRDT- 2010/06/16 06:00
+PMCR- 2011/08/20
+PHST- 2010/06/11 [aheadofprint]
+AID - M109.073155 [pii]
+AID - 10.1074/jbc.M109.073155 [doi]
+PST - ppublish
+SO  - J Biol Chem. 2010 Aug 20;285(34):26618-27. Epub 2010 Jun 11.
+
+PMID- 20540031
+OWN - NLM
+STAT- Publisher
+DA  - 20101004
+IS  - 1121-8428 (Print)
+IS  - 1121-8428 (Linking)
+DP  - 2010 May 28
+TI  - Gypenosides inhibit renal fibrosis by regulating expression of related
+      genes in rats with unilateral ureteral obstruction.
+LID - D674E2D2-334D-421F-99A2-7F9127CA4EB0 [pii]
+AB  - Background: Transforming growth factor ss1 (TGF-ss1), connective tissue
+      growth factor (CTGF) and Smad7 are potent components of
+      fibrogenesis-related signal transduction pathways. Renal fibrosis is the
+      major pathological change in the rat models with unilateral ureteral
+      obstruction (UUO). Investigating the effects of gypenosides (GPs) on the
+      expression of fibrogenesis-related genes in the UUO model may lead to the
+      development of effective therapy for renal diseases. Methods: Rats were
+      randomly divided into 3 experimental groups: (i) sham operation rats
+      treated with saline (sham group), (ii) UUO model rats treated with saline
+      (control group) and (iii) UUO model rats treated with GPs (GPs group).
+      Blood urea nitrogen and serum creatinine were detected as the measurement
+      of renal function. UUO-treated kidney tissues were taken for assessment of
+      renal damage index and determination of related gene expression through
+      immunohistochemistry and RT-PCR. Results: UUO-induced tubulointerstitial
+      damage and fibrosis were attenuated by the application of GPs (day 3 and
+      day 7, p<0.01; day 14, p<0.05). The expression of TGF-ss1 and CTGF was
+      significantly reduced with GPs treatment (TGF-ss1, p<0.01; CTGF, p<0.05).
+      Smad7 expression was elevated with GPs treatment at days 7 and 14
+      (p<0.01). GPs' protective effects on renal function were also demonstrated
+      with this UUO model. Conclusions: These results suggest that UUO-induced
+      tubulointerstitial fibrosis can be effectively attenuated by GPs
+      application. GPs-mediated down-regulation of TGF-ss1 and CTGF and
+      up-regulation of Smad7 are essential for their effects of
+      antifibrogenesis.
+AD  - Division of Nephrology, The Affiliated Taihe Hospital, Yunyang Medical
+      College, Shiyan, Hubei - PR China.
+AU  - Zhang Y
+AU  - Zhang JE
+AU  - Xiao HQ
+AU  - Wu PY
+AU  - Bai SJ
+LA  - ENG
+PT  - JOURNAL ARTICLE
+DEP - 20100528
+TA  - J Nephrol
+JT  - Journal of nephrology
+JID - 9012268
+EDAT- 2010/06/12 06:00
+MHDA- 2010/06/12 06:00
+CRDT- 2010/06/12 06:00
+PHST- 2010/03/01 [accepted]
+AID - D674E2D2-334D-421F-99A2-7F9127CA4EB0 [pii]
+PST - aheadofprint
+SO  - J Nephrol. 2010 May 28. pii: D674E2D2-334D-421F-99A2-7F9127CA4EB0.
+
+PMID- 20517689
+OWN - NLM
+STAT- MEDLINE
+DA  - 20100602
+DCOM- 20100913
+IS  - 0927-3042 (Print)
+IS  - 0927-3042 (Linking)
+VI  - 155
+DP  - 2010
+TI  - Tgf-beta signaling alterations and colon cancer.
+PG  - 85-103
+AB  - Colorectal cancer is the second most common cause of cancer-related death
+      in the United States. Twin studies suggest that 35% of all colorectal
+      cancer cases are inherited. High-penetrance tumor susceptibility genes
+      account for at most 3-6% of all colorectal cancer cases and the remainder
+      of the unexplained risk is likely due to a combination of low to moderate
+      penetrance genes. Recent genome-wide association studies have identified
+      several SNPs near genes belonging to the transforming growth factor beta
+      (TGF-beta) superfamily such as GREM1 and SMAD7. Together with the recent
+      discovery that constitutively decreased TGFBR1 expression is a potent
+      modifier of colorectal cancer risk, these findings strongly suggest that
+      germline variants of the TGF-beta superfamily may account for a sizeable
+      proportion of colorectal cancer cases. The TGF-beta superfamily signaling
+      pathways mediate many different biological processes during embryonic
+      development, and in adult organisms they play a role in tissue
+      homeostasis. TGF-beta has a central role in inhibiting cell proliferation
+      and also modulates processes such as cell invasion, immune regulation, and
+      microenvironment modification. Mutations in the TGF-beta type II receptor
+      (TGFBR2) are estimated to occur in approximately 30% of colorectal
+      carcinomas. Mutations in SMAD4 and BMPR1A are found in patients with
+      familial juvenile polyposis, an autosomal dominant condition associated
+      with an increased risk of colorectal cancer. This chapter provides an
+      overview of the genetic basis of colorectal cancer and discusses recent
+      discoveries related to alterations in the TGF-beta pathways and their role
+      in the development of colorectal cancer.
+AD  - Division of Hematology/Oncology, Department of Medicine, UAB Comprehensive
+      Cancer Center, The University of Alabama, Birmingham, AL 35294-3300, USA.
+FAU - Bellam, Naresh
+AU  - Bellam N
+FAU - Pasche, Boris
+AU  - Pasche B
+LA  - eng
+GR  - P60 AR048098/AR/NIAMS NIH HHS/United States
+GR  - R01 137000/PHS HHS/United States
+GR  - R01 CA108741/CA/NCI NIH HHS/United States
+GR  - R01 CA112520/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Review
+PL  - United States
+TA  - Cancer Treat Res
+JT  - Cancer treatment and research
+JID - 8008541
+RN  - 0 (Bone Morphogenetic Proteins)
+RN  - 0 (Receptors, Transforming Growth Factor beta)
+RN  - 0 (Smad Proteins)
+RN  - 0 (Transforming Growth Factor beta)
+RN  - EC 2.7.11.1 (Protein-Serine-Threonine Kinases)
+RN  - EC 2.7.11.30 (transforming growth factor-beta type II receptor)
+SB  - IM
+MH  - Bone Morphogenetic Proteins/metabolism
+MH  - Carcinoma/*metabolism
+MH  - Colonic Neoplasms/*metabolism
+MH  - *Gene Expression Regulation, Neoplastic
+MH  - Humans
+MH  - Models, Biological
+MH  - *Mutation
+MH  - Polymorphism, Genetic
+MH  - Prognosis
+MH  - Protein-Serine-Threonine Kinases/*metabolism
+MH  - Receptors, Transforming Growth Factor beta/*metabolism
+MH  - *Signal Transduction
+MH  - Smad Proteins/metabolism
+MH  - Transforming Growth Factor beta/*metabolism
+MH  - Treatment Outcome
+RF  - 138
+EDAT- 2010/06/03 06:00
+MHDA- 2010/09/14 06:00
+CRDT- 2010/06/03 06:00
+AID - 10.1007/978-1-4419-6033-7_5 [doi]
+PST - ppublish
+SO  - Cancer Treat Res. 2010;155:85-103.
+
+PMID- 20515759
+OWN - NLM
+STAT- MEDLINE
+DA  - 20100602
+DCOM- 20101004
+IS  - 1945-0508 (Electronic)
+IS  - 1945-0494 (Linking)
+VI  - 2
+DP  - 2010
+TI  - Smad anchor for receptor activation (SARA) in TGF-beta signaling.
+PG  - 857-60
+AB  - Smad anchor for receptor activation (SARA) is known as Smad cofactor that
+      interacts directly with Smad2/3 and functions to recruit Smad2/3 to the
+      TGF-beta receptor. SARA plays an essential role in TGF-beta-induced Smad2
+      activation and it may modulate TGF-beta signaling through regulating the
+      balance between Smad2 and Smad3. SARA also functions as an anchor for
+      catalytic subunit of protein phosphatase 1 (PP1c) and maybe involved in
+      the dephosphorylation of TGF-beta type I receptor (TbetaR-I) mediated by
+      Smad7. The expression of SARA changes as the development of epithelial to
+      mesenchymal transition (EMT) and fibrosis and it plays a critical role in
+      the maintenance of epithelial cell phenotype. Modulation of SARA may
+      provide a new therapeutic approach to TGF-beta-mediated EMT and fibrosis.
+AD  - Department of Nephrology, Kidney institute, Central South University, the
+      Second Xiangya Hospital, Changsha, China.
+FAU - Tang, Wen-bin
+AU  - Tang WB
+FAU - Ling, Guang-hui
+AU  - Ling GH
+FAU - Sun, Lin
+AU  - Sun L
+FAU - Liu, Fu-You
+AU  - Liu FY
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20100601
+PL  - United States
+TA  - Front Biosci (Elite Ed)
+JT  - Frontiers in bioscience (Elite edition)
+JID - 101485240
+RN  - 0 (Intracellular Signaling Peptides and Proteins)
+RN  - 0 (Smad2 Protein)
+RN  - 0 (Smad3 Protein)
+RN  - 0 (Transforming Growth Factor beta)
+RN  - EC 3.4.21- (ZFYVE16 protein, human)
+RN  - EC 3.4.21.- (Serine Endopeptidases)
+SB  - IM
+MH  - Epithelial Cells/cytology
+MH  - Humans
+MH  - Intracellular Signaling Peptides and Proteins/*metabolism
+MH  - Mesoderm/cytology
+MH  - Serine Endopeptidases/*metabolism
+MH  - *Signal Transduction
+MH  - Smad2 Protein/metabolism
+MH  - Smad3 Protein/metabolism
+MH  - Subcellular Fractions/metabolism
+MH  - Transforming Growth Factor beta/*metabolism
+RF  - 22
+EDAT- 2010/06/03 06:00
+MHDA- 2010/10/05 06:00
+CRDT- 2010/06/03 06:00
+AID - 147 [pii]
+PST - epublish
+SO  - Front Biosci (Elite Ed). 2010 Jun 1;2:857-60.
+
+PMID- 20514018
+OWN - NLM
+STAT- MEDLINE
+DA  - 20100728
+DCOM- 20100827
+IS  - 1476-5594 (Electronic)
+IS  - 0950-9232 (Linking)
+VI  - 29
+IP  - 29
+DP  - 2010 Jul 22
+TI  - Downregulation of ZEB1 and overexpression of Smad7 contribute to
+      resistance to TGF-beta1-mediated growth suppression in adult T-cell
+      leukemia/lymphoma.
+PG  - 4157-69
+AB  - Zinc-finger E-box binding homeobox 1 (ZEB1) is a candidate
+      tumor-suppressor gene in adult T-cell leukemia/lymphoma (ATLL). ZEB1 binds
+      phosphorylated Smad2/3 to enhance transforming growth factor-beta1
+      (TGF-beta1) signaling. In addition to downregulation of ZEB1 mRNA, we
+      found overexpression of inhibitory Smad, Smad7, in resistance of ATLL
+      cells to growth suppression by TGF-beta1. A protein complex of Smad7 and
+      histone deacetylase constantly bound to the promoter region of TGF-beta1
+      responsive genes with the Smad-responsive element (SRE) to inhibit
+      TGF-beta1 signaling; however, ectopic expression of ZEB1 reactivated
+      TGF-beta1 signaling by binding to Smad7 and recruiting the Smad3/p300
+      histone acetyltransferase complex to the promoter after TGF-beta1
+      stimulation in ATLL. Conversely, because ZEB1 mRNA was detected in the
+      late stages of T-cell development, we used CTLL2 cells with ZEB1
+      expression, a murine peripheral T-cell lymphoma, and found that a complex
+      of Smad3, Smad7 and ZEB1 was bound to the SRE of the p21(CDKN1A) promoter
+      after the induction of Smad7 by TGF-beta1 treatment. Because the duration
+      of TGF-beta1-induced transcriptional activation of PAI-1 and p21 was
+      shortened in shZEB1-expressing CTLL2 cells, ZEB1 may have a role in
+      enhancing TGF-beta1 signaling by binding not only to Smad3 but also to
+      Smad7 in the nucleus. Altogether, these results suggest that both ZEB1
+      downregulation and Smad7 overexpression contribute to resistance to
+      TGF-beta1-mediated growth suppression in ATLL.
+AD  - Division of Tumor and Cellular Biochemistry, Department of Medical
+      Sciences, Faculty of Medicine, University of Miyazaki, Miyazaki, Japan.
+FAU - Nakahata, S
+AU  - Nakahata S
+FAU - Yamazaki, S
+AU  - Yamazaki S
+FAU - Nakauchi, H
+AU  - Nakauchi H
+FAU - Morishita, K
+AU  - Morishita K
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20100531
+PL  - England
+TA  - Oncogene
+JT  - Oncogene
+JID - 8711562
+RN  - 0 (CDKN1A protein, human)
+RN  - 0 (Cyclin-Dependent Kinase Inhibitor p21)
+RN  - 0 (Homeodomain Proteins)
+RN  - 0 (Plasminogen Activator Inhibitor 1)
+RN  - 0 (RNA, Messenger)
+RN  - 0 (SMAD3 protein, human)
+RN  - 0 (SMAD7 protein, human)
+RN  - 0 (Smad3 Protein)
+RN  - 0 (Smad7 Protein)
+RN  - 0 (Transcription Factors)
+RN  - 0 (Transforming Growth Factor beta1)
+RN  - 0 (ZEB1 protein, human)
+SB  - IM
+MH  - Cell Line, Tumor
+MH  - Cell Proliferation
+MH  - Cyclin-Dependent Kinase Inhibitor p21/genetics
+MH  - Down-Regulation
+MH  - Homeodomain Proteins/antagonists & inhibitors/genetics/*physiology
+MH  - Humans
+MH  - Leukemia-Lymphoma, Adult T-Cell/metabolism/*pathology
+MH  - Plasminogen Activator Inhibitor 1/genetics
+MH  - Promoter Regions, Genetic
+MH  - RNA, Messenger/analysis
+MH  - Signal Transduction
+MH  - Smad3 Protein/physiology
+MH  - Smad7 Protein/*physiology
+MH  - Transcription Factors/antagonists & inhibitors/genetics/*physiology
+MH  - Transforming Growth Factor beta1/*metabolism
+EDAT- 2010/06/02 06:00
+MHDA- 2010/08/28 06:00
+CRDT- 2010/06/02 06:00
+PHST- 2010/05/31 [aheadofprint]
+AID - onc2010172 [pii]
+AID - 10.1038/onc.2010.172 [doi]
+PST - ppublish
+SO  - Oncogene. 2010 Jul 22;29(29):4157-69. Epub 2010 May 31.
+
+PMID- 20507941
+OWN - NLM
+STAT- MEDLINE
+DA  - 20100902
+DCOM- 20100923
+IS  - 1533-3450 (Electronic)
+IS  - 1046-6673 (Linking)
+VI  - 21
+IP  - 9
+DP  - 2010 Sep
+TI  - Trps1 haploinsufficiency promotes renal fibrosis by increasing Arkadia
+      expression.
+PG  - 1468-76
+AB  - Mutations in TRPS1 cause tricho-rhino-pharyngeal syndrome (TRPS). Trps1 is
+      essential for nephron development, acting downstream of Bmp7. Because Bmp7
+      counteracts epithelial-to-mesenchymal transition (EMT) and reverses
+      chronic renal injury, we examined the function of Trps1 in renal fibrosis.
+      Immunohistochemistry revealed Trps1 expression in proximal tubular
+      epithelial cells of mice. Unilateral ureteral obstruction reduced mRNA and
+      protein expression of Trps1 in wild-type and heterozygous Trps1-knockout
+      (Trps1(+/-)) mice. Trps1 haploinsufficiency promoted tubulointerstitial
+      fibrosis via increased phosphorylation of Smad3 and decreased Smad7
+      protein. In primary culture, Trps1 deficiency promoted TGF-beta1-mediated
+      EMT in proximal tubule cells. Trps1(+/-)-derived cells had higher levels
+      of phosphorylated Smad3, and TGF-beta1 induced a time-dependent decrease
+      in Smad7 protein in wild-type and Trps1(+/-) kidneys. In addition,
+      compared with wild-type cells, Trps1(+/-) cells had double the amount of
+      the E3 ubiquitin ligase Arkadia, and TGF-beta1 induced further Arkadia
+      expression. Furthermore, knockdown of Arkadia inhibited TGF-beta1-induced
+      EMT in Trps1(+/-) cells. Collectively, these data suggest that Trps1
+      haploinsufficiency enhances TGF-beta1-induced EMT and tubulointerstitial
+      fibrosis by modulating the amount of Smad7 through
+      Arkadia/ubiquitin-mediated degradation.
+AD  - Department of Pathology, Shandong University School of Medicine, Jinan,
+      Shandong, People's Republic of China.
+FAU - Gai, Zhibo
+AU  - Gai Z
+FAU - Zhou, Gengyin
+AU  - Zhou G
+FAU - Gui, Ting
+AU  - Gui T
+FAU - Itoh, Shunji
+AU  - Itoh S
+FAU - Oikawa, Kosuke
+AU  - Oikawa K
+FAU - Uetani, Kohsaku
+AU  - Uetani K
+FAU - Muragaki, Yasuteru
+AU  - Muragaki Y
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20100527
+PL  - United States
+TA  - J Am Soc Nephrol
+JT  - Journal of the American Society of Nephrology : JASN
+JID - 9013836
+RN  - 0 (GATA Transcription Factors)
+RN  - 0 (Microfilament Proteins)
+RN  - 0 (Smad3 Protein)
+RN  - 0 (Smad3 protein, mouse)
+RN  - 0 (Smad7 Protein)
+RN  - 0 (Smad7 protein, mouse)
+RN  - 0 (Transforming Growth Factor beta1)
+RN  - 0 (Trps1 protein, mouse)
+RN  - 0 (villin)
+RN  - EC 6.3.2.19 (Arkadia protein, mouse)
+RN  - EC 6.3.2.19 (Ubiquitin-Protein Ligases)
+SB  - IM
+MH  - Animals
+MH  - Endothelial Cells/pathology
+MH  - Fibrosis
+MH  - GATA Transcription Factors/deficiency/genetics/*physiology
+MH  - Kidney/*pathology
+MH  - Mesoderm/pathology
+MH  - Mice
+MH  - Microfilament Proteins/analysis
+MH  - Signal Transduction
+MH  - Smad3 Protein/physiology
+MH  - Smad7 Protein/analysis
+MH  - Transforming Growth Factor beta1/physiology
+MH  - Ubiquitin-Protein Ligases/*physiology
+MH  - Ureteral Obstruction/pathology
+EDAT- 2010/05/29 06:00
+MHDA- 2010/09/24 06:00
+CRDT- 2010/05/29 06:00
+PHST- 2010/05/27 [aheadofprint]
+AID - ASN.2009121201 [pii]
+AID - 10.1681/ASN.2009121201 [doi]
+PST - ppublish
+SO  - J Am Soc Nephrol. 2010 Sep;21(9):1468-76. Epub 2010 May 27.
+
+PMID- 20488955
+OWN - NLM
+STAT- MEDLINE
+DA  - 20100802
+DCOM- 20100901
+LR  - 20100929
+IS  - 1533-3450 (Electronic)
+IS  - 1046-6673 (Linking)
+VI  - 21
+IP  - 8
+DP  - 2010 Aug
+TI  - miR-192 mediates TGF-beta/Smad3-driven renal fibrosis.
+PG  - 1317-25
+AB  - TGF-beta/Smad3 promotes renal fibrosis, but the mechanisms that regulate
+      profibrotic genes remain unclear. We hypothesized that miR-192, a microRNA
+      expressed in the kidney may mediate renal fibrosis in a Smad3-dependent
+      manner. Microarray and real-time PCR demonstrated a tight association
+      between upregulation of miR-192 in the fibrotic kidney and activation of
+      TGF-beta/Smad signaling. Deletion of Smad7 promoted miR-192 expression and
+      enhanced Smad signaling and fibrosis in obstructive kidney disease. In
+      contrast, overexpression of Smad7 to block TGF-beta/Smad signaling
+      inhibited miR-192 expression and renal fibrosis in the rat 5/6 nephrectomy
+      model; in vitro, overexpression of Smad7 in tubular epithelial cells
+      abolished TGF-beta1-induced miR-192 expression. Furthermore, Smad3 but not
+      Smad2 mediated TGF-beta1-induced miR-192 expression by binding to the
+      miR-192 promoter. Last, overexpression of a miR-192 mimic promoted and
+      addition of a miR-192 inhibitor blocked TGF-beta1-induced collagen matrix
+      expression. Taken together, miR-192 may be a critical downstream mediator
+      of TGF-beta/Smad3 signaling in the development of renal fibrosis.
+AD  - Department of Medicine and Therapeutics and Li Ka Shing Institute of
+      Health Sciences, Chinese University of Hong Kong, Hong Kong, China.
+FAU - Chung, Arthur C K
+AU  - Chung AC
+FAU - Huang, Xiao R
+AU  - Huang XR
+FAU - Meng, Xiaoming
+AU  - Meng X
+FAU - Lan, Hui Y
+AU  - Lan HY
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20100520
+PL  - United States
+TA  - J Am Soc Nephrol
+JT  - Journal of the American Society of Nephrology : JASN
+JID - 9013836
+RN  - 0 (MicroRNAs)
+RN  - 0 (Mirn192 microRNA, mouse)
+RN  - 0 (Smad3 Protein)
+RN  - 0 (Smad3 protein, mouse)
+RN  - 0 (Transforming Growth Factor beta)
+SB  - IM
+MH  - Animals
+MH  - Cells, Cultured
+MH  - Fibrosis/etiology
+MH  - Kidney/*pathology
+MH  - Mice
+MH  - MicroRNAs/*physiology
+MH  - Rats
+MH  - Smad3 Protein/*physiology
+MH  - Transforming Growth Factor beta/*physiology
+PMC - PMC2938591
+OID - NLM: PMC2938591 [Available on 08/01/11]
+EDAT- 2010/05/22 06:00
+MHDA- 2010/09/02 06:00
+CRDT- 2010/05/22 06:00
+PMCR- 2011/08/01
+PHST- 2010/05/20 [aheadofprint]
+PHST- 2010/06/10 [aheadofprint]
+AID - ASN.2010020134 [pii]
+AID - 10.1681/ASN.2010020134 [doi]
+PST - ppublish
+SO  - J Am Soc Nephrol. 2010 Aug;21(8):1317-25. Epub 2010 May 20.
+
+PMID- 20479122
+OWN - NLM
+STAT- MEDLINE
+DA  - 20100625
+DCOM- 20100714
+IS  - 1098-5549 (Electronic)
+IS  - 0270-7306 (Linking)
+VI  - 30
+IP  - 14
+DP  - 2010 Jul
+TI  - Smad7 regulates the adult neural stem/progenitor cell pool in a
+      transforming growth factor beta- and bone morphogenetic
+      protein-independent manner.
+PG  - 3685-94
+AB  - Members of the transforming growth factor beta (TGF-beta) family of
+      proteins modulate the proliferation, differentiation, and survival of many
+      different cell types. Neural stem and progenitor cells (NPCs) in the adult
+      brain are inhibited in their proliferation by TGF-beta and by bone
+      morphogenetic proteins (BMPs). Here, we investigated neurogenesis in a
+      hypomorphic mouse model for the TGF-beta and BMP inhibitor Smad7, with the
+      hypothesis that NPC proliferation might be reduced due to increased
+      TGF-beta and BMP signaling. Unexpectedly, we found enhanced NPC
+      proliferation as well as an increased number of label-retaining cells in
+      vivo. The enhanced proliferation potential of mutant cells was retained in
+      vitro in neurosphere cultures. We observed a higher sphere-forming
+      capacity as well as faster growth and cell cycle progression. Use of
+      specific inhibitors revealed that these effects were independent of
+      TGF-beta and BMP signaling. The enhanced proliferation might be at least
+      partially mediated by elevated signaling via epidermal growth factor (EGF)
+      receptor, as mutant cells showed higher expression and activation levels
+      of the EGF receptor. Conversely, an EGF receptor inhibitor reduced the
+      proliferation of these cells. Our data indicate that endogenous Smad7
+      regulates neural stem/progenitor cell proliferation in a TGF-beta- and
+      BMP-independent manner.
+AD  - Ludwig Institute for Cancer Research, Uppsala University, Box 595, BMC,
+      75124 Uppsala, Sweden.
+FAU - Krampert, Monika
+AU  - Krampert M
+FAU - Chirasani, Sridhar Reddy
+AU  - Chirasani SR
+FAU - Wachs, Frank-Peter
+AU  - Wachs FP
+FAU - Aigner, Robert
+AU  - Aigner R
+FAU - Bogdahn, Ulrich
+AU  - Bogdahn U
+FAU - Yingling, Jonathan M
+AU  - Yingling JM
+FAU - Heldin, Carl-Henrik
+AU  - Heldin CH
+FAU - Aigner, Ludwig
+AU  - Aigner L
+FAU - Heuchel, Rainer
+AU  - Heuchel R
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20100517
+PL  - United States
+TA  - Mol Cell Biol
+JT  - Molecular and cellular biology
+JID - 8109087
+RN  - 0 (Bone Morphogenetic Proteins)
+RN  - 0 (RNA, Messenger)
+RN  - 0 (Smad7 Protein)
+RN  - 0 (Smad7 protein, mouse)
+RN  - 0 (Transforming Growth Factor beta)
+RN  - EC 2.7.10.1 (Receptor, Epidermal Growth Factor)
+SB  - IM
+MH  - Adult Stem Cells/*cytology/*metabolism
+MH  - Animals
+MH  - Bone Morphogenetic Proteins/metabolism
+MH  - Cell Cycle
+MH  - Cell Proliferation
+MH  - Exons
+MH  - Mice
+MH  - Mice, Mutant Strains
+MH  - Mutagenesis, Insertional
+MH  - Neurogenesis/genetics/*physiology
+MH  - Neurons/*cytology/*metabolism
+MH  - RNA, Messenger/genetics/metabolism
+MH  - Receptor, Epidermal Growth Factor/metabolism
+MH  - Signal Transduction
+MH  - Smad7 Protein/genetics/*metabolism
+MH  - Transforming Growth Factor beta/metabolism
+PMC - PMC2897544
+OID - NLM: PMC2897544 [Available on 01/01/11]
+EDAT- 2010/05/19 06:00
+MHDA- 2010/07/16 06:00
+CRDT- 2010/05/19 06:00
+PMCR- 2011/01/01
+PHST- 2010/05/17 [aheadofprint]
+AID - MCB.00434-09 [pii]
+AID - 10.1128/MCB.00434-09 [doi]
+PST - ppublish
+SO  - Mol Cell Biol. 2010 Jul;30(14):3685-94. Epub 2010 May 17.
+
+PMID- 20470885
+OWN - NLM
+STAT- In-Data-Review
+DA  - 20101011
+IS  - 1569-1802 (Electronic)
+IS  - 0945-053X (Linking)
+VI  - 29
+IP  - 7
+DP  - 2010 Sep
+TI  - HDAC-mediated control of ERK- and PI3K-dependent TGF-beta-induced
+      extracellular matrix-regulating genes.
+PG  - 602-12
+AB  - Histone deacetylases (HDACs) regulate the acetylation of histones in the
+      control of gene expression. Many non-histone proteins are also targeted
+      for acetylation, including TGF-beta signalling pathway components such as
+      Smad2, Smad3 and Smad7. Our studies in mouse C3H10T1/2 fibroblasts
+      suggested that a number of TGF-beta-induced genes that regulate matrix
+      turnover are selectively regulated by HDACs. Blockade of HDAC activity
+      with trichostatin A (TSA) abrogated the induction of a disintegrin and
+      metalloproteinase 12 (Adam12) and tissue inhibitor of metalloproteinases-1
+      (Timp-1) genes by TGF-beta, whereas plasminogen activator inhibitor-1
+      (Pai-1) expression was unaffected. Analysis of the activation of cell
+      signalling pathways demonstrated that TGF-beta induced robust ERK and PI3K
+      activation with delayed kinetics compared to the phosphorylation of Smads.
+      The TGF-beta induction of Adam12 and Timp-1 was dependent on such non-Smad
+      signalling pathways and, importantly, HDAC inhibitors completely blocked
+      their activation without affecting Smad signalling. Analysis of
+      TGF-beta-induced Adam12 and Timp-1 expression and ERK/PI3K signalling in
+      the presence of semi-selective HDAC inhibitors valproic acid, MS-275 and
+      apicidin implicated a role for class I HDACs. Furthermore, depletion of
+      HDAC3 by RNA interference significantly down-regulated TGF-beta-induced
+      Adam12 and Timp-1 expression without modulating Pai-1 expression.
+      Correlating with the effect of HDAC inhibitors, depletion of HDAC3 also
+      blocked the activation of ERK and PI3K by TGF-beta. Collectively, these
+      data confirm that HDACs, and in particular HDAC3, are required for
+      activation of the ERK and PI3K signalling pathways by TGF-beta and for the
+      subsequent gene induction dependent on these signalling pathways.
+CI  - Copyright (c) 2010 Elsevier B.V. All rights reserved.
+AD  - Institute of Cellular Medicine, Newcastle University, Newcastle upon Tyne,
+      NE2 4HH, UK.
+FAU - Barter, Matt J
+AU  - Barter MJ
+FAU - Pybus, Leon
+AU  - Pybus L
+FAU - Litherland, Gary J
+AU  - Litherland GJ
+FAU - Rowan, Andrew D
+AU  - Rowan AD
+FAU - Clark, Ian M
+AU  - Clark IM
+FAU - Edwards, Dylan R
+AU  - Edwards DR
+FAU - Cawston, Tim E
+AU  - Cawston TE
+FAU - Young, David A
+AU  - Young DA
+LA  - eng
+PT  - Journal Article
+DEP - 20100512
+PL  - Netherlands
+TA  - Matrix Biol
+JT  - Matrix biology : journal of the International Society for Matrix Biology
+JID - 9432592
+SB  - IM
+EDAT- 2010/05/18 06:00
+MHDA- 2010/05/18 06:00
+CRDT- 2010/05/18 06:00
+PHST- 2010/01/27 [received]
+PHST- 2010/04/14 [revised]
+PHST- 2010/05/03 [accepted]
+PHST- 2010/05/12 [aheadofprint]
+AID - S0945-053X(10)00075-2 [pii]
+AID - 10.1016/j.matbio.2010.05.002 [doi]
+PST - ppublish
+SO  - Matrix Biol. 2010 Sep;29(7):602-12. Epub 2010 May 12.
+
+PMID- 20462450
+OWN - NLM
+STAT- MEDLINE
+DA  - 20100615
+DCOM- 20100730
+LR  - 20100930
+IS  - 1476-4598 (Electronic)
+IS  - 1476-4598 (Linking)
+VI  - 9
+DP  - 2010
+TI  - Smad2 and Smad6 as predictors of overall survival in oral squamous cell
+      carcinoma patients.
+PG  - 106
+AB  - BACKGROUND: To test if the expression of Smad1-8 mRNAs were predictive of
+      survival in patients with oral squamous cell carcinoma (SCC). PATIENTS AND
+      METHODS: We analyzed, prospectively, the expression of Smad1-8, by means
+      of Ribonuclease Protection Assay in 48 primary, operable, oral SCC. In
+      addition, 21 larynx, 10 oropharynx and 4 hypopharynx SCC and 65 matched
+      adjacent mucosa, available for study, were also included. For survival
+      analysis, patients were categorized as positive or negative for each Smad,
+      according to median mRNA expression. We also performed real-time
+      quantitative PCR (QRTPCR) to asses the pattern of TGFbeta1, TGFbeta2,
+      TGFbeta3 in oral SCC. RESULTS: Our results showed that Smad2 and Smad6
+      mRNA expression were both associated with survival in Oral SCC patients.
+      Cox Multivariate analysis revealed that Smad6 positivity and Smad2
+      negativity were both predictive of good prognosis for oral SCC patients,
+      independent of lymph nodal status (P = 0.003 and P = 0.029, respectively).
+      In addition, simultaneously Smad2- and Smad6+ oral SCC group of patients
+      did not reach median overall survival (mOS) whereas the mOS of
+      Smad2+/Smad6- subgroup was 11.6 months (P = 0.004, univariate analysis).
+      Regarding to TGFbeta isoforms, we found that Smad2 mRNA and TGFbeta1 mRNA
+      were inversely correlated (p = 0.05, R = -0.33), and that seven of the
+      eight TGFbeta1+ patients were Smad2-. In larynx SCC, Smad7- patients did
+      not reach mOS whereas mOS of Smad7+ patients were only 7.0 months (P =
+      0.04). No other correlations were found among Smad expression,
+      clinico-pathological characteristics and survival in oral, larynx,
+      hypopharynx, oropharynx or the entire head and neck SCC population.
+      CONCLUSION: Smad6 together with Smad2 may be prognostic factors,
+      independent of nodal status in oral SCC after curative resection. The
+      underlying mechanism which involves aberrant TGFbeta signaling should be
+      better clarified in the future.
+AD  - Disciplina de Oncologia, Departamento de Radiologia, LIM 24, Hospital das
+      Clinicas da Faculdade de Medicina da Universidade de Sao Paulo, Avenida Dr
+      Arnaldo 455, Sao Paulo, Brasil. flavia@lim24.fm.usp.br
+FAU - Mangone, Flavia R R
+AU  - Mangone FR
+FAU - Walder, Fernando
+AU  - Walder F
+FAU - Maistro, Simone
+AU  - Maistro S
+FAU - Pasini, Fatima S
+AU  - Pasini FS
+FAU - Lehn, Carlos N
+AU  - Lehn CN
+FAU - Carvalho, Marcos B
+AU  - Carvalho MB
+FAU - Brentani, M Mitzi
+AU  - Brentani MM
+FAU - Snitcovsky, Igor
+AU  - Snitcovsky I
+FAU - Federico, Miriam H H
+AU  - Federico MH
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20100512
+PL  - England
+TA  - Mol Cancer
+JT  - Molecular cancer
+JID - 101147698
+RN  - 0 (RNA, Messenger)
+RN  - 0 (SMAD2 protein, human)
+RN  - 0 (SMAD6 protein, human)
+RN  - 0 (Smad2 Protein)
+RN  - 0 (Smad6 Protein)
+RN  - 0 (Transforming Growth Factor beta1)
+RN  - 0 (Transforming Growth Factor beta2)
+RN  - 0 (Transforming Growth Factor beta3)
+RN  - 0 (Tumor Markers, Biological)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Carcinoma, Squamous Cell/genetics/*metabolism/mortality
+MH  - Female
+MH  - Gene Expression
+MH  - Humans
+MH  - Kaplan-Meiers Estimate
+MH  - Male
+MH  - Middle Aged
+MH  - Mouth Neoplasms/genetics/*metabolism/mortality
+MH  - Prognosis
+MH  - RNA, Messenger/analysis
+MH  - Reverse Transcriptase Polymerase Chain Reaction
+MH  - Smad2 Protein/*biosynthesis/genetics
+MH  - Smad6 Protein/*biosynthesis/genetics
+MH  - Transforming Growth Factor beta1/biosynthesis/genetics
+MH  - Transforming Growth Factor beta2/biosynthesis/genetics
+MH  - Transforming Growth Factor beta3/biosynthesis/genetics
+MH  - Tumor Markers, Biological/*analysis
+PMC - PMC2885344
+OID - NLM: PMC2885344
+EDAT- 2010/05/14 06:00
+MHDA- 2010/07/31 06:00
+CRDT- 2010/05/14 06:00
+PHST- 2009/05/08 [received]
+PHST- 2010/05/12 [accepted]
+PHST- 2010/05/12 [aheadofprint]
+AID - 1476-4598-9-106 [pii]
+AID - 10.1186/1476-4598-9-106 [doi]
+PST - epublish
+SO  - Mol Cancer. 2010 May 12;9:106.
+
+PMID- 20457144
+OWN - NLM
+STAT- MEDLINE
+DA  - 20100723
+DCOM- 20100810
+IS  - 1095-564X (Electronic)
+IS  - 0012-1606 (Linking)
+VI  - 344
+IP  - 1
+DP  - 2010 Aug 1
+TI  - Trigenic neural crest-restricted Smad7 over-expression results in
+      congenital craniofacial and cardiovascular defects.
+PG  - 233-47
+AB  - Smad7 is a negative regulator of TGFbeta superfamily signaling. Using a
+      three-component triple transgenic system, expression of the inhibitory
+      Smad7 was induced via doxycycline within the NCC lineages at pre- and
+      post-migratory stages. Consistent with its role in negatively regulating
+      both TGFbeta and BMP signaling in vitro, induction of Smad7 within the NCC
+      significantly suppressed phosphorylation levels of both Smad1/5/8 and
+      Smad2/3 in vivo, resulting in subsequent loss of NCC-derived craniofacial,
+      pharyngeal and cardiac OFT cushion cells. At the cellular level, increased
+      cell death was observed in pharyngeal arches. However, cell proliferation
+      and NCC-derived smooth muscle differentiation were unaltered. NCC lineage
+      mapping demonstrated that cardiac NCC emigration and initial migration
+      were not affected, but subsequent colonization of the OFT was
+      significantly reduced. Induction of Smad7 in post-migratory NCC resulted
+      in interventricular septal chamber septation defects, suggesting that
+      TGFbeta superfamily signaling is also essential for cardiac NCC at
+      post-migratory stages to govern normal cardiac development. Taken
+      together, the data illustrate that tightly regulated TGFbeta superfamily
+      signaling plays an essential role during craniofacial and cardiac NCC
+      colonization and cell survival in vivo.
+CI  - Copyright (c) 2010 Elsevier Inc. All rights reserved.
+AD  - Herman B Wells Center for Pediatric Research, Indiana University School of
+      Medicine, Indianapolis, IN 46202, USA.
+FAU - Tang, Sunyong
+AU  - Tang S
+FAU - Snider, Paige
+AU  - Snider P
+FAU - Firulli, Antony B
+AU  - Firulli AB
+FAU - Conway, Simon J
+AU  - Conway SJ
+LA  - eng
+GR  - HL60714/HL/NHLBI NIH HHS/United States
+GR  - HL85098/HL/NHLBI NIH HHS/United States
+GR  - HL92508/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20100508
+PL  - United States
+TA  - Dev Biol
+JT  - Developmental biology
+JID - 0372762
+RN  - 0 (Smad7 Protein)
+RN  - 0 (Smad7 protein, mouse)
+SB  - IM
+MH  - Animals
+MH  - Branchial Region/abnormalities
+MH  - Cardiovascular Diseases/congenital/genetics
+MH  - Cell Lineage
+MH  - Cell Survival
+MH  - Craniofacial Abnormalities/genetics
+MH  - *Gene Expression Regulation
+MH  - Mice
+MH  - Models, Biological
+MH  - Models, Genetic
+MH  - Myocardium/metabolism
+MH  - Neural Crest/*metabolism
+MH  - Smad7 Protein/*genetics/*physiology
+MH  - Transcriptional Activation
+MH  - Transgenes
+PMC - PMC2909335
+MID - NIHMS213914
+OID - NLM: NIHMS213914 [Available on 08/01/11]
+OID - NLM: PMC2909335 [Available on 08/01/11]
+EDAT- 2010/05/12 06:00
+MHDA- 2010/08/11 06:00
+CRDT- 2010/05/12 06:00
+PMCR- 2011/08/01
+PHST- 2010/02/02 [received]
+PHST- 2010/04/30 [revised]
+PHST- 2010/05/03 [accepted]
+PHST- 2010/05/08 [aheadofprint]
+AID - S0012-1606(10)00290-3 [pii]
+AID - 10.1016/j.ydbio.2010.05.004 [doi]
+PST - ppublish
+SO  - Dev Biol. 2010 Aug 1;344(1):233-47. Epub 2010 May 8.
+
+PMID- 20441599
+OWN - NLM
+STAT- MEDLINE
+DA  - 20100524
+DCOM- 20100705
+LR  - 20100930
+IS  - 1471-2121 (Electronic)
+IS  - 1471-2121 (Linking)
+VI  - 11
+DP  - 2010
+TI  - Salvianolic acid B prevents epithelial-to-mesenchymal transition through
+      the TGF-beta1 signal transduction pathway in vivo and in vitro.
+PG  - 31
+AB  - BACKGROUND: Salvianolic Acid B (Sal B) is a water-soluble component from
+      Danshen (a traditional Chinese herb widely used for chronic renal
+      diseases) with anti-oxidative and cell protective properties. Sal B also
+      has potential protective effects on renal diseases. Tubular epithelial
+      cells can undergo epithelial-to-mesenchymal transition (EMT), which plays
+      an important role in the pathogenesis of renal interstitial fibrosis (RIF)
+      and is mainly regulated by TGF-beta1/Smads pathway. The aims of the study
+      are to investigate the effect of Sal B on tubular EMT in vivo and in
+      vitro, and to elucidate its underlying mechanism against EMT related to
+      TGF-beta1/Smads pathway. RESULTS: For in vivo experiments, RIF was induced
+      in rats by oral administration of HgCl2 and prophylaxised with Sal B and
+      vitamin E. The protein expression of E-cadherin was down-regulated, while
+      the expression of alpha-SMA, TGF-beta1, TbetaR-I, p-Smad2/3 and the
+      activity of matrix metalloproteinase-2 (MMP-2) were up-regulated in
+      kidneys of model rats when compared with those of normal rats. In
+      contrast, Sal B and vitamin E significantly attenuated the expression of
+      alpha-SMA, TGF-beta1, TbetaR-I, p-Smad2/3, and MMP-2 activity, but
+      increased E-cadherin expression. For in vitro experiments, HK-2 cells were
+      incubated with TGF-beta1 to induce EMT, and the cells were co-cultured
+      with 1 and 10 microM Sal B or SB-431542 (a specific inhibitor of TbetaR-I
+      kinase). TGF-beta1 induced a typical EMT in HK-2 cells, while it was
+      blocked by Sal B and SB-431542, as evidenced by blocking morphologic
+      transformation, restoring E-cadherin and CK-18 expression, inhibiting
+      alpha-SMA expression and F-actin reorganization, and down-regulating
+      MMP-2/9 activities in TGF-beta1 mediated HK-2 cells. Furthermore, Sal B
+      and SB-431542 profoundly down-regulated the expressions of TbetaR-I and
+      p-Smad2/3 but prevented the decreased expression of Smad7 in TGF-beta1
+      stimulated HK-2 cells. CONCLUSIONS: Sal B can prevent tubular EMT in the
+      fibrotic kidney induced by HgCl2 as well as HK-2 cells triggered by
+      TGF-beta1, the mechanism of Sal B is closely related to the regulation of
+      TGF-beta1/Smads pathway, manifested as the inhibition of TGF-beta1
+      expression, suppression of TbetaR-I expression and function,
+      down-regulation of Smad2/3 phosphorylation, and restoration of the
+      down-regulation of Smad7, as well as inhibition of MMP-2 activity.
+AD  - Institute of Liver Diseases, Shuguang Hospital Affiliated to Shanghai
+      University of Traditional Chinese Medicine, 528 Zhangheng Road, Shanghai,
+      China.
+FAU - Wang, Qing-Lan
+AU  - Wang QL
+FAU - Tao, Yan-Yan
+AU  - Tao YY
+FAU - Yuan, Ji-Li
+AU  - Yuan JL
+FAU - Shen, Li
+AU  - Shen L
+FAU - Liu, Cheng-Hai
+AU  - Liu CH
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20100505
+PL  - England
+TA  - BMC Cell Biol
+JT  - BMC cell biology
+JID - 100966972
+RN  - 0 (Actins)
+RN  - 0 (Benzofurans)
+RN  - 0 (Drugs, Chinese Herbal)
+RN  - 0 (Receptors, Transforming Growth Factor beta)
+RN  - 0 (Smad7 Protein)
+RN  - 0 (Transforming Growth Factor beta1)
+RN  - 0 (smooth muscle actin, rat)
+RN  - 115939-25-8 (salvianolic acid B)
+RN  - EC 2.7.1.11 (TGF-beta type I receptor)
+RN  - EC 2.7.11.1 (Protein-Serine-Threonine Kinases)
+SB  - IM
+MH  - Actins/metabolism
+MH  - Animals
+MH  - Benzofurans/*pharmacology
+MH  - Cell Differentiation/*drug effects
+MH  - Cell Line
+MH  - Drugs, Chinese Herbal/*pharmacology
+MH  - Epithelial Cells/*cytology
+MH  - Fibrosis/metabolism
+MH  - Humans
+MH  - Kidney/*pathology
+MH  - Mesoderm/*cytology
+MH  - Phosphorylation
+MH  - Protein-Serine-Threonine Kinases/metabolism
+MH  - Rats
+MH  - Receptors, Transforming Growth Factor beta/metabolism
+MH  - *Signal Transduction
+MH  - Smad7 Protein/metabolism
+MH  - Transforming Growth Factor beta1/*metabolism
+MH  - Up-Regulation
+PMC - PMC2874764
+OID - NLM: PMC2874764
+EDAT- 2010/05/06 06:00
+MHDA- 2010/07/06 06:00
+CRDT- 2010/05/06 06:00
+PHST- 2009/12/05 [received]
+PHST- 2010/05/05 [accepted]
+PHST- 2010/05/05 [aheadofprint]
+AID - 1471-2121-11-31 [pii]
+AID - 10.1186/1471-2121-11-31 [doi]
+PST - epublish
+SO  - BMC Cell Biol. 2010 May 5;11:31.
+
+PMID- 20433334
+OWN - NLM
+STAT- MEDLINE
+DA  - 20100609
+DCOM- 20100928
+IS  - 1525-6014 (Electronic)
+IS  - 0148-0545 (Linking)
+VI  - 33
+IP  - 3
+DP  - 2010 Jul
+TI  - Alleviation of CCl4-induced cirrhosis in rats by tetramethylpyrazine is
+      associated with downregulation of leptin and TGF-beta1 pathway.
+PG  - 310-5
+AB  - This study was conducted to investigate the effect of tetramethylpyrazine
+      (TMP) on CCl(4)-induced fibrosis in rats and the possible roles of leptin,
+      TGF-beta1, Smad3, and Smad7 in this process. Liver fibrosis in rats was
+      induced by the subcutaneous injection of 60% CCl(4) (0.3 mL /100 g body
+      weight, biweekly ) for 12 weeks. Rats in TMP prevention and treatment
+      groups were given TMP (10 mg /100 g body weight, daily) by gavage from
+      days 1 and 31 after the start of CCl(4) injection, respectively. The mRNA
+      expression of leptin, OB-Rb, TGF-beta1, and TGF-beta RII in the liver were
+      detected by RT-PCR, whereas Smad3 and Smad7 protein were determined by
+      Western blot. The results showed that hepatic cirrhosis was obviously
+      alleviated in both TMP prevention and treatment groups. The mRNA
+      expression of leptin, OB-Rb, TGF-beta1 and -beta RII, and Smad3 protein
+      were higher in the cirrhotic models. In TMP prevention and treatment
+      groups, these markers of expression were higher, compared with that of the
+      normal control, but were lower when compared with that of the cirrhotic
+      model group. Smad7 protein expression was lower in the cirrhotic model
+      group than in the normal control. Smad7 expression in TMP prevention and
+      treatment groups was higher, compared with that in the cirrhotic model
+      group. Liver collagen in the TMP prevention group was the lowest among all
+      CCl(4) injection groups. In conclusion, TMP can prevent and alleviate the
+      development of liver fibrosis in rats. The possible mechanism could
+      involve the downregulation of leptin, Ob-Rb, TGF-beta1, TGF-beta RII, and
+      Samd3, and upregulation of Smad7.
+AD  - Department of Gastroenterology, First Affiliated Hospital of Zhejiang
+      Chinese Medical University, Hangzhou, China.
+FAU - Lu, Bin
+AU  - Lu B
+FAU - Yu, Leimin
+AU  - Yu L
+FAU - Li, Shangao
+AU  - Li S
+FAU - Si, Shuying
+AU  - Si S
+FAU - Zeng, Yanjun
+AU  - Zeng Y
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Drug Chem Toxicol
+JT  - Drug and chemical toxicology
+JID - 7801723
+RN  - 0 (Fibrinolytic Agents)
+RN  - 0 (Leptin)
+RN  - 0 (Pyrazines)
+RN  - 0 (RNA, Messenger)
+RN  - 0 (Receptors, Leptin)
+RN  - 0 (Receptors, Transforming Growth Factor beta)
+RN  - 0 (Smad3 Protein)
+RN  - 0 (Smad7 Protein)
+RN  - 0 (Transforming Growth Factor beta1)
+RN  - 1124-11-4 (tetramethylpyrazine)
+RN  - 56-23-5 (Carbon Tetrachloride)
+SB  - IM
+MH  - Animals
+MH  - Blotting, Western
+MH  - Carbon Tetrachloride/*toxicity
+MH  - Down-Regulation/drug effects
+MH  - Fibrinolytic Agents/*pharmacology
+MH  - Histocytochemistry
+MH  - Leptin/genetics/*metabolism
+MH  - Liver Cirrhosis/*chemically induced/drug therapy/metabolism
+MH  - Male
+MH  - Pyrazines/*pharmacology
+MH  - RNA, Messenger/chemistry/genetics
+MH  - Random Allocation
+MH  - Rats
+MH  - Rats, Sprague-Dawley
+MH  - Receptors, Leptin/genetics/metabolism
+MH  - Receptors, Transforming Growth Factor beta/genetics/metabolism
+MH  - Reverse Transcriptase Polymerase Chain Reaction
+MH  - Smad3 Protein/metabolism
+MH  - Smad7 Protein/metabolism
+MH  - Transforming Growth Factor beta1/genetics/*metabolism
+EDAT- 2010/05/04 06:00
+MHDA- 2010/09/30 06:00
+CRDT- 2010/05/04 06:00
+AID - 10.3109/01480540903418504 [doi]
+PST - ppublish
+SO  - Drug Chem Toxicol. 2010 Jul;33(3):310-5.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ilo
+AU  - Gambichler T
+FAU - Skrygan, Marina
+AU  - Skrygan M
+FAU - Burkert, Bjorn
+AU  - Burkert B
+FAU - Altmeyer, Peter
+AU  - Altmeyer P
+FAU - Rump, Lars Christian
+AU  - Rump LC
+FAU - Kreuter, Alexander
+AU  - Kreuter A
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20100428
+PL  - United States
+TA  - Am J Kidney Dis
+JT  - American journal of kidney diseases : the official journal of the National
+      Kidney Foundation
+JID - 8110075
+RN  - 0 (RNA, Messenger)
+RN  - 0 (Smad2 Protein)
+RN  - 0 (Smad3 Protein)
+RN  - 0 (Tissue Inhibitor of Metalloproteinase-1)
+RN  - 0 (Transforming Growth Factor beta)
+RN  - 0 (Tumor Necrosis Factor-alpha)
+RN  - 139568-91-5 (Connective Tissue Growth Factor)
+SB  - IM
+EIN - Am J Kidney Dis. 2010 Jul;56(1):187
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Biopsy
+MH  - Cohort Studies
+MH  - Connective Tissue Growth Factor/*metabolism
+MH  - Female
+MH  - Humans
+MH  - Kidney Diseases/metabolism/pathology/therapy
+MH  - Male
+MH  - Middle Aged
+MH  - Nephrogenic Fibrosing Dermopathy/*metabolism/pathology
+MH  - RNA, Messenger/metabolism
+MH  - Renal Dialysis
+MH  - Scleroderma, Systemic/metabolism/pathology
+MH  - Signal Transduction/*physiology
+MH  - Skin/metabolism/pathology
+MH  - Smad2 Protein/*metabolism
+MH  - Smad3 Protein/*metabolism
+MH  - Tissue Inhibitor of Metalloproteinase-1/metabolism
+MH  - Transforming Growth Factor beta/*metabolism
+MH  - Tumor Necrosis Factor-alpha/metabolism
+EDAT- 2010/05/01 06:00
+MHDA- 2010/07/28 06:00
+CRDT- 2010/05/01 06:00
+PHST- 2009/05/06 [received]
+PHST- 2010/01/22 [accepted]
+PHST- 2010/04/28 [aheadofprint]
+AID - S0272-6386(10)00558-5 [pii]
+AID - 10.1053/j.ajkd.2010.01.021 [doi]
+PST - ppublish
+SO  - Am J Kidney Dis. 2010 Jun;55(6):1040-9. Epub 2010 Apr 28.
+

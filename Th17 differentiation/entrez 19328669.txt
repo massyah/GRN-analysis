@@ -1,0 +1,67 @@
+PMID- 19328669
+OWN - NLM
+STAT- MEDLINE
+DA  - 20090501
+DCOM- 20090925
+LR  - 20091118
+IS  - 1879-0372 (Electronic)
+IS  - 0952-7915 (Linking)
+VI  - 21
+IP  - 2
+DP  - 2009 Apr
+TI  - Transcriptional regulatory networks in Th17 cell differentiation.
+PG  - 146-52
+AB  - Upon encountering antigen in the context of antigen presenting cells, naive
+      CD4(+) T cells undergo differentiation into effector T helper (Th) cells, which
+      can secrete high levels of cytokines and other immunomodulators to mediate host
+      defense and tissue inflammation. During the past three years, the immunology
+      field has witnessed an explosion of research advances in the biology of Th17
+      cells, the most recently described subset of T helper cells, which play crucial
+      roles in host immunity and inflammation. Here we review emerging data on
+      transcriptional regulatory networks that govern the differentiation program of
+      Th17 cells, and focus on how the orphan nuclear receptor RORgammat coordinates
+      this process in concert with diverse cytokine-induced transcription factors.
+AD  - The Kimmel Center for Biology and Medicine of the Skirball Institute, Howard
+      Hughes Medical Institute, Department of Microbiology and Pathology, New York
+      University School of Medicine, New York, NY 10016, USA.
+FAU - Zhou, Liang
+AU  - Zhou L
+FAU - Littman, Dan R
+AU  - Littman DR
+LA  - eng
+GR  - Howard Hughes Medical Institute/United States
+PT  - Journal Article
+PT  - Review
+DEP - 20090326
+PL  - England
+TA  - Curr Opin Immunol
+JT  - Current opinion in immunology
+JID - 8900118
+RN  - 0 (Interleukin-17)
+RN  - 0 (Transforming Growth Factor beta)
+SB  - IM
+MH  - Animals
+MH  - Cell Differentiation/*genetics/immunology
+MH  - *Gene Regulatory Networks
+MH  - Humans
+MH  - Interleukin-17/metabolism
+MH  - Models, Biological
+MH  - Signal Transduction/immunology
+MH  - T-Lymphocytes, Helper-Inducer/cytology/immunology/*metabolism
+MH  - Transcription, Genetic/*genetics
+MH  - Transforming Growth Factor beta/metabolism
+RF  - 63
+PMC - PMC2701391
+MID - HHMIMS116994
+OID - NLM: HHMIMS116994
+OID - NLM: PMC2701391
+EDAT- 2009/03/31 09:00
+MHDA- 2009/09/26 06:00
+CRDT- 2009/03/31 09:00
+PHST- 2009/02/04 [received]
+PHST- 2009/03/03 [accepted]
+PHST- 2009/03/26 [aheadofprint]
+AID - S0952-7915(09)00026-0 [pii]
+AID - 10.1016/j.coi.2009.03.001 [doi]
+PST - ppublish
+SO  - Curr Opin Immunol. 2009 Apr;21(2):146-52. Epub 2009 Mar 26.

@@ -1,0 +1,119 @@
+PMID- 18368049
+OWN - NLM
+STAT- MEDLINE
+DA  - 20080509
+DCOM- 20080620
+LR  - 20091119
+IS  - 1476-4687 (Electronic)
+IS  - 0028-0836 (Linking)
+VI  - 453
+IP  - 7192
+DP  - 2008 May 8
+TI  - TGF-beta-induced Foxp3 inhibits T(H)17 cell differentiation by antagonizing
+      RORgammat function.
+PG  - 236-40
+AB  - T helper cells that produce IL-17 (T(H)17 cells) promote autoimmunity in mice and
+      have been implicated in the pathogenesis of human inflammatory diseases. At
+      mucosal surfaces, T(H)17 cells are thought to protect the host from infection,
+      whereas regulatory T (T(reg)) cells control immune responses and inflammation
+      triggered by the resident microflora. Differentiation of both cell types requires
+      transforming growth factor-beta (TGF-beta), but depends on distinct transcription
+      factors: RORgammat (encoded by Rorc(gammat)) for T(H)17 cells and Foxp3 for
+      T(reg) cells. How TGF-beta regulates the differentiation of T cells with opposing
+      activities has been perplexing. Here we demonstrate that, together with
+      pro-inflammatory cytokines, TGF-beta orchestrates T(H)17 cell differentiation in 
+      a concentration-dependent manner. At low concentrations, TGF-beta synergizes with
+      interleukin (IL)-6 and IL-21 (refs 9-11) to promote IL-23 receptor (Il23r)
+      expression, favouring T(H)17 cell differentiation. High concentrations of
+      TGF-beta repress IL23r expression and favour Foxp3+ T(reg) cells. RORgammat and
+      Foxp3 are co-expressed in naive CD4+ T cells exposed to TGF-beta and in a subset 
+      of T cells in the small intestinal lamina propria of the mouse. In vitro,
+      TGF-beta-induced Foxp3 inhibits RORgammat function, at least in part through
+      their interaction. Accordingly, lamina propria T cells that co-express both
+      transcription factors produce less IL-17 (also known as IL-17a) than those that
+      express RORgammat alone. IL-6, IL-21 and IL-23 relieve Foxp3-mediated inhibition 
+      of RORgammat, thereby promoting T(H)17 cell differentiation. Therefore, the
+      decision of antigen-stimulated cells to differentiate into either T(H)17 or
+      T(reg) cells depends on the cytokine-regulated balance of RORgammat and Foxp3.
+AD  - The Kimmel Center for Biology and Medicine of the Skirball Institute, New York
+      University School of Medicine, New York, New York 10016, USA.
+FAU - Zhou, Liang
+AU  - Zhou L
+FAU - Lopes, Jared E
+AU  - Lopes JE
+FAU - Chong, Mark M W
+AU  - Chong MM
+FAU - Ivanov, Ivaylo I
+AU  - Ivanov II
+FAU - Min, Roy
+AU  - Min R
+FAU - Victora, Gabriel D
+AU  - Victora GD
+FAU - Shen, Yuelei
+AU  - Shen Y
+FAU - Du, Jianguang
+AU  - Du J
+FAU - Rubtsov, Yuri P
+AU  - Rubtsov YP
+FAU - Rudensky, Alexander Y
+AU  - Rudensky AY
+FAU - Ziegler, Steven F
+AU  - Ziegler SF
+FAU - Littman, Dan R
+AU  - Littman DR
+LA  - eng
+GR  - AI48779/AI/NIAID NIH HHS/United States
+GR  - R01 AI048779-05/AI/NIAID NIH HHS/United States
+GR  - Howard Hughes Medical Institute/United States
+GR  - Howard Hughes Medical Institute/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20080326
+PL  - England
+TA  - Nature
+JT  - Nature
+JID - 0410462
+RN  - 0 (FOXP3 protein, human)
+RN  - 0 (Forkhead Transcription Factors)
+RN  - 0 (Foxp3 protein, mouse)
+RN  - 0 (Interleukin-17)
+RN  - 0 (Nuclear Receptor Subfamily 1, Group F, Member 3)
+RN  - 0 (RORC protein, human)
+RN  - 0 (Receptors, Interleukin)
+RN  - 0 (Receptors, Retinoic Acid)
+RN  - 0 (Receptors, Thyroid Hormone)
+RN  - 0 (Rorc protein, mouse)
+RN  - 0 (Transforming Growth Factor beta)
+RN  - 0 (interleukin-23 receptor, mouse)
+SB  - IM
+MH  - Animals
+MH  - Cell Differentiation/drug effects
+MH  - Cell Line
+MH  - Cells, Cultured
+MH  - Forkhead Transcription Factors/genetics/*metabolism
+MH  - Gene Expression Regulation/drug effects
+MH  - Humans
+MH  - Interleukin-17/biosynthesis/genetics/*metabolism
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Nuclear Receptor Subfamily 1, Group F, Member 3
+MH  - Receptors, Interleukin/genetics/metabolism
+MH  - Receptors, Retinoic Acid/*antagonists & inhibitors/genetics/metabolism
+MH  - Receptors, Thyroid Hormone/*antagonists & inhibitors/genetics/metabolism
+MH  - T-Lymphocytes, Helper-Inducer/*cytology/*drug effects/metabolism
+MH  - Transforming Growth Factor beta/*pharmacology
+PMC - PMC2597437
+MID - HHMIMS62280
+OID - NLM: HHMIMS62280
+OID - NLM: PMC2597437
+EDAT- 2008/03/28 09:00
+MHDA- 2008/06/21 09:00
+CRDT- 2008/03/28 09:00
+PHST- 2008/01/23 [received]
+PHST- 2008/03/04 [accepted]
+PHST- 2008/03/26 [aheadofprint]
+AID - nature06878 [pii]
+AID - 10.1038/nature06878 [doi]
+PST - ppublish
+SO  - Nature. 2008 May 8;453(7192):236-40. Epub 2008 Mar 26.

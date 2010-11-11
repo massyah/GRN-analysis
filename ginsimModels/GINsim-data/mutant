@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutantList>
+  <mutant name="AKT1">
+    <change target="AKT1" min="0" max="0"/>
+  </mutant>
+  <mutant name="MEK1">
+    <change target="MEK1" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK2">
+    <change target="CDK2" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK4">
+    <change target="CDK4" min="0" max="0"/>
+  </mutant>
+  <mutant name="p21">
+    <change target="p21" min="0" max="0"/>
+  </mutant>
+  <mutant name="p27">
+    <change target="p27" min="0" max="0"/>
+  </mutant>
+  <mutant name="CycD1">
+    <change target="CyclinD1" min="0" max="0"/>
+  </mutant>
+  <mutant name="ERBB2_3">
+    <change target="ERBB2" min="0" max="0"/>
+    <change target="ERBB3" min="0" max="0"/>
+  </mutant>
+  <mutant name="ERBB1_3">
+    <change target="ERBB1_3" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+    <change target="ERBB3" min="0" max="0"/>
+  </mutant>
+  <mutant name="ERBB1">
+    <change target="ERBB1" min="0" max="0"/>
+  </mutant>
+  <mutant name="ERBB1_2">
+    <change target="ERBB1_2" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+    <change target="ERBB2" min="0" max="0"/>
+  </mutant>
+  <mutant name="IGF1R">
+    <change target="IGF1R" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK6">
+    <change target="CDK6" min="0" max="0"/>
+  </mutant>
+  <mutant name="ERa">
+    <change target="ERalpha" min="0" max="0"/>
+  </mutant>
+  <mutant name="MYC">
+    <change target="MYC" min="0" max="0"/>
+  </mutant>
+  <mutant name="CyclinE1">
+    <change target="CyclinE1" min="0" max="0"/>
+  </mutant>
+  <mutant name="ERBB2">
+    <change target="ERBB2" min="0" max="0"/>
+  </mutant>
+  <mutant name="ERRB2_MYC">
+    <change target="MYC" min="0" max="0"/>
+    <change target="ERBB2" min="0" max="0"/>
+  </mutant>
+  <mutant name="EGF">
+    <change target="EGF" min="0" max="0"/>
+  </mutant>
+  <mutant name="AKT1_MEK1">
+    <change target="AKT1" min="0" max="0"/>
+    <change target="MEK1" min="0" max="0"/>
+  </mutant>
+  <mutant name="AKT1_CDK2">
+    <change target="AKT1" min="0" max="0"/>
+    <change target="CDK2" min="0" max="0"/>
+  </mutant>
+  <mutant name="AKT1_CDK4">
+    <change target="AKT1" min="0" max="0"/>
+    <change target="CDK4" min="0" max="0"/>
+  </mutant>
+  <mutant name="AKT1_p21">
+    <change target="AKT1" min="0" max="0"/>
+  </mutant>
+  <mutant name="AKT1_p27">
+    <change target="AKT1" min="0" max="0"/>
+    <change target="p27" min="0" max="0"/>
+  </mutant>
+  <mutant name="AKT1_CycD1">
+    <change target="AKT1" min="0" max="0"/>
+    <change target="CyclinD1" min="0" max="0"/>
+  </mutant>
+  <mutant name="AKT1_ERBB2_3">
+    <change target="AKT1" min="0" max="0"/>
+    <change target="ERBB2" min="0" max="0"/>
+    <change target="ERBB3" min="0" max="0"/>
+  </mutant>
+  <mutant name="AKT1_ERBB1_3">
+    <change target="AKT1" min="0" max="0"/>
+    <change target="ERBB1_3" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+    <change target="ERBB3" min="0" max="0"/>
+  </mutant>
+  <mutant name="AKT1_ERBB1">
+    <change target="AKT1" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+  </mutant>
+  <mutant name="AKT1_ERBB2">
+    <change target="AKT1" min="0" max="0"/>
+    <change target="ERBB2" min="0" max="0"/>
+  </mutant>
+  <mutant name="AKT1_ERBB1_2">
+    <change target="AKT1" min="0" max="0"/>
+    <change target="ERBB1_2" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+    <change target="ERBB2" min="0" max="0"/>
+  </mutant>
+  <mutant name="AKT1_IGF1R">
+    <change target="AKT1" min="0" max="0"/>
+    <change target="IGF1R" min="0" max="0"/>
+  </mutant>
+  <mutant name="AKT1_CDK6">
+    <change target="AKT1" min="0" max="0"/>
+    <change target="CDK6" min="0" max="0"/>
+  </mutant>
+  <mutant name="AKT1_ERalpha">
+    <change target="AKT1" min="0" max="0"/>
+    <change target="ERalpha" min="0" max="0"/>
+  </mutant>
+  <mutant name="AKT1_MYC">
+    <change target="AKT1" min="0" max="0"/>
+    <change target="MYC" min="0" max="0"/>
+  </mutant>
+  <mutant name="AKT1_CycE1">
+    <change target="AKT1" min="0" max="0"/>
+    <change target="CyclinE1" min="0" max="0"/>
+  </mutant>
+  <mutant name="MEK1_CDK2">
+    <change target="MEK1" min="0" max="0"/>
+    <change target="CDK2" min="0" max="0"/>
+  </mutant>
+  <mutant name="MEK1_CDK4">
+    <change target="MEK1" min="0" max="0"/>
+    <change target="CDK4" min="0" max="0"/>
+  </mutant>
+  <mutant name="MEK1_p21">
+    <change target="MEK1" min="0" max="0"/>
+    <change target="p21" min="0" max="0"/>
+  </mutant>
+  <mutant name="MEK1_p27">
+    <change target="MEK1" min="0" max="0"/>
+    <change target="p27" min="0" max="0"/>
+  </mutant>
+  <mutant name="MEK1_CycD1">
+    <change target="MEK1" min="0" max="0"/>
+    <change target="CyclinD1" min="0" max="0"/>
+  </mutant>
+  <mutant name="MEK1_ERBB2_3">
+    <change target="MEK1" min="0" max="0"/>
+    <change target="ERBB2" min="0" max="0"/>
+    <change target="ERBB3" min="0" max="0"/>
+  </mutant>
+  <mutant name="MEK1_ERBB1_3">
+    <change target="MEK1" min="0" max="0"/>
+    <change target="ERBB1_3" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+    <change target="ERBB3" min="0" max="0"/>
+  </mutant>
+  <mutant name="MEK1_ERBB1">
+    <change target="MEK1" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+  </mutant>
+  <mutant name="MEK1_ERBB2">
+    <change target="MEK1" min="0" max="0"/>
+    <change target="ERBB2" min="0" max="0"/>
+  </mutant>
+  <mutant name="MEK1_ERBB1_2">
+    <change target="MEK1" min="0" max="0"/>
+    <change target="ERBB1_2" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+    <change target="ERBB2" min="0" max="0"/>
+  </mutant>
+  <mutant name="MEK1_IGF1R">
+    <change target="MEK1" min="0" max="0"/>
+    <change target="IGF1R" min="0" max="0"/>
+  </mutant>
+  <mutant name="MEK1_CDK6">
+    <change target="MEK1" min="0" max="0"/>
+    <change target="CDK6" min="0" max="0"/>
+  </mutant>
+  <mutant name="MEK1_ERalpha">
+    <change target="MEK1" min="0" max="0"/>
+    <change target="ERalpha" min="0" max="0"/>
+  </mutant>
+  <mutant name="MEK1_MYC">
+    <change target="MEK1" min="0" max="0"/>
+    <change target="MYC" min="0" max="0"/>
+  </mutant>
+  <mutant name="MEK1_CyclE1">
+    <change target="MEK1" min="0" max="0"/>
+    <change target="CyclinE1" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK2_CDK4">
+    <change target="CDK2" min="0" max="0"/>
+    <change target="CDK4" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK2_p21">
+    <change target="CDK2" min="0" max="0"/>
+    <change target="p21" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK2_p27">
+    <change target="CDK2" min="0" max="0"/>
+    <change target="p27" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK2_CycD1">
+    <change target="CDK2" min="0" max="0"/>
+    <change target="CyclinD1" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK2_ERBB2_3">
+    <change target="CDK2" min="0" max="0"/>
+    <change target="ERBB2" min="0" max="0"/>
+    <change target="ERBB3" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK2_ERBB1_3">
+    <change target="CDK2" min="0" max="0"/>
+    <change target="ERBB1_3" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+    <change target="ERBB3" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK2_ERBB1">
+    <change target="CDK2" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK2_ERBB2">
+    <change target="CDK2" min="0" max="0"/>
+    <change target="ERBB2" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK2_ERBB1_2">
+    <change target="CDK2" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+    <change target="ERBB2" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK2_IGF1R">
+    <change target="CDK2" min="0" max="0"/>
+    <change target="IGF1R" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK2_CDK6">
+    <change target="CDK2" min="0" max="0"/>
+    <change target="CDK6" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK2_ERalpha">
+    <change target="CDK2" min="0" max="0"/>
+    <change target="ERalpha" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK2_MYC">
+    <change target="CDK2" min="0" max="0"/>
+    <change target="MYC" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK2_CycE1">
+    <change target="CDK2" min="0" max="0"/>
+    <change target="CyclinE1" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK4_p21">
+    <change target="CDK4" min="0" max="0"/>
+    <change target="p21" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK4_p27">
+    <change target="CDK4" min="0" max="0"/>
+    <change target="p27" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK4_CycD1">
+    <change target="CDK4" min="0" max="0"/>
+    <change target="CyclinD1" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK4_ERBB2_3">
+    <change target="CDK4" min="0" max="0"/>
+    <change target="ERBB2" min="0" max="0"/>
+    <change target="ERBB3" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK4_ERBB1_3">
+    <change target="CDK4" min="0" max="0"/>
+    <change target="ERBB1_3" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+    <change target="ERBB3" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK4_ERBB1">
+    <change target="CDK4" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK4_ERBB2">
+    <change target="CDK4" min="0" max="0"/>
+    <change target="ERBB2" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK4_ERBB1_2">
+    <change target="CDK4" min="0" max="0"/>
+    <change target="ERBB1_2" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+    <change target="ERBB2" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK4_IGF1R">
+    <change target="CDK4" min="0" max="0"/>
+    <change target="IGF1R" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK4_CDK6">
+    <change target="CDK4" min="0" max="0"/>
+    <change target="CDK6" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK4_ERalpha">
+    <change target="CDK4" min="0" max="0"/>
+    <change target="ERalpha" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK4_MYC">
+    <change target="CDK4" min="0" max="0"/>
+    <change target="MYC" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK4_CycE1">
+    <change target="CDK4" min="0" max="0"/>
+    <change target="CyclinE1" min="0" max="0"/>
+  </mutant>
+  <mutant name="p21_p27">
+    <change target="p21" min="0" max="0"/>
+    <change target="p27" min="0" max="0"/>
+  </mutant>
+  <mutant name="p21_CycD1">
+    <change target="p21" min="0" max="0"/>
+    <change target="CyclinD1" min="0" max="0"/>
+  </mutant>
+  <mutant name="p21_ERBB2_3">
+    <change target="p21" min="0" max="0"/>
+    <change target="ERBB2" min="0" max="0"/>
+    <change target="ERBB3" min="0" max="0"/>
+  </mutant>
+  <mutant name="p21_ERBB1_3">
+    <change target="p21" min="0" max="0"/>
+    <change target="ERBB1_3" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+    <change target="ERBB3" min="0" max="0"/>
+  </mutant>
+  <mutant name="p21_ERBB1">
+    <change target="p21" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+  </mutant>
+  <mutant name="p21_ERBB2">
+    <change target="p21" min="0" max="0"/>
+    <change target="ERBB2" min="0" max="0"/>
+  </mutant>
+  <mutant name="p21_ERBB1_2">
+    <change target="p21" min="0" max="0"/>
+    <change target="ERBB2" min="0" max="0"/>
+    <change target="ERBB1_2" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+  </mutant>
+  <mutant name="p21_IGF1R">
+    <change target="p21" min="0" max="0"/>
+    <change target="IGF1R" min="0" max="0"/>
+  </mutant>
+  <mutant name="p21_CDK6">
+    <change target="p21" min="0" max="0"/>
+    <change target="CDK6" min="0" max="0"/>
+  </mutant>
+  <mutant name="p21_ERalpha">
+    <change target="p21" min="0" max="0"/>
+    <change target="ERalpha" min="0" max="0"/>
+  </mutant>
+  <mutant name="p21_MYC">
+    <change target="p21" min="0" max="0"/>
+    <change target="MYC" min="0" max="0"/>
+  </mutant>
+  <mutant name="p21_CycE1">
+    <change target="p21" min="0" max="0"/>
+    <change target="CyclinE1" min="0" max="0"/>
+  </mutant>
+  <mutant name="p27_CycD1">
+    <change target="p27" min="0" max="0"/>
+    <change target="CyclinD1" min="0" max="0"/>
+  </mutant>
+  <mutant name="p27_ERBB2_3">
+    <change target="p27" min="0" max="0"/>
+    <change target="ERBB2" min="0" max="0"/>
+    <change target="ERBB3" min="0" max="0"/>
+  </mutant>
+  <mutant name="p27_ERBB1_3">
+    <change target="p27" min="0" max="0"/>
+    <change target="ERBB1_3" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+    <change target="ERBB3" min="0" max="0"/>
+  </mutant>
+  <mutant name="p27_ERBB1">
+    <change target="p27" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+  </mutant>
+  <mutant name="p27_ERBB2">
+    <change target="p27" min="0" max="0"/>
+    <change target="ERBB2" min="0" max="0"/>
+  </mutant>
+  <mutant name="p27_ERBB1_2">
+    <change target="p27" min="0" max="0"/>
+    <change target="ERBB2" min="0" max="0"/>
+    <change target="ERBB1_2" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+  </mutant>
+  <mutant name="p27_IGF1R">
+    <change target="p27" min="0" max="0"/>
+    <change target="IGF1R" min="0" max="0"/>
+  </mutant>
+  <mutant name="p27_CDK6">
+    <change target="p27" min="0" max="0"/>
+    <change target="CDK6" min="0" max="0"/>
+  </mutant>
+  <mutant name="p27_ERalpha">
+    <change target="p27" min="0" max="0"/>
+    <change target="ERalpha" min="0" max="0"/>
+  </mutant>
+  <mutant name="p27_MYC">
+    <change target="p27" min="0" max="0"/>
+    <change target="MYC" min="0" max="0"/>
+  </mutant>
+  <mutant name="p27_CycE1">
+    <change target="p27" min="0" max="0"/>
+    <change target="CyclinE1" min="0" max="0"/>
+  </mutant>
+  <mutant name="CycD1_ERBB2_3">
+    <change target="CyclinD1" min="0" max="0"/>
+    <change target="ERBB2" min="0" max="0"/>
+    <change target="ERBB3" min="0" max="0"/>
+  </mutant>
+  <mutant name="CycD1_ERBB1_3">
+    <change target="CyclinD1" min="0" max="0"/>
+    <change target="ERBB1_3" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+    <change target="ERBB3" min="0" max="0"/>
+  </mutant>
+  <mutant name="CycD1_ERBB1">
+    <change target="CyclinD1" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+  </mutant>
+  <mutant name="CycD1_ERBB2">
+    <change target="CyclinD1" min="0" max="0"/>
+    <change target="ERBB2" min="0" max="0"/>
+  </mutant>
+  <mutant name="CycD1_ERBB1_2">
+    <change target="CyclinD1" min="0" max="0"/>
+    <change target="ERBB2" min="0" max="0"/>
+    <change target="ERBB1_2" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+  </mutant>
+  <mutant name="CycD1_IGF1R">
+    <change target="CyclinD1" min="0" max="0"/>
+    <change target="IGF1R" min="0" max="0"/>
+  </mutant>
+  <mutant name="CycD1_CDK6">
+    <change target="CyclinD1" min="0" max="0"/>
+    <change target="CDK6" min="0" max="0"/>
+  </mutant>
+  <mutant name="CycD1_ERalpha">
+    <change target="CyclinD1" min="0" max="0"/>
+    <change target="ERalpha" min="0" max="0"/>
+  </mutant>
+  <mutant name="CycD1_MYC">
+    <change target="CyclinD1" min="0" max="0"/>
+    <change target="MYC" min="0" max="0"/>
+  </mutant>
+  <mutant name="CycD1_CycE1">
+    <change target="CyclinD1" min="0" max="0"/>
+    <change target="CyclinE1" min="0" max="0"/>
+  </mutant>
+  <mutant name="ERBB1_2_3">
+    <change target="ERBB2" min="0" max="0"/>
+    <change target="ERBB3" min="0" max="0"/>
+    <change target="ERBB1_2" min="0" max="0"/>
+    <change target="ERBB1_3" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+  </mutant>
+  <mutant name="ERBB2_3_IGFR1">
+    <change target="ERBB2" min="0" max="0"/>
+    <change target="ERBB3" min="0" max="0"/>
+    <change target="IGF1R" min="0" max="0"/>
+  </mutant>
+  <mutant name="ERBB2_3_CDK6">
+    <change target="ERBB2" min="0" max="0"/>
+    <change target="ERBB3" min="0" max="0"/>
+    <change target="CDK6" min="0" max="0"/>
+  </mutant>
+  <mutant name="ERBB2_3_ERalpha">
+    <change target="ERBB2" min="0" max="0"/>
+    <change target="ERBB3" min="0" max="0"/>
+    <change target="ERalpha" min="0" max="0"/>
+  </mutant>
+  <mutant name="ERBB2_3_MYC">
+    <change target="ERBB2" min="0" max="0"/>
+    <change target="ERBB3" min="0" max="0"/>
+    <change target="MYC" min="0" max="0"/>
+  </mutant>
+  <mutant name="ERBB2_3_CycE1">
+    <change target="ERBB2" min="0" max="0"/>
+    <change target="ERBB3" min="0" max="0"/>
+    <change target="CyclinE1" min="0" max="0"/>
+  </mutant>
+  <mutant name="ERBB1_3_IGF1R">
+    <change target="ERBB1_3" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+    <change target="ERBB3" min="0" max="0"/>
+    <change target="IGF1R" min="0" max="0"/>
+  </mutant>
+  <mutant name="ERBB1_3_CDK6">
+    <change target="ERBB1_3" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+    <change target="ERBB3" min="0" max="0"/>
+    <change target="CDK6" min="0" max="0"/>
+  </mutant>
+  <mutant name="ERBB1_3_ERalpha">
+    <change target="ERBB1_3" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+    <change target="ERBB3" min="0" max="0"/>
+    <change target="ERalpha" min="0" max="0"/>
+  </mutant>
+  <mutant name="ERBB1_3_MYC">
+    <change target="ERBB1_3" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+    <change target="ERBB3" min="0" max="0"/>
+    <change target="MYC" min="0" max="0"/>
+  </mutant>
+  <mutant name="ERBB1_3_CycE1">
+    <change target="ERBB1_3" min="0" max="0"/>
+    <change target="ERBB1" min="0" max="0"/>
+    <change target="ERBB3" min="0" max="0"/>
+    <change target="CyclinE1" min="0" max="0"/>
+  </mutant>
+  <mutant name="ERBB1_IGF1R">
+    <change target="ERBB1" min="0" max="0"/>
+    <change target="IGF1R" min="0" max="0"/>
+  </mutant>
+  <mutant name="ERBB1_CDK6">
+    <change target="ERBB1" min="0" max="0"/>
+    <change target="CDK6" min="0" max="0"/>
+  </mutant>
+  <mutant name="ERBB1_ERalpha">
+    <change target="ERBB1" min="0" max="0"/>
+    <change target="ERalpha" min="0" max="0"/>
+  </mutant>
+  <mutant name="ERBB1_MYC">
+    <change target="ERBB1" min="0" max="0"/>
+    <change target="MYC" min="0" max="0"/>
+  </mutant>
+  <mutant name="ERBB1_CycE1">
+    <change target="ERBB1" min="0" max="0"/>
+    <change target="CyclinE1" min="0" max="0"/>
+  </mutant>
+  <mutant name="IGF1R_CDK6">
+    <change target="IGF1R" min="0" max="0"/>
+    <change target="CDK6" min="0" max="0"/>
+  </mutant>
+  <mutant name="IGF1R_ERalpha">
+    <change target="IGF1R" min="0" max="0"/>
+    <change target="ERalpha" min="0" max="0"/>
+  </mutant>
+  <mutant name="IGF1R_MYC">
+    <change target="IGF1R" min="0" max="0"/>
+    <change target="MYC" min="0" max="0"/>
+  </mutant>
+  <mutant name="IGF1R_CycE1">
+    <change target="IGF1R" min="0" max="0"/>
+    <change target="CyclinE1" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK6_ERalpha">
+    <change target="CDK6" min="0" max="0"/>
+    <change target="ERalpha" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK6_MYC">
+    <change target="CDK6" min="0" max="0"/>
+    <change target="MYC" min="0" max="0"/>
+  </mutant>
+  <mutant name="CDK6_CycE1">
+    <change target="CDK6" min="0" max="0"/>
+    <change target="CyclinE1" min="0" max="0"/>
+  </mutant>
+  <mutant name="ERalpha_MYC">
+    <change target="ERalpha" min="0" max="0"/>
+    <change target="MYC" min="0" max="0"/>
+  </mutant>
+  <mutant name="ERalpha_CyclinE1">
+    <change target="ERalpha" min="0" max="0"/>
+    <change target="CyclinE1" min="0" max="0"/>
+  </mutant>
+  <mutant name="MYC_CycE1">
+    <change target="CyclinE1" min="0" max="0"/>
+    <change target="ERalpha" min="0" max="0"/>
+  </mutant>
+  <mutant name="ERalpha_MYC_CycE1">
+    <change target="ERalpha" min="0" max="0"/>
+    <change target="MYC" min="0" max="0"/>
+    <change target="CyclinE1" min="0" max="0"/>
+  </mutant>
+</mutantList>

@@ -1,0 +1,883 @@
+PMID- 20805420
+OWN - NLM
+STAT- In-Process
+DA  - 20100922
+IS  - 1550-6606 (Electronic)
+IS  - 0022-1767 (Linking)
+VI  - 185
+IP  - 7
+DP  - 2010 Oct 1
+TI  - Induction of Th17 cells in the tumor microenvironment improves survival in
+      a murine model of pancreatic cancer.
+PG  - 4063-71
+AB  - An important mechanism by which pancreatic cancer avoids antitumor
+      immunity is by recruiting regulatory T cells (Tregs) to the tumor
+      microenvironment. Recent studies suggest that suppressor Tregs and
+      effector Th17 cells share a common lineage and differentiate based on the
+      presence of certain cytokines in the microenvironment. Because IL-6 in the
+      presence of TGF-beta has been shown to inhibit Treg development and induce
+      Th17 cells, we hypothesized that altering the tumor cytokine environment
+      could induce Th17 and reverse tumor-associated immune suppression. Pan02
+      murine pancreatic tumor cells that secrete TGF-beta were transduced with
+      the gene encoding IL-6. C57BL/6 mice were injected s.c. with wild-type
+      (WT), empty vector (EV), or IL-6-transduced Pan02 cells (IL-6 Pan02) to
+      investigate the impact of IL-6 secretion in the tumor microenvironment.
+      Mice bearing IL-6 Pan02 tumors demonstrated significant delay in tumor
+      growth and better overall median survival compared with mice bearing WT or
+      EV Pan02 tumors. Immunohistochemical analysis demonstrated an increase in
+      Th17 cells (CD4(+)IL-23R(+) cells and CD4(+)IL-17(+) cells) in tumors of
+      the IL-6 Pan02 group compared with WT or EV Pan02 tumors. The upregulation
+      of IL-17-secreting CD4(+) tumor-infiltrating lymphocytes was substantiated
+      at the cellular level by flow cytometry and ELISPOT assay and mRNA level
+      for retinoic acid-related orphan receptor gammat and IL-23R by RT-PCR.
+      Thus, the addition of IL-6 to the tumor microenvironment skews the balance
+      toward Th17 cells in a murine model of pancreatic cancer. The delayed
+      tumor growth and improved survival suggests that induction of Th17 in the
+      tumor microenvironment produces an antitumor effect.
+AD  - Department of Surgery, Washington University School of Medicine, St.
+      Louis, MO 63110, USA.
+FAU - Gnerlich, Jennifer L
+AU  - Gnerlich JL
+FAU - Mitchem, Jonathan B
+AU  - Mitchem JB
+FAU - Weir, Joshua S
+AU  - Weir JS
+FAU - Sankpal, Narendra V
+AU  - Sankpal NV
+FAU - Kashiwagi, Hiroyuki
+AU  - Kashiwagi H
+FAU - Belt, Brian A
+AU  - Belt BA
+FAU - Porembka, Matthew R
+AU  - Porembka MR
+FAU - Herndon, John M
+AU  - Herndon JM
+FAU - Eberlein, Timothy J
+AU  - Eberlein TJ
+FAU - Goedegebuure, Peter
+AU  - Goedegebuure P
+FAU - Linehan, David C
+AU  - Linehan DC
+LA  - eng
+GR  - 5P30 DK052574/DK/NIDDK NIH HHS/United States
+GR  - 5T32CA009621-19/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20100830
+PL  - United States
+TA  - J Immunol
+JT  - Journal of immunology (Baltimore, Md. : 1950)
+JID - 2985117R
+SB  - AIM
+SB  - IM
+EDAT- 2010/09/02 06:00
+MHDA- 2010/09/02 06:00
+CRDT- 2010/09/01 06:00
+PHST- 2010/08/30 [aheadofprint]
+AID - jimmunol.0902609 [pii]
+AID - 10.4049/jimmunol.0902609 [doi]
+PST - ppublish
+SO  - J Immunol. 2010 Oct 1;185(7):4063-71. Epub 2010 Aug 30.
+
+PMID- 20570038
+OWN - NLM
+STAT- In-Process
+DA  - 20100721
+IS  - 1872-6968 (Electronic)
+IS  - 0303-8467 (Linking)
+VI  - 112
+IP  - 7
+DP  - 2010 Sep
+TI  - Interferon beta inhibits the Th17 cell-mediated autoimmune response in
+      patients with relapsing-remitting multiple sclerosis.
+PG  - 641-5
+AB  - Interferon (IFN)beta has been used over the past decades as an effective
+      first-line therapy against relapsing-remitting multiple sclerosis (RR MS),
+      however its in vivo operative mechanisms of action are not fully
+      understood. Current advances in our understanding of the development of
+      the autoimmune response, including its induction by a recently discovered
+      Th17 cell lineage, may allow us to identify the biomarkers of this
+      effective therapy. Our in vitro human studies have characterized IFNbeta's
+      immunoregulatory effects on Th17 cell differentiation. IFNbeta inhibited
+      IL-1beta, IL-23 and transforming growth factor (TGF)-beta (which induce
+      Th17 cell differentiation), and induced IL-27, IL-12p35 and IL-10 (which
+      suppress it) in dendritic cells (DCs) and B-cells. The effect on IL-1beta,
+      IL-23 and IL-27 production in DCs was mediated by the up-regulation of
+      Toll-like receptor (TLR)7 and its downstream signaling molecules.
+      IFNbeta's direct effect on naive T-cells suppressed in vitro Th17
+      differentiation by inhibiting Th17 cell lineage markers (retinoic
+      acid-related orphan nuclear hormone receptor (ROR)c, IL-17A, IL-23R and
+      CCR6), and by inducing IL-10 production by CD4 cells, which constrains
+      Th17 cell expansion. Our results have identified novel therapeutic
+      mechanisms of IFNbeta, which inhibit Th17 cell differentiation in the
+      context of the autoimmune response in MS.
+AD  - Department of Neurology, University of North Carolina at Chapel Hill,
+      Chapel Hill, NC 27599, USA.
+FAU - Zhang, Xin
+AU  - Zhang X
+FAU - Markovic-Plese, Silva
+AU  - Markovic-Plese S
+LA  - eng
+PT  - Journal Article
+DEP - 20100601
+PL  - Netherlands
+TA  - Clin Neurol Neurosurg
+JT  - Clinical neurology and neurosurgery
+JID - 7502039
+SB  - IM
+EDAT- 2010/06/24 06:00
+MHDA- 2010/06/24 06:00
+CRDT- 2010/06/24 06:00
+PHST- 2010/02/05 [received]
+PHST- 2010/04/19 [revised]
+PHST- 2010/04/28 [accepted]
+PHST- 2010/06/01 [aheadofprint]
+AID - S0303-8467(10)00137-X [pii]
+AID - 10.1016/j.clineuro.2010.04.020 [doi]
+PST - ppublish
+SO  - Clin Neurol Neurosurg. 2010 Sep;112(7):641-5. Epub 2010 Jun 1.
+
+PMID- 19933379
+OWN - NLM
+STAT- Publisher
+DA  - 20091125
+IS  - 1535-4989 (Electronic)
+IS  - 1044-1549 (Linking)
+DP  - 2009 Nov 20
+TI  - Flt3-Ligand Decreases Th17 Cells and SOCS Proteins in the Lung of House
+      Dust Mite-sensitized and Challenged Mice.
+AB  - We previously reported that Flt3-L reversed airway hyper-responsiveness
+      (AHR) and airway inflammation, increased the number of regulatory
+      CD11c(high)CD8alpha(high)CD11b(low) dendritic cells and
+      CD4+CD25+ICOS+Foxp3+IL-10+ T-regulatory cells in the lung of
+      allergen-sensitized and challenged mice. In this study, we evaluated the
+      effect of Flt3-L on Th17 cells and expression of SOCS proteins in the
+      lungs of house dust mite (HDM)-sensitized and challenged mice. BALB/c mice
+      were sensitized and challenged with HDM and AHR to methacholine was
+      established. Mice were treated with Flt3-L (5 mug, i.p.) daily for 10
+      days. Levels of IL-4, IL-5, IL-6, IL-8, IL-13 and TGF-beta in the BALF
+      were examined by ELISA. Flt3-L treatment reversed existing AHR to
+      methacholine and substantially decreased eosinophils, neutrophils, IL-5,
+      IL-6, IL-8, IL-13 and TGF-beta levels in the BALF. HDM-sensitized and
+      challenged mice showed a significant increase in lung
+      CD4+IL-17+IL-23R+CD25- T-cells with high expression of ROR-gammat
+      transcripts. However, administration of Flt3-L substantially decreased the
+      number of lung CD4+IL-17+IL-23R+CD25- T-cells with significantly decreased
+      expression of ROR-gammat mRNA in these cells. HDM sensitization caused a
+      significant increase in the expression of SOCS-1, -3 and -5 in the lung.
+      Flt3-L treatment abolished the increase in SOCS-1 and SOCS-3 protein,
+      whereas SOCS-5 expression was significantly reduced. These data suggest
+      that the therapeutic effect of Flt3-L in reversing the hallmarks of
+      allergic asthma in a mouse model is mediated by decreasing IL-6 and
+      TGF-beta levels in the BALF, which in turn decrease
+      CD4+IL-17+IL-23R+ROR-gammat+CD25- T-cells and the expression of SOCS-1 and
+      SOCS-3 in the lung of HDM-sensitized and challenged mice.
+AD  - Center for Clinical and Translational Science, Creighton University School
+      of Medicine, Omaha, Nebraska, United States.
+AU  - McGee HS
+AU  - Stallworth AL
+AU  - Agrawal T
+AU  - Shao Z
+AU  - Lorence L
+AU  - Agrawal DK
+LA  - ENG
+PT  - JOURNAL ARTICLE
+DEP - 20091120
+TA  - Am J Respir Cell Mol Biol
+JT  - American journal of respiratory cell and molecular biology
+JID - 8917225
+EDAT- 2009/11/26 06:00
+MHDA- 2009/11/26 06:00
+CRDT- 2009/11/26 06:00
+AID - 2009-0241OC [pii]
+AID - 10.1165/rcmb.2009-0241OC [doi]
+PST - aheadofprint
+SO  - Am J Respir Cell Mol Biol. 2009 Nov 20.
+
+PMID- 19682929
+OWN - NLM
+STAT- MEDLINE
+DA  - 20090824
+DCOM- 20090925
+LR  - 20091119
+IS  - 1097-4180 (Electronic)
+IS  - 1074-7613 (Linking)
+VI  - 31
+IP  - 2
+DP  - 2009 Aug 21
+TI  - Interleukin-1 and IL-23 induce innate IL-17 production from gammadelta T
+      cells, amplifying Th17 responses and autoimmunity.
+PG  - 331-41
+AB  - Th17 cells, CD4(+) T cells that secrete interleukin-17 (IL-17), are
+      pathogenic in autoimmune diseases and their development and expansion is
+      driven by the cytokines IL-6, TGF-beta, IL-21, IL-1, and IL-23. However,
+      there are also innate sources of IL-17. Here, we show that gammadelta T
+      cells express IL-23R and the transcription factor RORgammat and produce
+      IL-17, IL-21, and IL-22 in response to IL-1beta and IL-23, without T cell
+      receptor engagement. IL-17-producing gammadelta T cells were found at high
+      frequency in the brain of mice with experimental autoimmune
+      encephalomyelitis (EAE). gammadelta T cells activated by IL-1beta and
+      IL-23 promoted IL-17 production by CD4(+) T cells and increased
+      susceptibility to EAE, suggesting that gammadelta T cells act in an
+      amplification loop for IL-17 production by Th17 cells. Our findings
+      demonstrate that gammadelta T cells activated by IL-1beta and IL-23 are an
+      important source of innate IL-17 and IL-21 and provide an alternative
+      mechanism whereby IL-1 and IL-23 may mediate autoimmune inflammation.
+AD  - Immune Regulation Research Group, School of Biochemistry and Immunology,
+      Trinity College, Dublin 2, Ireland.
+FAU - Sutton, Caroline E
+AU  - Sutton CE
+FAU - Lalor, Stephen J
+AU  - Lalor SJ
+FAU - Sweeney, Cheryl M
+AU  - Sweeney CM
+FAU - Brereton, Corinna F
+AU  - Brereton CF
+FAU - Lavelle, Ed C
+AU  - Lavelle EC
+FAU - Mills, Kingston H G
+AU  - Mills KH
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20090813
+PL  - United States
+TA  - Immunity
+JT  - Immunity
+JID - 9432918
+RN  - 0 (Antigens, CD3)
+RN  - 0 (Interleukin-17)
+RN  - 0 (Interleukin-1beta)
+RN  - 0 (Interleukin-23)
+RN  - 0 (Interleukins)
+RN  - 0 (Lipopolysaccharides)
+RN  - 0 (Nuclear Receptor Subfamily 1, Group F, Member 3)
+RN  - 0 (Receptors, Antigen, T-Cell, gamma-delta)
+RN  - 0 (Receptors, Interleukin)
+RN  - 0 (Receptors, Interleukin-1)
+RN  - 0 (Receptors, Interleukin-17)
+RN  - 0 (Receptors, Retinoic Acid)
+RN  - 0 (Receptors, Thyroid Hormone)
+RN  - 0 (Rorc protein, mouse)
+RN  - 0 (interleukin-21)
+RN  - 0 (interleukin-22)
+RN  - 0 (interleukin-23 receptor, mouse)
+SB  - IM
+CIN - Immunity. 2009 Aug 21;31(2):181-3. PMID: 19699169
+MH  - Animals
+MH  - Antigens, CD3/immunology/metabolism
+MH  - Autoimmunity
+MH  - Dendritic Cells/drug effects/*immunology/metabolism
+MH  - Encephalomyelitis, Autoimmune, Experimental/*immunology/metabolism
+MH  - Interleukin-17/biosynthesis/*immunology
+MH  - Interleukin-1beta/immunology/metabolism/pharmacology
+MH  - Interleukin-23/immunology/metabolism/pharmacology
+MH  - Interleukins/immunology/metabolism
+MH  - Lipopolysaccharides/immunology
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Mycobacterium tuberculosis/immunology
+MH  - Nuclear Receptor Subfamily 1, Group F, Member 3
+MH  - Receptors, Antigen, T-Cell, gamma-delta/*immunology/metabolism
+MH  - Receptors, Interleukin/immunology/metabolism
+MH  - Receptors, Interleukin-1/genetics/immunology/metabolism
+MH  - Receptors, Interleukin-17/immunology/*metabolism
+MH  - Receptors, Retinoic Acid/immunology/metabolism
+MH  - Receptors, Thyroid Hormone/immunology/metabolism
+MH  - T-Lymphocyte Subsets/drug effects/*immunology/metabolism
+MH  - T-Lymphocytes, Helper-Inducer/drug effects/*immunology/metabolism
+EDAT- 2009/08/18 09:00
+MHDA- 2009/09/26 06:00
+CRDT- 2009/08/18 09:00
+PHST- 2009/02/06 [received]
+PHST- 2009/05/18 [revised]
+PHST- 2009/06/23 [accepted]
+PHST- 2009/08/13 [aheadofprint]
+AID - S1074-7613(09)00327-6 [pii]
+AID - 10.1016/j.immuni.2009.08.001 [doi]
+PST - ppublish
+SO  - Immunity. 2009 Aug 21;31(2):331-41. Epub 2009 Aug 13.
+
+PMID- 19544308
+OWN - NLM
+STAT- MEDLINE
+DA  - 20090714
+DCOM- 20090918
+LR  - 20091119
+IS  - 1521-4141 (Electronic)
+IS  - 0014-2980 (Linking)
+VI  - 39
+IP  - 7
+DP  - 2009 Jul
+TI  - A Th17-like developmental process leads to CD8(+) Tc17 cells with reduced
+      cytotoxic activity.
+PG  - 1716-25
+AB  - Activation of naive CD8(+) T cells with antigen in the absence of skewing
+      cytokines triggers their differentiation into effector CTL, which induces
+      death of target cells. We show that CD8(+) T cells activated in the
+      presence of the cytokines IL-6 or IL-21 plus TGF-beta similar to CD4(+) T
+      cells, develop into IL-17-producing (Tc17) cells. These cells display
+      greatly suppressed cytotoxic function along with low levels of the CTL
+      markers: T-box transcription factor Eomesodermin, granzyme B and
+      IFN-gamma. Instead, these cells express hallmark molecules of Th17 program
+      including retinoic acid receptor-related orphan receptor (ROR)gammat,
+      RORalpha, IL-21 and IL-23R. The expression of the type 17 master regulator
+      RORgammat is causally linked to Tc17 generation, because its
+      overexpression stimulates production of IL-17 in the presence of IL-6 or
+      IL-21. Both, upregulation of the type 17 program as well as suppression of
+      CTL differentiation are STAT3 dependent. Furthermore, Tc17 cells producing
+      IL-17 but not granzyme B are also detectable in EAE, a mouse model for
+      multiple sclerosis. Our data point to the existence of mutually exclusive
+      CTL and Tc17 developmental pathways in vitro and in vivo.
+AD  - Institute for Medical Microbiology and Hygiene, University of Marburg,
+      Germany. huberma@med.uni-marburg.de
+FAU - Huber, Magdalena
+AU  - Huber M
+FAU - Heink, Sylvia
+AU  - Heink S
+FAU - Grothe, Henrike
+AU  - Grothe H
+FAU - Guralnik, Anna
+AU  - Guralnik A
+FAU - Reinhard, Katharina
+AU  - Reinhard K
+FAU - Elflein, Karin
+AU  - Elflein K
+FAU - Hunig, Thomas
+AU  - Hunig T
+FAU - Mittrucker, Hans-Willi
+AU  - Mittrucker HW
+FAU - Brustle, Anne
+AU  - Brustle A
+FAU - Kamradt, Thomas
+AU  - Kamradt T
+FAU - Lohoff, Michael
+AU  - Lohoff M
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Germany
+TA  - Eur J Immunol
+JT  - European journal of immunology
+JID - 1273201
+RN  - 0 (Interleukin-17)
+RN  - 0 (Interleukin-6)
+RN  - 0 (Interleukins)
+RN  - 0 (Nuclear Receptor Subfamily 1, Group F, Member 3)
+RN  - 0 (Receptors, Retinoic Acid)
+RN  - 0 (Receptors, Thyroid Hormone)
+RN  - 0 (Rorc protein, mouse)
+RN  - 0 (STAT3 Transcription Factor)
+RN  - 0 (Stat3 protein, mouse)
+RN  - 0 (Transforming Growth Factor beta)
+RN  - 0 (interleukin-21)
+RN  - 147336-22-9 (Green Fluorescent Proteins)
+RN  - 82115-62-6 (Interferon-gamma)
+RN  - EC 3.4.21.- (Granzymes)
+SB  - IM
+MH  - Animals
+MH  - CD8-Positive T-Lymphocytes/cytology/immunology/*metabolism
+MH  - Cell Differentiation/drug effects/genetics/immunology
+MH  - Cell Line, Tumor
+MH  - Cytotoxicity, Immunologic/immunology
+MH  - Encephalomyelitis, Autoimmune, Experimental/genetics/immunology/metabolism
+MH  - Flow Cytometry
+MH  - Gene Expression/drug effects
+MH  - Granzymes/metabolism
+MH  - Green Fluorescent Proteins/genetics/metabolism
+MH  - Immunoblotting
+MH  - Interferon-gamma/metabolism
+MH  - Interleukin-17/*metabolism
+MH  - Interleukin-6/pharmacology
+MH  - Interleukins/pharmacology
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Nuclear Receptor Subfamily 1, Group F, Member 3
+MH  - Receptors, Retinoic Acid/genetics/metabolism
+MH  - Receptors, Thyroid Hormone/genetics/metabolism
+MH  - Reverse Transcriptase Polymerase Chain Reaction
+MH  - STAT3 Transcription Factor/genetics/metabolism
+MH  - T-Lymphocytes, Cytotoxic/cytology/immunology/*metabolism
+MH  - T-Lymphocytes, Helper-Inducer/cytology/immunology/*metabolism
+MH  - Transforming Growth Factor beta/pharmacology
+EDAT- 2009/06/23 09:00
+MHDA- 2009/09/19 06:00
+CRDT- 2009/06/23 09:00
+AID - 10.1002/eji.200939412 [doi]
+PST - ppublish
+SO  - Eur J Immunol. 2009 Jul;39(7):1716-25.
+
+PMID- 19501566
+OWN - NLM
+STAT- MEDLINE
+DA  - 20090701
+DCOM- 20090727
+IS  - 1090-2104 (Electronic)
+IS  - 0006-291X (Linking)
+VI  - 386
+IP  - 1
+DP  - 2009 Aug 14
+TI  - TGF-beta is necessary for induction of IL-23R and Th17 differentiation by
+      IL-6 and IL-23.
+PG  - 105-10
+AB  - TGF-beta and IL-6 induce Th17 differentiation, and IL-23 is required for
+      expansion and maintenance of Th17 cells. Recently, it was shown that IL-6
+      up-regulates IL-23R mRNA in naive CD4+ T cells and therefore IL-6 and
+      IL-23 synergistically promote Th17 differentiation. However, the molecular
+      mechanism whereby IL-6 and IL-23 induce Th17 differentiation and the
+      relevance to TGF-beta remain unknown. Here, we found that IL-6
+      up-regulated IL-23R mRNA expression, and IL-6 and IL-23 synergistically
+      augmented its protein expression. The combination induced Th17
+      differentiation, and TGF-beta1 further enhanced it. IL-6 augmented
+      endogenous TGF-beta1 mRNA expression, whereas the amount of TGF-beta
+      produced was not enough to induce Th17 differentiation by IL-6 alone.
+      However, unexpectedly, the up-regulation of IL-23R and induction of Th17
+      differentiation by IL-6 and IL-23 were almost completely inhibited by
+      anti-TGF-beta. These results suggest that the induction of IL-23R and Th17
+      differentiation by IL-6 and IL-23 is mediated through endogenously
+      produced TGF-beta.
+AD  - Intractable Disease Research Center, Tokyo Medical University, 6-1-1
+      Shinjuku, Shinjuku-ku, Tokyo 160-8402, Japan.
+FAU - Morishima, Noriko
+AU  - Morishima N
+FAU - Mizoguchi, Izuru
+AU  - Mizoguchi I
+FAU - Takeda, Kiyoshi
+AU  - Takeda K
+FAU - Mizuguchi, Junichiro
+AU  - Mizuguchi J
+FAU - Yoshimoto, Takayuki
+AU  - Yoshimoto T
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20090606
+PL  - United States
+TA  - Biochem Biophys Res Commun
+JT  - Biochemical and biophysical research communications
+JID - 0372516
+RN  - 0 (Interleukin-17)
+RN  - 0 (Interleukin-23)
+RN  - 0 (Interleukin-6)
+RN  - 0 (RNA, Messenger)
+RN  - 0 (Receptors, Interleukin)
+RN  - 0 (Transforming Growth Factor beta)
+RN  - 0 (interleukin-23 receptor, mouse)
+SB  - IM
+MH  - Animals
+MH  - *Cell Differentiation
+MH  - Cells, Cultured
+MH  - Interleukin-17/*immunology
+MH  - Interleukin-23/immunology/pharmacology
+MH  - Interleukin-6/immunology/pharmacology
+MH  - Mice
+MH  - Mice, Mutant Strains
+MH  - Protein Biosynthesis
+MH  - RNA, Messenger/biosynthesis
+MH  - Receptors, Interleukin/*biosynthesis
+MH  - T-Lymphocytes, Helper-Inducer/cytology/drug effects/*immunology
+MH  - Transforming Growth Factor beta/*biosynthesis
+EDAT- 2009/06/09 09:00
+MHDA- 2009/07/28 09:00
+CRDT- 2009/06/09 09:00
+PHST- 2009/05/26 [received]
+PHST- 2009/05/30 [accepted]
+PHST- 2009/06/06 [aheadofprint]
+AID - S0006-291X(09)01115-2 [pii]
+AID - 10.1016/j.bbrc.2009.05.140 [doi]
+PST - ppublish
+SO  - Biochem Biophys Res Commun. 2009 Aug 14;386(1):105-10. Epub 2009 Jun 6.
+
+PMID- 19193443
+OWN - NLM
+STAT- MEDLINE
+DA  - 20091103
+DCOM- 20100125
+IS  - 1872-9142 (Electronic)
+IS  - 0161-5890 (Linking)
+VI  - 47
+IP  - 1
+DP  - 2009 Nov
+TI  - Properties and origin of human Th17 cells.
+PG  - 3-7
+AB  - Following the discovery of distinct subsets of CD4+ T-cell effectors,
+      known as type 1 T helper (Th1) and type 2 Th (Th2), which mainly produce
+      interferon (IFN)-gamma or interleukin (IL)-4, respectively, a novel
+      population has been discovered and named as type 17 Th (Th17) because of
+      the its unique ability to produce IL-17A. Murine Th17 cells play a
+      protective role against extracellular bacteria and fungi by inducing an
+      inflammatory response characterized not only by the presence of
+      mononuclear cells but also of neutrophil granulocytes. Murine Th17 cells
+      have been considered as major players in the pathogenesis of murine
+      autoimmune disorders while Th1 cells seemed to have a protective role.
+      However, this concept has recently been challenged by the demonstration
+      that either Th17 or Th1 cells may be pathogenic even in murine models of
+      autoimmune disorders. Th17 cells have also been identified in human blood
+      and inflamed tissues, but they seem to exhibit different features from
+      murine Th17 cells. First, human Th17 are characterized by the surface
+      expression of CCR6 and IL-23R, but also of IL-12Rbeta2 and CD161. Second,
+      human Th17 cells express T-bet in addition to retinoic acid-related orphan
+      receptor (ROR)gammat and can be induced to produce IFN-gamma in addition
+      to IL-17A in the presence of IL-12, thus suggesting a close developmental
+      relationship with Th1 cells. Finally, while murine Th17 originate from a
+      precursor common to Foxp3+ T regulatory (Treg) cells when IL-6 is produced
+      in combination with TGF-beta, human Th17 cells originate from CD161+CD4+
+      precursors, which constitutively express RORgammat and IL-23R, in response
+      to the combined activity of IL-1beta and IL-23. By contrast, TGF-beta does
+      not play a direct role in human Th17 differentiation, but can only favour
+      their expansion by inhibiting T-bet expression and the development of Th1
+      cells.
+AD  - Department of Internal Medicine and Excellence Center DENOTHE, University
+      of Florence, Firenze-50134, Italy. s.romagnani@dmi.unifi.it
+FAU - Romagnani, Sergio
+AU  - Romagnani S
+FAU - Maggi, Enrico
+AU  - Maggi E
+FAU - Liotta, Francesco
+AU  - Liotta F
+FAU - Cosmi, Lorenzo
+AU  - Cosmi L
+FAU - Annunziato, Francesco
+AU  - Annunziato F
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20090203
+PL  - England
+TA  - Mol Immunol
+JT  - Molecular immunology
+JID - 7905289
+RN  - 0 (Cytokines)
+RN  - 0 (Interleukin-17)
+SB  - IM
+MH  - Animals
+MH  - CD4-Positive T-Lymphocytes/immunology
+MH  - Cytokines/biosynthesis
+MH  - Gene Expression Regulation
+MH  - Humans
+MH  - *Interleukin-17
+MH  - Mice
+MH  - T-Lymphocytes, Helper-Inducer/*cytology
+RF  - 35
+EDAT- 2009/02/06 09:00
+MHDA- 2010/01/26 06:00
+CRDT- 2009/02/06 09:00
+PHST- 2008/09/12 [received]
+PHST- 2008/10/08 [revised]
+PHST- 2008/12/24 [accepted]
+PHST- 2009/02/03 [aheadofprint]
+AID - S0161-5890(08)00811-0 [pii]
+AID - 10.1016/j.molimm.2008.12.019 [doi]
+PST - ppublish
+SO  - Mol Immunol. 2009 Nov;47(1):3-7. Epub 2009 Feb 3.
+
+PMID- 18820263
+OWN - NLM
+STAT- MEDLINE
+DA  - 20081024
+DCOM- 20090805
+IS  - 1460-2377 (Electronic)
+IS  - 0953-8178 (Linking)
+VI  - 20
+IP  - 11
+DP  - 2008 Nov
+TI  - The phenotype of human Th17 cells and their precursors, the cytokines that
+      mediate their differentiation and the role of Th17 cells in inflammation.
+PG  - 1361-8
+AB  - T helper 17 (T(h)17) cells represent a new subset of CD4+ effector T cells
+      which have been described in both mice and humans. However, some
+      differences seem to exist between murine and human T(h)17 cells with
+      regard to their features, origin and role in immunopathology. Murine
+      T(h)17 cells share their developmental origin with Foxp3+ Treg cells,
+      indeed naive T-cell precursors can be differentiated to regulatory T
+      (Treg) cells by transforming growth factor-beta (TGF-beta) alone, whereas
+      the contemporaneous presence of TGF-beta and IL-6 gives origin to T(h)17
+      cells. Human T(h)17 cells which consistently express the CC chemokine
+      receptor 6 and the equivalent of the murine NK1.1, CD161, appear to
+      exclusively originate in response to IL-1beta and IL-23 from a small
+      subset of CD161+CD4+ T-cell precursors detectable in the thymus and in
+      umbilical cord blood. These cells constitutively express the
+      T(h)17-driving transcription factor retinoic acid-related orphan receptor
+      (ROR)gamma t and the IL-23R and can also give origin to T(h)1 cells or
+      T(h)2 cells under the appropriate polarizing conditions. By contrast,
+      human CD161-naive T cells only give rise to T(h)1 and T(h)2 cells, but not
+      T(h)17 cells. TGF-beta may not exert a direct critical role in human
+      T(h)17 cell differentiation, but indirectly favours their development by
+      inhibiting the development of T(h)1 cells, which are much more susceptible
+      than T(h)17 cells to its suppressive activity on cell proliferation.
+      Moreover, while murine T(h)17 are pathogenic in some murine models of
+      autoimmunity where T(h)1 cells seem to play a protective role, both T(h)17
+      and T(h)1 certainly contribute to the pathogenesis of human autoimmune and
+      other chronic inflammatory disorders.
+AD  - Center of Excellence for Research, Transfer and High Education on Chronic,
+      Inflammatory, Degenerative and Neoplastic Disorders for the Development of
+      Novel Therapies, University of Florence, Florence, Italy.
+FAU - Annunziato, Francesco
+AU  - Annunziato F
+FAU - Cosmi, Lorenzo
+AU  - Cosmi L
+FAU - Liotta, Francesco
+AU  - Liotta F
+FAU - Maggi, Enrico
+AU  - Maggi E
+FAU - Romagnani, Sergio
+AU  - Romagnani S
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20080926
+PL  - England
+TA  - Int Immunol
+JT  - International immunology
+JID - 8916182
+RN  - 0 (Antigens, Differentiation)
+RN  - 0 (Cytokines)
+RN  - 0 (Interleukin-17)
+SB  - IM
+MH  - Animals
+MH  - Antigens, Differentiation/*metabolism
+MH  - Cell Differentiation/immunology
+MH  - Cell Lineage
+MH  - Cytokines/*metabolism
+MH  - Humans
+MH  - Inflammation/immunology/metabolism/pathology
+MH  - Interleukin-17/*metabolism
+MH  - Job's Syndrome/immunology
+MH  - Mice
+MH  - Species Specificity
+MH  - *T-Lymphocyte Subsets/cytology/metabolism
+MH  - *T-Lymphocytes, Helper-Inducer/cytology/metabolism
+RF  - 66
+EDAT- 2008/09/30 09:00
+MHDA- 2009/08/06 09:00
+CRDT- 2008/09/30 09:00
+PHST- 2008/09/26 [aheadofprint]
+AID - dxn106 [pii]
+AID - 10.1093/intimm/dxn106 [doi]
+PST - ppublish
+SO  - Int Immunol. 2008 Nov;20(11):1361-8. Epub 2008 Sep 26.
+
+PMID- 18684916
+OWN - NLM
+STAT- MEDLINE
+DA  - 20080807
+DCOM- 20081006
+LR  - 20100817
+IS  - 1550-6606 (Electronic)
+IS  - 0022-1767 (Linking)
+VI  - 181
+IP  - 4
+DP  - 2008 Aug 15
+TI  - Retinoic acid increases Foxp3+ regulatory T cells and inhibits development
+      of Th17 cells by enhancing TGF-beta-driven Smad3 signaling and inhibiting
+      IL-6 and IL-23 receptor expression.
+PG  - 2277-84
+AB  - The de novo generation of Foxp3+ regulatory T (Treg) cells in the
+      peripheral immune compartment and the differentiation of Th17 cells both
+      require TGF-beta, and IL-6 and IL-21 are switch factors that drive the
+      development of Th17 cells at the expense of Treg cell generation. The
+      major vitamin A metabolite all-trans retinoic acid (RA) not only enforces
+      the generation of Treg cells but also inhibits the differentiation of Th17
+      cells. Herein we show that RA enhances TGF-beta signaling by increasing
+      the expression and phosphorylation of Smad3, and this results in increased
+      Foxp3 expression even in the presence of IL-6 or IL-21. RA also inhibits
+      the expression of IL-6Ralpha, IRF-4, and IL-23R and thus inhibits Th17
+      development. In vitro, RA significantly promotes Treg cell conversion, but
+      in vivo during the development of experimental autoimmune
+      encephalomyelitis it does not increase the frequency of Treg cells in the
+      face of an ongoing inflammation. However, RA suppresses the disease very
+      efficiently by inhibiting proinflammatory T cell responses, especially
+      pathogenic Th17 responses. These data not only identify the signaling
+      mechanisms by which RA can affect both Treg cell and Th17 differentiation,
+      but they also highlight that in vivo during an autoimmune reaction, RA
+      suppresses autoimmunity mainly by inhibiting the generation of effector
+      Th17 cells.
+AD  - Center for Neurologic Diseases, Brigham and Women's Hospital and Harvard
+      Medical School, Boston, MA 02115, USA.
+FAU - Xiao, Sheng
+AU  - Xiao S
+FAU - Jin, Hulin
+AU  - Jin H
+FAU - Korn, Thomas
+AU  - Korn T
+FAU - Liu, Sue M
+AU  - Liu SM
+FAU - Oukka, Mohamed
+AU  - Oukka M
+FAU - Lim, Bing
+AU  - Lim B
+FAU - Kuchroo, Vijay K
+AU  - Kuchroo VK
+LA  - eng
+GR  - P01 AI039671-070005/AI/NIAID NIH HHS/United States
+GR  - P01 AI073748-01A19002/AI/NIAID NIH HHS/United States
+GR  - P01 NS038037-040001/NS/NINDS NIH HHS/United States
+GR  - R01 AI044880-03/AI/NIAID NIH HHS/United States
+GR  - R01 AI073542-01/AI/NIAID NIH HHS/United States
+GR  - R01 AI073542-02/AI/NIAID NIH HHS/United States
+GR  - R01 AI073542-03/AI/NIAID NIH HHS/United States
+GR  - R01 NS035685-06/NS/NINDS NIH HHS/United States
+GR  - R01 NS045937-01/NS/NINDS NIH HHS/United States
+GR  - R37 AI038310-12/AI/NIAID NIH HHS/United States
+GR  - R37 NS030843-11/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Immunol
+JT  - Journal of immunology (Baltimore, Md. : 1950)
+JID - 2985117R
+RN  - 0 (Forkhead Transcription Factors)
+RN  - 0 (Foxp3 protein, mouse)
+RN  - 0 (Interleukin-17)
+RN  - 0 (Interleukin-6)
+RN  - 0 (Interleukins)
+RN  - 0 (Receptor-CD3 Complex, Antigen, T-Cell)
+RN  - 0 (Receptors, Interleukin)
+RN  - 0 (Receptors, Interleukin-6)
+RN  - 0 (Smad3 Protein)
+RN  - 0 (Smad3 protein, mouse)
+RN  - 0 (Transforming Growth Factor beta)
+RN  - 0 (interleukin-21)
+RN  - 0 (interleukin-23 receptor, mouse)
+RN  - 302-79-4 (Tretinoin)
+SB  - AIM
+SB  - IM
+MH  - Animals
+MH  - Autoimmune Diseases/immunology/metabolism/pathology
+MH  - Cell Differentiation/*immunology
+MH  - Cells, Cultured
+MH  - Female
+MH  - Forkhead Transcription Factors/biosynthesis/genetics
+MH  - Interleukin-17/antagonists & inhibitors/*biosynthesis
+MH  - Interleukin-6/physiology
+MH  - Interleukins/physiology
+MH  - Lymphocyte Count
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Mice, Transgenic
+MH  - Receptor-CD3 Complex, Antigen, T-Cell/physiology
+MH  - Receptors, Interleukin/*antagonists & inhibitors/biosynthesis
+MH  - Receptors, Interleukin-6/*antagonists & inhibitors/biosynthesis
+MH  - Signal Transduction/*immunology
+MH  - Smad3 Protein/*physiology
+MH  - T-Lymphocytes, Helper-Inducer/cytology/*immunology/metabolism
+MH  - Transforming Growth Factor beta/physiology
+MH  - Tretinoin/*physiology
+PMC - PMC2722959
+MID - NIHMS79734
+OID - NLM: NIHMS79734
+OID - NLM: PMC2722959
+EDAT- 2008/08/08 09:00
+MHDA- 2008/10/07 09:00
+CRDT- 2008/08/08 09:00
+AID - 181/4/2277 [pii]
+PST - ppublish
+SO  - J Immunol. 2008 Aug 15;181(4):2277-84.
+
+PMID- 16648837
+OWN - NLM
+STAT- MEDLINE
+DA  - 20060511
+DCOM- 20060608
+LR  - 20081121
+IS  - 1476-4687 (Electronic)
+IS  - 0028-0836 (Linking)
+VI  - 441
+IP  - 7090
+DP  - 2006 May 11
+TI  - Transforming growth factor-beta induces development of the T(H)17 lineage.
+PG  - 231-4
+AB  - A new lineage of effector CD4+ T cells characterized by production of
+      interleukin (IL)-17, the T-helper-17 (T(H)17) lineage, was recently
+      described based on developmental and functional features distinct from
+      those of classical T(H)1 and T(H)2 lineages. Like T(H)1 and T(H)2, T(H)17
+      cells almost certainly evolved to provide adaptive immunity tailored to
+      specific classes of pathogens, such as extracellular bacteria. Aberrant
+      T(H)17 responses have been implicated in a growing list of autoimmune
+      disorders. T(H)17 development has been linked to IL-23, an IL-12 cytokine
+      family member that shares with IL-12 a common subunit, IL-12p40 (ref. 8).
+      The IL-23 and IL-12 receptors also share a subunit, IL-12Rbeta1, that
+      pairs with unique, inducible components, IL-23R and IL-12Rbeta2, to confer
+      receptor responsiveness. Here we identify transforming growth factor-beta
+      (TGF-beta) as a cytokine critical for commitment to T(H)17 development.
+      TGF-beta acts to upregulate IL-23R expression, thereby conferring
+      responsiveness to IL-23. Although dispensable for the development of
+      IL-17-producing T cells in vitro and in vivo, IL-23 is required for host
+      protection against a bacterial pathogen, Citrobacter rodentium. The action
+      of TGF-beta on naive T cells is antagonized by interferon-gamma and IL-4,
+      thus providing a mechanism for divergence of the T(H)1, T(H)2 and T(H)17
+      lineages.
+AD  - Department of Pathology, University of Alabama at Birmingham, Birmingham,
+      Alabama 35294-2170, USA.
+FAU - Mangan, Paul R
+AU  - Mangan PR
+FAU - Harrington, Laurie E
+AU  - Harrington LE
+FAU - O'Quinn, Darrell B
+AU  - O'Quinn DB
+FAU - Helms, Whitney S
+AU  - Helms WS
+FAU - Bullard, Daniel C
+AU  - Bullard DC
+FAU - Elson, Charles O
+AU  - Elson CO
+FAU - Hatton, Robin D
+AU  - Hatton RD
+FAU - Wahl, Sharon M
+AU  - Wahl SM
+FAU - Schoeb, Trenton R
+AU  - Schoeb TR
+FAU - Weaver, Casey T
+AU  - Weaver CT
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+DEP - 20060430
+PL  - England
+TA  - Nature
+JT  - Nature
+JID - 0410462
+RN  - 0 (Forkhead Transcription Factors)
+RN  - 0 (Foxp3 protein, mouse)
+RN  - 0 (Il23a protein, mouse)
+RN  - 0 (Interleukin-17)
+RN  - 0 (Interleukin-23)
+RN  - 0 (Interleukin-23 Subunit p19)
+RN  - 0 (Interleukins)
+RN  - 0 (Receptors, Interleukin)
+RN  - 0 (Transforming Growth Factor beta)
+RN  - 207137-56-2 (Interleukin-4)
+RN  - 82115-62-6 (Interferon-gamma)
+SB  - IM
+CIN - Nature. 2006 May 11;441(7090):166-8. PMID: 16688162
+MH  - Animals
+MH  - Cell Differentiation/drug effects
+MH  - Cell Lineage/*drug effects
+MH  - Forkhead Transcription Factors/genetics/metabolism
+MH  - Interferon-gamma/pharmacology
+MH  - Interleukin-17/genetics/*metabolism/pharmacology
+MH  - Interleukin-23
+MH  - Interleukin-23 Subunit p19
+MH  - Interleukin-4/pharmacology
+MH  - Interleukins/immunology/pharmacology
+MH  - Mice
+MH  - Receptors, Interleukin/metabolism
+MH  - Th1 Cells/*cytology/*drug effects/metabolism
+MH  - Th2 Cells/*cytology/*drug effects/metabolism
+MH  - Transforming Growth Factor
+      beta/deficiency/genetics/metabolism/*pharmacology
+EDAT- 2006/05/02 09:00
+MHDA- 2006/06/09 09:00
+CRDT- 2006/05/02 09:00
+PHST- 2006/03/06 [received]
+PHST- 2006/03/28 [accepted]
+PHST- 2006/04/30 [aheadofprint]
+AID - nature04754 [pii]
+AID - 10.1038/nature04754 [doi]
+PST - ppublish
+SO  - Nature. 2006 May 11;441(7090):231-4. Epub 2006 Apr 30.
+

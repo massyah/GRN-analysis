@@ -1,0 +1,77 @@
+PMID- 19255592
+OWN - NLM
+STAT- MEDLINE
+DA  - 20090402
+DCOM- 20090602
+LR  - 20100922
+IS  - 1748-7838 (Electronic)
+IS  - 1001-0602 (Linking)
+VI  - 19
+IP  - 4
+DP  - 2009 Apr
+TI  - More stories on Th17 cells.
+PG  - 399-411
+AB  - For more than two decades, immunologists have been using the so-called Th1/Th2
+      paradigm to explain most of the phenomena related to adaptive immunity. The
+      Th1/Th2 paradigm implied the existence of two different, mutually regulated,
+      CD4(+) T helper subsets: Th1 cells, driving cell-mediated immune responses
+      involved in tissue damage and fighting infection against intracellular parasites;
+      and Th2 cells that mediate IgE production and are particularly involved in
+      eosinophilic inflammation, allergy and clearance of helminthic infections. A
+      third member of the T helper set, IL-17-producing CD4(+) T cells, now called Th17
+      cells, was recently described as a distinct lineage that does not share
+      developmental pathways with either Th1 or Th2 cells. The Th17 subset has been
+      linked to autoimmune disorders, being able to produce IL-17, IL-17F and IL-21
+      among other inflammatory cytokines. Interestingly, it has been reported that
+      there is not only a cross-regulation among Th1, Th2 and Th17 effector cells but
+      there is also a dichotomy in the generation of Th17 and T regulatory cells.
+      Therefore, Treg and Th17 effector cells arise in a mutually exclusive fashion,
+      depending on whether they are activated in the presence of TGF-beta or TGF-beta
+      plus inflammatory cytokines such as IL-6. This review will address the discovery 
+      of the Th17 cells, and recent progress on their development and regulation.
+AD  - Department of Microbiology, Immunology and Parasitology, Federal University of
+      Sao Paulo - UNIFESP, Sao Paulo, SP, Brazil.
+FAU - Basso, Alexandre S
+AU  - Basso AS
+FAU - Cheroutre, Hilde
+AU  - Cheroutre H
+FAU - Mucida, Daniel
+AU  - Mucida D
+LA  - eng
+GR  - R01 AI050265-06/AI/NIAID NIH HHS/United States
+GR  - R01 AI050265-07/AI/NIAID NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+PL  - China
+TA  - Cell Res
+JT  - Cell research
+JID - 9425763
+RN  - 0 (Interleukin-17)
+RN  - 0 (Interleukin-23)
+RN  - 0 (Interleukin-6)
+RN  - 0 (Transforming Growth Factor beta)
+SB  - IM
+MH  - Down-Regulation
+MH  - Interleukin-17/*metabolism
+MH  - Interleukin-23/metabolism
+MH  - Interleukin-6/metabolism
+MH  - T-Lymphocyte Subsets/immunology
+MH  - T-Lymphocytes, Helper-Inducer/*immunology
+MH  - Th1 Cells/immunology
+MH  - Th2 Cells/immunology
+MH  - Transcription, Genetic
+MH  - Transforming Growth Factor beta/metabolism
+RF  - 134
+PMC - PMC2838708
+MID - NIHMS165618
+OID - NLM: NIHMS165618
+OID - NLM: PMC2838708
+EDAT- 2009/03/04 09:00
+MHDA- 2009/06/03 09:00
+CRDT- 2009/03/04 09:00
+AID - cr200926 [pii]
+AID - 10.1038/cr.2009.26 [doi]
+PST - ppublish
+SO  - Cell Res. 2009 Apr;19(4):399-411.

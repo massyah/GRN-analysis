@@ -1,0 +1,90 @@
+PMID- 18362914
+OWN - NLM
+STAT- MEDLINE
+DA  - 20080502
+DCOM- 20080618
+IS  - 1476-4687 (Electronic)
+IS  - 0028-0836 (Linking)
+VI  - 453
+IP  - 7191
+DP  - 2008 May 1
+TI  - The aryl hydrocarbon receptor links TH17-cell-mediated autoimmunity to
+      environmental toxins.
+PG  - 106-9
+AB  - The aryl hydrocarbon receptor (AHR) is a ligand-dependent transcription factor
+      best known for mediating the toxicity of dioxin. Environmental factors are
+      believed to contribute to the increased prevalence of autoimmune diseases, many
+      of which are due to the activity of T(H)17 T cells, a new helper T-cell subset
+      characterized by the production of the cytokine IL-17. Here we show that in the
+      CD4+ T-cell lineage of mice AHR expression is restricted to the T(H)17 cell
+      subset and its ligation results in the production of the T(H)17 cytokine
+      interleukin (IL)-22. AHR is also expressed in human T(H)17 cells. Activation of
+      AHR by a high-affinity ligand during T(H)17 cell development markedly increases
+      the proportion of T(H)17 T cells and their production of cytokines. CD4+ T cells 
+      from AHR-deficient mice can develop T(H)17 cell responses, but when confronted
+      with AHR ligand fail to produce IL-22 and do not show enhanced T(H)17 cell
+      development. AHR activation during induction of experimental autoimmune
+      encephalomyelitis causes accelerated onset and increased pathology in wild-type
+      mice, but not AHR-deficient mice. AHR ligands may therefore represent co-factors 
+      in the development of autoimmune diseases.
+AD  - Division of Molecular Immunology, MRC National Institute for Medical Research,
+      The Ridgeway, Mill Hill, London NW71AA, UK.
+FAU - Veldhoen, Marc
+AU  - Veldhoen M
+FAU - Hirota, Keiji
+AU  - Hirota K
+FAU - Westendorf, Astrid M
+AU  - Westendorf AM
+FAU - Buer, Jan
+AU  - Buer J
+FAU - Dumoutier, Laure
+AU  - Dumoutier L
+FAU - Renauld, Jean-Christophe
+AU  - Renauld JC
+FAU - Stockinger, Brigitta
+AU  - Stockinger B
+LA  - eng
+GR  - Medical Research Council/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20080323
+PL  - England
+TA  - Nature
+JT  - Nature
+JID - 0410462
+RN  - 0 (Environmental Pollutants)
+RN  - 0 (Hazardous Substances)
+RN  - 0 (Interleukin-17)
+RN  - 0 (Interleukins)
+RN  - 0 (Ligands)
+RN  - 0 (Receptors, Aryl Hydrocarbon)
+RN  - 0 (interleukin-22)
+SB  - IM
+CIN - Nature. 2008 May 1;453(7191):46-7. PMID: 18451850
+MH  - Animals
+MH  - Autoimmunity/*immunology
+MH  - Cell Differentiation
+MH  - Cells, Cultured
+MH  - Encephalomyelitis, Autoimmune, Experimental/chemically induced/immunology
+MH  - *Environmental Exposure
+MH  - Environmental Pollutants/*immunology/toxicity
+MH  - Hazardous Substances/immunology
+MH  - Humans
+MH  - Interleukin-17/*metabolism
+MH  - Interleukins/biosynthesis
+MH  - Ligands
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Receptors, Aryl Hydrocarbon/deficiency/genetics/*metabolism
+MH  - T-Lymphocytes, Helper-Inducer/cytology/*immunology/*metabolism
+MH  - Transduction, Genetic
+EDAT- 2008/03/26 09:00
+MHDA- 2008/06/19 09:00
+CRDT- 2008/03/26 09:00
+PHST- 2007/11/22 [received]
+PHST- 2008/03/04 [accepted]
+PHST- 2008/03/23 [aheadofprint]
+AID - nature06881 [pii]
+AID - 10.1038/nature06881 [doi]
+PST - ppublish
+SO  - Nature. 2008 May 1;453(7191):106-9. Epub 2008 Mar 23.

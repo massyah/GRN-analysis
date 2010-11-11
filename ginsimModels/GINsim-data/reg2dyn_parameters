@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simulationParameters nodeOrder="MEK1 CDK4 p21 CyclinD1 p27 CDK2 CyclinE1 pRB1 ERalpha AKT1 CDK6 MYC IGF1R EGF ERBB1 ERBB2 ERBB3 ERBB2_3 ERBB1_2 ERBB1_3">
+  <parameter name="parameter_1" mode="asynchrone_df" maxdepth="0" maxnodes="0"/>
+</simulationParameters>
