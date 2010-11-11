@@ -3,7 +3,10 @@
 
 """
 Model combining litterature mined results, ginsim output and stable states analysis
-
+TODO:
+_ ease focal value and nxG input, both are redundant
+_ add pos feedback loop for foxp3+ cells
+_ account for model alternatives
 """
 import os,itertools,unicodedata,sys
 
