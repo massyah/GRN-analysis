@@ -48,7 +48,7 @@ def fuse_table(t1,t2,maxThreshold=None):
 				newRows.append(r)
 				newRows_states.add(r[1:])
 				# newRows_states.add(r)
-				# visited_states.add(r[1:])
+				visited_states.add(r[1:])
 			if maxThreshold and len(newRows_states)>=maxThreshold:
 				return None
 	return newRows
@@ -130,7 +130,7 @@ def sstate():
 		# print i,
 		# sys.stdout.flush()
 		# print len(tables),
-		# print map(len,tables)
+		print map(len,tables)
 		i+=1
 
 
@@ -178,8 +178,8 @@ def rebuild_tables(mutations):
 			# allFocalStates.append(tuple(s))
 		reducedNodes.append(rows)
 	tables=copy.copy(reducedNodes)
-	# print "tables built",len(tables)
-	# print map(len,tables)
+	print "tables built",len(tables)
+	print map(len,tables)
 
 def trim_tables(maxThreshold):
 	global tables
@@ -229,5 +229,6 @@ def compute_sstate(mutations={}):
 	trim_tables(5)
 	rebuild_distance_matrix()
 	sstate()
+	print_st_states(tables[0])
 # profilerun('compute_sstate()')
 # compute_sstate()

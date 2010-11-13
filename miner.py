@@ -140,9 +140,11 @@ class Term(object):
 		return self.name==other.name
 
 
-def parse_file():
+def parse_file(aTermFile=None):
+	if aTermFile!=None:
+		termFile=aTermFile
 	lines=open(termFile).readlines()
-	print len(lines)
+	print "#",len(lines),"lines in term file"
 	lastPub=None
 	global allPublications,allTerms,allSentences,allPredicates,uid
 	uid=0
@@ -341,6 +343,7 @@ class Sequestrates(Inactivates):
 
 
 def omg_graph(predicates=None):
+	global ranks
 	if predicates==None:
 		predicates=allPredicates
 	existing_edges=[]
@@ -369,16 +372,16 @@ def omg_graph(predicates=None):
 			existing_edges.append((p.obj,p.subj))
 			f(p.obj,p.subj)
 	#assign rank groups
-	for t in [il_21,il_6,il_27,il_2,tcr,il_23,tgfb]:
+	for t in ranks["sign"]:
 		if t.omg != None:
 			t.omg.rank_group.set(-2)
-	for t in [il21,foxp3prom,il21,il17a,il17f,il21r,ifngprom]:
+	for t in ranks["proms"]:
 		if t.omg != None:
 			t.omg.rank_group.set(-1)
-	for t in [stat1,stat3,stat4,stat5]:
+	for t in ranks["stats"]:
 		if t.omg != None:	
 			t.omg.rank_group.set(0)
-	for t in [il_2r,il_21r,il_23r,il_6r,il_1br]: #for receptors
+	for t in ranks["receptors"]: #for receptors
 		if t.omg != None:
 			t.omg.rank_group.set(-50)
 	omg.layout()

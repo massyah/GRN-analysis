@@ -23,6 +23,11 @@ def get_graphic(srcTerm):
 		srcTerm.omg
 	except:
 		return srcTerm
+	if srcTerm.omg!=None:
+		try:
+			srcTerm.omg.canvas()
+		except CommandError:
+			srcTerm.omg=None
 	if srcTerm.omg==None:
 		srcTerm.omg=canv.make(at=app.windows[1].canvas.graphics.end, new=k.shape, with_properties={k.text: {k.text: srcTerm.name, k.alignment: k.center}, k.draws_shadow: False, k.url: "http://www.google.com/search?q=%s"%(srcTerm.name),})
 		srcTerm.omg.autosizing.set(k.full)

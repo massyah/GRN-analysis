@@ -14,9 +14,10 @@ from IPython.Debugger import Tracer; debug_here = Tracer()
 # inp="../ginSimModels/ErB2_model.ginml"
 
 # inp="../2006_mendoza.ginml"
-inp="../2006_mendoza_variant_without_tbet_ifng.ginml"
+# inp="../2006_mendoza_variant_without_tbet_ifng.ginml"
 
 # inp="../ginSimModels/TCRsig40.ginml"
+inp="../ginSimModels/TCRsignal_noinput.ginml"
 # inp="../ginSimModels/Th_differentiation_full_annotated_model.ginml"
 # inp="../ginSimModels/SP_6cells.ginml"
 # inp="../3_nodes_model_mutants.ginml"

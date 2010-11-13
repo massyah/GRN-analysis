@@ -17,6 +17,7 @@ pubmedIdTopub={}
 nxG=None	
 parse_file()
 
+
 cmd=generate_variable_command("""ifng,ifngr,stat1,socs1,il-4,il-4r,stat6,gata3,t-bet,il-12,il-12r,stat4,il-18,il-18r,irak,ifnb,ifnbr,il21,stat3,tgfb,ahr,
 il-1b, il-12, il-4, il-6, il-5, il-18, il-2, il-21, il-23,il-17,il-23r,il-27
 il-2r,il-6r,il-21r,il-27r
@@ -36,6 +37,13 @@ ibp,irf4,smad4
 
 """)
 exec(compile(cmd,"","exec"))
+
+ranks={
+"sign":[il_21,il_6,il_27,il_2,tcr,il_23,tgfb],
+"stats":[stat1,stat3,stat4,stat5],
+"proms":[il21,foxp3prom,il21,il17a,il17f,il21r,ifngprom],
+"receptors":[il_2r,il_21r,il_23r,il_6r,il_1br]
+}
 
 mine=Publication("My findings","hayssam",2010)
 ra=allTerms["_ra"]

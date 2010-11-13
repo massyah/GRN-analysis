@@ -41,7 +41,7 @@ cmd=generate_variable_command("""ifng,ifngr,stat1,socs1,il-4,il-4r,stat6,gata3,t
 il-1b, il-12, il-4, il-6, il-5, il-18, il-2, il-21, il-23,il-17,il-23r,il-27
 il-2r,il-6r,il-21r,il-27r
 smad3, nfat,foxp3,stat5,jak3,foxp3prom,runx1,socs3,jak,stat1,jak1,jak2
-il17a,il17f,rorgt,il21,il21r,il-1b,il-1br,il22
+il17a,il17f,rorgt,il21,il21r,il-1b,il-1br,il22,il23r
 cd4p,tcr,nfkb,ap1,ets1,ifngprom,rora
 myd88,
 traf6,
@@ -303,7 +303,7 @@ def ginSimNames(n):
 	else:
 		return n
 
-nodePositions={'FOXP3': '<point x="217" y="180"/>', 'Jak2-Jak1': '<point x="115" y="93"/>', 'STAT-3': '<point x="117" y="135"/>', 'IL-17': '<point x="152" y="238"/>', 'IL-6': '<point x="113" y="5"/>', 'ROR-gt': '<point x="117" y="184"/>', 'IL-21': '<point x="6" y="7"/>', 'IL-21R': '<point x="7" y="49"/>', 'Jak1-Jak3': '<point x="10" y="95"/>', 'IL-6R': '<point x="115" y="52"/>', 'TGF-b': '<point x="215" y="6"/>'}
+nodePositions={'FOXP3': '<point x="217" y="180"/>', 'Jak2-Jak1': '<point x="115" y="93"/>', 'STAT-3': '<point x="117" y="135"/>', 'IL-17': '<point x="152" y="238"/>', 'IL-6': '<point x="113" y="5"/>', 'ROR-gt': '<point x="117" y="184"/>', 'IL-21': '<point x="6" y="7"/>', 'IL-21R': '<point x="7" y="49"/>', 'Jak1-Jak3': '<point x="10" y="95"/>', 'IL-6R': '<point x="115" y="52"/>', 'TGF-b': '<point x="215" y="6"/>','il23r':'<point x="100" y="238"'}
 
 edgePositions={}
 
@@ -358,6 +358,9 @@ Activates(rorgt, il_17)
 one_activator(il_17,rorgt)
 
 no_activator(tgfb)
+
+Activates(rorgt,il23r)
+one_activator(il23r,rorgt)
 build_nx_graph(onlyPositive=False)
 
 
@@ -378,5 +381,11 @@ for x in genes:
 tables=ft.compute_sstate(rft,{})
 ft.print_st_states(tables[0])
 
+
+#Prop checking
+tables=ft.compute_sstate(rft,{rorgt.name:[1,1]})
+for state in tables[0]:
+	assert "IL-17" in ft.state_to_dict(state),"RORgt expression is sufficient to induce IL-17"
+	
 #minimal req: 3 steady states, RORgt+,IL17+; Th0; Foxp3+
 #for this, I need positive feedback loops
