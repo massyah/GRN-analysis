@@ -78,15 +78,24 @@ def draw_nx_graph(g):
 	global canv
 	setup_canvas()
 	
-	for e in g.edges_iter():
-		print e
+	for e in g.edges_iter(data=True):
+		#I cannot get access to the data in predicates_with_uid
+		# pred=miner.predicates_with_uid(e[2]["uid"])[0]
+		# print "Adding",e
 		if e[0] not in omg_mappings:
 			omg_mappings[e[0]]=canv.make(at=canv.graphics.end, new=k.shape, with_properties={k.text: {k.text: e[0], k.alignment: k.center}, k.draws_shadow: False, k.url: "http://www.google.com/search?q=%s"%(e[0]),})
 			omg_mappings[e[0]].autosizing.set(k.full)
 		if e[1] not in omg_mappings:
 			omg_mappings[e[1]]=canv.make(at=canv.graphics.end, new=k.shape, with_properties={k.text: {k.text: e[1], k.alignment: k.center}, k.draws_shadow: False, k.url: "http://www.google.com/search?q=%s"%(e[1]),})
 			omg_mappings[e[1]].autosizing.set(k.full)
-		omg_mappings[e[0]].connect(to=omg_mappings[e[1]], with_properties={k.head_type: u'FilledArrow'})
+		#relation type
+		# if type(pred) in [Activates, Binds, Complexes, Phosphorylates, RequiredToActivate, Upregulates]:
+		# 	head_type=u'FilledArrow'
+		# else:
+		# 	head_type=u'NegativeControls'
+		head_type="FilledArrow"
+		omg_mappings[e[0]].connect(to=omg_mappings[e[1]], with_properties={k.head_type: head_type})
+		
 		if e[1].startswith("AND"):
 			omg_mappings[e[1]].text.set("")
 			omg_mappings[e[1]].name.set("Circle")

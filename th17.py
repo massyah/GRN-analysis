@@ -15,7 +15,7 @@ sentencesUid=0
 evidencesUid=0
 pubmedIdTopub={}
 nxG=None	
-parse_file()
+parse_file(termFile)
 
 
 cmd=generate_variable_command("""ifng,ifngr,stat1,socs1,il-4,il-4r,stat6,gata3,t-bet,il-12,il-12r,stat4,il-18,il-18r,irak,ifnb,ifnbr,il21,stat3,tgfb,ahr,

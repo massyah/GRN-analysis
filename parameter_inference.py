@@ -271,36 +271,29 @@ Activates(il_6,jak2_jak1)
 Activates(jak2_jak1,stat3)
 Activates(jak1_jak3,stat3)
 
-
-
-
-
+#assumed focal tables
 no_activator(il_6)
 one_activator(jak2_jak1,il_6)
 no_activator(jak1_jak3)
 
-#we assume that stat3 is only activated when jak1_jak3 and jak2_jak1 are active
-# parse_focal(stat3,u"""
-# Jak1-Jak3	Jak2-Jak1	K
-# 0	0	0
-# 0	1	0 
-# 1	0	0
-# 1	1	1
-# """)
+ranks={
+"sign":[],
+"stats":[],
+"proms":[],
+"receptors":[]
+}
 
-#fitting
-
+omg_graph()
+raw_input("displayed graph")
+#we want to account for
 # print input_xp_results([il_6],[stat3])
 res=u"""
 IL-6	STAT3
 0	0
-1	0
 1	1
-
 """
-e1=Experiment("dummy",[il_6],[stat3],res)
+e1=Experiment("toy test",[il_6],[stat3],res)
 
-#the problem is that we don't know the value of jak1_jak3 in the xp, we have to infer that jak1_jak3 must be active
 build_nx_graph(False)
 
 
@@ -375,25 +368,3 @@ for row in rows_in_agreement:
 		
 print "Rows in agreement with focal"
 print rows_in_agreement_with_focal
-
-
-import fuse_tables as ft
-
-#build the tables and compute the st states
-focalTable,rft={},{}
-for k,v in focalParams.items():
-	focalTable[k]=focalParams[k][0]
-genes=nxG.nodes()
-
-for x in genes:
-	rft[x]=reduce_focal_table(focalTable[x])
-	
-tables=ft.compute_sstate(rft,{})
-ft.print_st_states(tables[0])
-
-
-#Prop checking
-tables=ft.compute_sstate(rft,{il_6.name:[1,1]})
-for state in tables[0]:
-	print ft.state_to_dict(state)
-	assert "STAT3" in ft.state_to_dict(state), "Test"

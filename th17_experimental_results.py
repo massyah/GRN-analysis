@@ -197,6 +197,8 @@ SignalingAxis([il_6,il_6r,jak2_jak1,stat3])
 SignalingAxis([il_21,il_21r,jak1_jak3,stat3])
 
 # Activates(stat3, rorgt) #Should it be cooperative binding instead?
+
+
 Inhibits(foxp3, rorgt,"12.5.1	Only the full-length isoform [of foxp3]... was found to co-precipitate with RORγt and to inhibit its function")
 
 
@@ -289,3 +291,5 @@ IL-23	IL-21	IL-6	TGF-β	IL-17
 1	0	1	3	2
 """
 Experiment("21.4.5",[il_23,il_21,il_6,tgfb],[il_17],res)
+
+build_nx_graph(False)
