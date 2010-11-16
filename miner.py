@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # encoding: utf-8
 import re,copy,os
-import omg_interface as omg
+import omg_interface as omgI
 import pubmed_get as pm
 import AppKit
 import networkx as nx
@@ -9,6 +9,7 @@ import networkx as nx
 from IPython import ColorANSI
 from IPython.genutils import Term
 from Bio import Entrez,Medline
+
 
 tc = ColorANSI.TermColors()
 
@@ -350,21 +351,21 @@ def omg_graph(predicates=None):
 	for p in predicates:
 
 		if type(p) in [Activates]:
-			f=omg.add_activation
+			f=omgI.add_activation
 		elif type(p) in [Upregulates]:
-			f=omg.add_upregulation
+			f=omgI.add_upregulation
 		elif type(p) in [Downregulates,Inhibits,Inactivates,Sequestrates]:
-			f=omg.add_inhibition
+			f=omgI.add_inhibition
 		elif type(p) in [BindsRepress]:
-			f=omg.add_inhibition
+			f=omgI.add_inhibition
 		elif type(p) in [Binds]:
-			f=omg.add_binding
+			f=omgI.add_binding
 		else:
-			f=omg.add_activation
+			f=omgI.add_activation
 			
 
 		if type(p.obj)==list:
-			a=omg.add_and_node(p.obj)
+			a=omgI.add_and_node(p.obj)
 			f(a,p.subj)
 		else:
 			if (p.obj,p.subj) in existing_edges:
@@ -384,7 +385,7 @@ def omg_graph(predicates=None):
 	for t in ranks["receptors"]: #for receptors
 		if t.omg != None:
 			t.omg.rank_group.set(-50)
-	omg.layout()
+	omgI.layout()
 
 def build_nx_graph(onlyPositive=True):
 	global nxG
