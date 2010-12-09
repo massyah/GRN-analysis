@@ -10,7 +10,10 @@
 #t IL-21
 #t IL-23
 #t IL-27
-#t TGF-β, tgf beta, tgfb, TGF-beta,TGFbeta,TGFβ
+#t TGF-β, tgf beta, tgfb, TGF-beta,TGFbeta,TGFβ, transforming growth factor-beta
+#t TGFbeta-1
+#t TGFbeta-2
+#t TGF-beta3
 #t IL-1β, IL-1B
 
 //Receptors
@@ -38,7 +41,7 @@
 //Jaks & STATs
 #t STAT-1,STAT1
 #t STAT-1ß,STAT1 beta,STAT1ß
-#t STAT-3,STAT3
+#t STAT-3,STAT3, signal transducer and activator of transcription 3
 #t STAT-4, STAT4
 #t STAT-5, STAT5
 #t STAT-6,STAT6
@@ -72,8 +75,10 @@
 
 
 //Nuclear receptor transcription factors
-#t ROR-γt,RORγt,rorgt, RORgammat, retinoic acid-related orphan receptor gammat
-#t RORα,RORa
+//This one is only found once, in "interaction of the IL17A gene locus with ROR", should it be RORγt
+#t ROR 
+#t ROR-γt,RORγt,rorgt, RORgammat, retinoic acid-related orphan receptor gammat, ROR gamma, Retinoic acid receptor-related orphan receptor gamma, retinoid acid receptor-related orphan receptor-gammat
+#t RORα,RORa, ROR alpha
 
 #t MyD88
 #t TRAF6
@@ -82,7 +87,10 @@
 #t Jun
 #t Fos
 
-
+//Species
+#t murine, mouse, mice
+#t human
+#t Citrobacter rodentium
 //Inteferons
 
 #t IFN-α, Interferon alpha, ifna, IFNα
@@ -109,16 +117,19 @@
 #t IL-17 secretion,IL-17 induction, IL-17 expression
 #t IL-21 secretion
 #t IL-2 secretion
+#t Th1/Th2
+
 //Trimolecule
 #t IRF-9/STAT1/STAT2
 
 //Cell types
-#t Th1
-#t Th2,Th 2
-#t th17
+#t t cells
+#t Th1, t(h)1
+#t Th2,Th 2, t(h)2
+#t th17, t(h)17, th17 cells
 #t nTregs
 #t iTregs
-#t tregs
+#t tregs, treg, t(reg), Foxp3+ T(reg), CD4+CD25+Foxp3+ regulatory T (T(reg))
 #t wild type,_WT
 #t ahr-deficient,
 #t il2-/-,
@@ -131,13 +142,17 @@
 //Conditions
 #t _EAE
 
+#t effector T helper (Th) cells, cytokine-secreting effector
+
 // CD profiles
-#t CD4+, cd4p
+#t CD4+, cd4p, CD4+ helper T (Th), CD4(+) T cells
+
 #t CD8+
 #t CD4+CD62LHigh
 
-//Equiv to Tregs?
-#t CD4+ CD25+, CD4+CD25+
+//Equiv to Tregs?, 
+#t CD4+ CD25+, CD4+CD25+, CD4+CD25+Foxp3+
+#t foxp3+
 
 #t CD4+ CD25-, CD4+CD25-
 
