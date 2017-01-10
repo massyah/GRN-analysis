@@ -1,2 +1,1 @@
-Hello, this should be my second commit.
-I would like to commit locally these changes.
+Proof of concept for gene regulatory network analysis of Th17 differentiation. Based on the gensim simulator, perform computation of accessible states using static analysis and fast partial matrix multiplication.
